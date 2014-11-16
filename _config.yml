@@ -1,0 +1,9 @@
+name: ""
+description: ""
+
+url: "trentonzero.github.io"
+
+paginate: 10
+
+makrdown: rdiscount
+permalink: pretty
