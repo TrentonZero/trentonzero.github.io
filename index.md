@@ -12,7 +12,3 @@ tagline: What's new in the land of Vanyanan?
 <p class="post-excerpt">{{ post.excerpt | strip_html }}&hellip; (<a href="{{ post.url }}">Read More</a>)</p>
 {% endfor %}
 
-test
-
-
-
