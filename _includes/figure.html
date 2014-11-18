@@ -1,6 +1,20 @@
 <!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+<!-- if align specified, use that alignment, otherwise, use right align. Ditto for width. Assume 30em, but let that be overriden. -->
+<figure style="
+    float:
+	{% if include.align %}
+	    {{include.align}};
+	{% else %}
+	    right;
+	{% endif %}
+    width:
+	{% if include.width  %}
+	    {{ include.width }}
+	{% else %}
+	    30em
+	{% endif %}
+">
 
-<figure  style="float:{{ include.align }};width:30em">
     <a href="{{ include.src }}">
 	<img style="max-width:100%" src="{{ include.src }}" alt="{{ include.caption }}">
     </a>
