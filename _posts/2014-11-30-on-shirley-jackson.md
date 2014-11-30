@@ -1,10 +1,10 @@
 ---
-	layout: post
-	category: Personal 
-	tagline: “Favorite Horror Writer”
-	title: On Shirley Jackson
-	tags: [Shirley Jackson, horror, thriller, fiction, literature]
-	image: /assets/images/hillhouse.jpg
+layout: post
+category: Personal 
+tagline: “Favorite Horror Writer”
+title: On Shirley Jackson
+tags: [Shirley Jackson, horror, thriller, fiction, literature]
+image: /assets/images/hillhouse.jpg
 ---
 {% include JB/setup %}
 
