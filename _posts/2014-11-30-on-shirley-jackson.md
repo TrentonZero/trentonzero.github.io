@@ -13,7 +13,7 @@ Shirley Jackson is rapidly becoming my favorite horror author. Most people will 
 
 <!-- more -->
 
-{% include figure.html src="/assets/images/hillhouse.jpg" caption="The titular character"  %}
+{% include figure.html src="/assets/images/hillhouse.jpg" caption="The titular character of haunting of hill house"  %}
 
 There are at least two schools of thought in horror, and two corresponding types of horror fan. One is waiting (impatiently) for the pending payoff, which they expect to be loud, gross, outrageous and sadistic, and the more so the better. They endure everything else the way a Godzilla fan ignores the first hour and fifteen minutes of an old Godzilla movie. In Godzilla, we all know we are there to see two men in rubber monster suits duke it out, and everything else is there because you can't make a 90-minute film of two men in rubber monster suits fighting. Let's call this the "payoff philosophy."  Maybe there is a better word out there for it. I could also call them the "destination crowd," in the sense that, for them, its the destination, not the journey, that matters. But I'll stick with payoff.  
 
