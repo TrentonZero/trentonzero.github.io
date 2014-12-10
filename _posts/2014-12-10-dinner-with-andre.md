@@ -1,7 +1,7 @@
 ---
     layout: post
     category: Personal 
-    tagline: "Time to get pretentious"
+    tagline: "A movie about nothing"
     title: My Dinner With André
     tags: [great movies, review, dinner with andre, movies, film]
     image: /assets/images/wallace.jpg
@@ -24,7 +24,7 @@ Of course, you know where I'm going with that phrase. There is a famous TV show 
 
 There is a lot in common between Seinfeld and "My Dinner with André." But, "My Dinner with André" is not a comedy.  It has funny moments, but they occur about as often as funny moments occur in any good conversation, and bits of the conversation are, at least on the surface, very serious. 
 
-{% include figure.html src="/assets/images/wallace.jpg"  caption="I do confess I really wanted Wallace to respond to André at least once with 'Inconceivable!'"  %}
+{% include figure.html src="/assets/images/wallace.jpg" width="15em" caption="I do confess I really wanted Wallace to respond to André at least once with 'Inconceivable!'"  %}
 
 You will, depending upon your disposition, quite possibly find the first half of the movie highly infuriating. That's okay. At least, I think it's okay, because that is how I responded. But I am getting ahead of myself. 
 
