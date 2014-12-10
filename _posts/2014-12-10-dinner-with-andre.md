@@ -53,4 +53,6 @@ This movie isn't like that. (Fair statement, few good movies are.) They thought 
 
 I digress. They thought through the two main characters. Wallace is blind to some pretty important stuff going on in his life, but the audience gets a hint if they read between the lines of his introduction at movie start. And André. Well, I am not certain about this, but on viewing two, I picked up on a few things that led me to believe that at least some of André's kookier ideas are exaggerated. Even if I'm wrong, the characters stand up to scrutiny. I don't feel like I am reading past the characters and into the writers. 
 
+There's a lot more I want to say. About the reactions of the wait staff at the restaurant (quiet and subtly done, but priceless), about Wallace's unseen girlfriend and their relationship, about André's apparent thoughts on the world. But this is around 1400 words long. 
 
+Maybe in a second post later, after I have watched it a third time? 
