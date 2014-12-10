@@ -3,7 +3,7 @@
     category: Personal 
     tagline: "by E.R. Eddison"
     title: The Worm Ouroboros
-    tags: [book, review, literature, great%20books, eddison ]
+    tags: [book, review, literature, great_books, eddison ]
     image: /assets/images/worm.jpg
 ---
 {% include JB/setup %}
