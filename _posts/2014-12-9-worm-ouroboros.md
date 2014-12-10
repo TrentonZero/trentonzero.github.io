@@ -16,14 +16,14 @@ I have just finished "The Worm Ouroboros" by E.R. Eddison. Here we have a repres
 <!-- more -->
 
 
-And, it goes on like that for just a hair over 500 dense pages. I won't lie and say that the first <strike>hundred</strike> <strike>two hundred</strike> five hundred pages aren't a bit of a slog. Eddison (writing in 1922) deliberately wrote the novel in pre-seventeenth century prose style. So says the introduction anyway. I believe it. 
+And, it goes on like that for just a hair over 500 dense pages. I won't lie and say that the five hundred pages aren't a bit of a slog. Eddison (writing in 1922) deliberately wrote the novel in pre-seventeenth century prose style. So says the introduction anyway. I believe it. 
 
 {% include figure.html src="/assets/images/worm.jpg" caption="History repeats itself. Get it?"  %}
 
 
 None the less, if you're really observant, you will have already noticed that I gave this a "great books" tag. The prose will be a slog, and that's always a stiff barrier to entry, but this is a book that rewards a reader who lets himself get into it. In fact, I don't think it can be told any other way. Allow me to be pretentious for a moment.
 
-Liswamire will be getting her masters degree in Linguistics (with a focus on TESOL) this coming Friday. [Go congratulate her.](http://amberrollins.com) One of her favorite topics she learned about during her study is called the Sapir-Whorf Hypothesis. It basically states that the syntax and vocabulary of a language <strike>influences</strike> determines how speakers of that language will think about any given topic or problem. 
+Liswamire will be getting her masters degree in Linguistics (with a focus on TESOL) this coming Friday. [Go congratulate her.](http://amberrollins.com) One of her favorite topics she learned about during her study is called the Sapir-Whorf Hypothesis. It basically states that the syntax and vocabulary of a language influences or determines how speakers of that language will think about any given topic or problem. 
 
 Eddison may well be the best writer in a not-so-noble tradition of writers who desperately want to bring us into a time and place and society when, as they say, men were men, women were women, and life was bloody, cruel, and simple. Other luminaries of this sub-genre include Edgar Rice Burroughs (who would have been writing cotemporaneously with Eddison), Robert E. Howard, and the justly derided John Norman (pseudonym of philosophy professor John Lange. I would have used a pseudonym too, if I had written the Gor series). 
 
