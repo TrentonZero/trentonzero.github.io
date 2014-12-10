@@ -24,11 +24,12 @@ Of course, you know where I'm going with that phrase. There is a famous TV show 
 
 There is a lot in common between Seinfeld and "My Dinner with André." But, "My Dinner with André" is not a comedy.  It has funny moments, but they occur about as often as funny moments occur in any good conversation, and bits of the conversation are, at least on the surface, very serious. 
 
-{% include figure.html src="/assets/images/wallace.jpg" width="15em" caption="I do confess I really wanted Wallace to respond to André at least once with 'Inconceivable!'"  %}
 
 You will, depending upon your disposition, quite possibly find the first half of the movie highly infuriating. That's okay. At least, I think it's okay, because that is how I responded. But I am getting ahead of myself. 
 
 Wallace and André meet for dinner and Wallace (played by Wallace Shawn, who you probably know as Vizzini the Sicilian from The Princess Bride) is dreading the meeting. Long story short, he has a hard enough life without dealing with André, who has acquired a reputation for being a little bit, well, weird. He resolves to get through the dinner with polite nothings. "Oh, that's interesting, tell me more." "Oh really? What was that like?" "Wow, how interesting!" That sort of thing. 
+
+{% include figure.html src="/assets/images/wallace.jpg" width="15em" caption="I do confess I really wanted Wallace to respond to André at least once with 'Inconceivable!'"  %}
 
 For this reason, the first half of the meal and the movie consists of André talking almost non-stop. It starts with the story of a bizarre actors' workshop André conducted in Poland. (André is a theatre director.) But it quickly progesses into André describing the finer points of something that straddles something between politics and religion. For forty-five minutes we hear André's interesting but increasingly strange viewpoint as it goes from hipster oddness to kookiness to apocalypse. For forty-five minutes, Wallace maintains his facade of polite conversation tricks that allow him to get through the meeting politily without actually engaging anything André says except in the most cursory form.
 
@@ -50,6 +51,6 @@ One thing I've come to despise lately are movies and books and TV shows and what
 
 This movie isn't like that. (Fair statement, few good movies are.) They thought through André and Wallace. I said there is no twist. I lied, there is one, right at the end. I won't spoil it, though it is beautifully done, and if you are really observant, you will see it coming. Or more likely (and like me)  you will appreciate all the clues you get during the movie that it is coming during your second viewing. 
 
-I digress. They thought through the two main characters. Wallace is blind to some pretty important stuff going on in his life, but the audience gets a hint if they read between the lines of his introduction at movie start. And André. Well, I am not certain about this, but André says a few things that cue us into thinking that, perhaps, some of his kookiness is a performance for Wallace's benefit. 
+I digress. They thought through the two main characters. Wallace is blind to some pretty important stuff going on in his life, but the audience gets a hint if they read between the lines of his introduction at movie start. And André. Well, I am not certain about this, but on viewing two, I picked up on a few things that led me to believe that at least some of André's kookier ideas are exaggerated. Even if I'm wrong, the characters stand up to scrutiny. I don't feel like I am reading past the characters and into the writers. 
 
 
