@@ -4,7 +4,7 @@
     tagline: ""
     title: Merry Elven Christmas
     tags: [quenya, christmas]
-    image: /assets/images/merrychristmas_quenya.tiff
+    image: /assets/images/merrychristmas_quenya.jpg
 ---
 {% include JB/setup %}
 
@@ -12,7 +12,7 @@ Happiness to you from the feast of Christ!
 
 <!-- more -->
 
-{% include figure.html src="/assets/images/merrychristmas_quenya.tiff" caption="Merry Christmas in Quenya"  %}
+{% include figure.html src="/assets/images/merrychristmas_quenya.jpg" caption="Merry Christmas in Quenya"  %}
 
 There are actually two words for Christ in Quenya, believe it or not. 
 
