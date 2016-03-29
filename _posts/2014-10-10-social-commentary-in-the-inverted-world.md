@@ -19,6 +19,8 @@ published: true
 author: 
 ---
 
+{% include JB/setup %}
+
 I spoil plot points. So stop reading if you intend to read [*The Inverted World*](http://www.amazon.com/Inverted-World-Review-Books-Classics/dp/1590172698) by Christopher Priest. 
 
 How do you feel when you read that a work of literature or film is a work of social commentary?  Personally, and I don't think I speak only for myself, this phrase introduces that unique queasy feeling, a sinking suspicion as it were, that the work in question will be boring, pretentious, and juvenile, despite a few shining counter-examples that hold out hope. Consider the career of George Romero. Night of the Living Dead was a great horror movie and worked well as social commentary, largely by forcing into the audiences consciences their own preconceptions. Want a hero? We'll make him a handsome black man. Cool with that? Let's give him a few anti-hero quirks. And let's make one of the major points of conflict in the film a disagreement he has with an unlikable, misanthropic, vaguely racist middle-aged white man. And let's make the unlikable white guy right in the end and imply that, by siding with the film's hero, as we the good audience are supposed to do, we are complicit in the lost lives of nearly every character. Excellent, excellent movie that quietly and, I suspect, laughing all the while, forces the audience to confront themselves. Unfortunately, with each new zombie movie, George Romero makes the commentary louder, more obvious, more ridiculous, and more boring, until by the end of the cycle, the zombies are identified with proletariat revolt and living humanity with the sheltered and pampered rich. Or something equally eye-rolling. 
