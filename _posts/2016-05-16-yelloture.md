@@ -44,7 +44,7 @@ Calemorinna is the main one. She serves Ainofiriano as well. She is also out of 
 
 I think Calemorinna fears Isil and holds her in too much awe now. I should inquire with Orëveriel about it. She will be better acquainted with Isil's mysteries, I suppose, being one of her faithful. Maybe she can tell if Calemorinna's fears are over reaction or greater wisdom. Or if she becomes defensive, maybe I can tell from her reaction. Or maybe I'll get no reaction at all. Are all Isil's faithful so... 
 
-Calemorinna visits every few weeks, and she is optimistic that she can help secure my pardon, or at least there there is pardon to be obscured. I'm not so optimistic.
+Calemorinna visits every few weeks, and she is optimistic that she can help secure my pardon, or at least there there is pardon to be obtained. I'm not so optimistic.
 
 Ainofirano took Savníro. It is expected by everyone he will take Saviel soon. Aranasëa he has struck with affliction. And Vanyanan he has left with despair. 
 
