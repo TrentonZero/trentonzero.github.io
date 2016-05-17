@@ -29,7 +29,7 @@ That was weeks ago, as I said, and in the time since, I have come to think it wa
 
 "Ainofiriano? No. Once, he might have been, but Isil gives me a bigger cage and her followers suit me better. I'm with the moon, Vanyánan, and I think you know it."
 
-Yes, I did, though I try to avoid thinking about it. I am thinking, I'm not so sure Isil gives Orëveriel a larger cell. She offered her creed that prisoners should dress like Lords and free men like prisoners. And I never ever known anyone, of either sex, to dress as extravagantly as Orëveriel. But I didn't mention this to her. A religious argument with one of my few friends was not a good policy.
+Yes, I did, though I try to avoid thinking about it. I am thinking, I'm not so sure Isil gives Orëveriel a larger cell. She offered her creed that prisoners should dress like Lords and free men like prisoners. And I have never ever known anyone, of either sex, to dress as extravagantly as Orëveriel. But I didn't mention this to her. A religious argument with one of my few friends was not a good policy.
 
 "I followed Isil once." 
 
