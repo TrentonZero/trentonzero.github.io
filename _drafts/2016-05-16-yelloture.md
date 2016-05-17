@@ -2,7 +2,7 @@
     layout: post
     category: Personal 
     tagline: "Something wicked this way comes"
-    title: Furfinaro 
+    title: Yelloturë 
     tags: [quenya, allegory]
     image: /assets/images/dungeon.jpg
 ---
