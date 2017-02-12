@@ -24,7 +24,7 @@ Some examples of expository fiction include:
 
 <!-- more --> 
 
-{% include figure.html src="/assets/images/home-gnomes.jpg" caption="Two pages from the children's book Gnomes"  %}
+{% include figure.html src="/assets/images/home-gnomes.jpg" src.big="/assets/images/home-gnomes-big.jpg" caption="Two pages from the children's book Gnomes"  %}
 
 
 Each of these are works of fiction told primarily in an expository style. For example, in "Gnomes," Wil Huygen describes the lives of an imaginary race of six-inch-tall people in a way that would be more fitting in an issue of National Geographic or a book about life on the American frontier. He describes the houses, daily activities, and customs of these imaginary people as if they were real. It is a children's book, made all the more delightful and whimsical by the non-traditional presentation. It combines a child's love of fairy tales with a child's love of nonfiction books that explain the world. This is probably the best known work of expository fiction, and many children books have followed in its footsteps (Dragonology, Goblins of the Labyrinth, Fairies, etc). 

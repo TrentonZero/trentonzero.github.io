@@ -13,9 +13,16 @@
 	{% else %}
 	    30em
 	{% endif %}
+     
 ">
 
-    <a href="{{ include.src }}">
+    <a href="
+      {% if include.src.big %}
+         {{ include.src.big }}
+      {% else %}
+        {{ include.src }}
+      {% endif %}
+       ">
 	<img style="max-width:100%" src="{{ include.src }}" alt="{{ include.caption }}">
     </a>
     <figcaption align="center">
