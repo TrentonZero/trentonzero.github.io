@@ -16,13 +16,11 @@
      
 ">
 
-    <a href="
-      {% if include.src.big %}
-         {{ include.src.big }}
+    <a href="{% if include.srcbig %}
+         {{ include.srcbig }}
       {% else %}
         {{ include.src }}
-      {% endif %}
-       ">
+      {% endif %}">
 	<img style="max-width:100%" src="{{ include.src }}" alt="{{ include.caption }}">
     </a>
     <figcaption align="center">
