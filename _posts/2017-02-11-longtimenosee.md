@@ -46,7 +46,7 @@ Haskell is a language, the only one I know of, that begins from the idea that al
 
 In C, you just put "cout << Hello". In Java, you just put "System.out.println(Hello)". 
 
-Only Haskell says that to show "Hello" on the monitor is an act of evil black magic that a good wizard avoids at all cost, because the only way to ever pull it off, the only way any computer can pull it off, is to summon a hideous demon named "State" directly from the bowels of Hell. C, Java, Perl, like teenagers playing with a Ouija board in a Chic-tract, summon the demon thoughtlessly. Haskell knows that only misery can every ultimately come of it. Cout seems like fun and games, but it always progresses to cin. 
+Only Haskell says that to show "Hello" on the monitor is an act of evil black magic that a good wizard avoids at all cost, because the only way to ever pull it off, the only way any computer can pull it off, is to summon a hideous demon named "State" directly from the bowels of Hell. C, Java, Perl, like teenagers playing with a Ouija board in a Chic-tract, summon the demon thoughtlessly. Haskell knows that only misery can ever ultimately come of it. Cout seems like fun and games, but it always progresses to cin. 
 
 Haskell knows that, at some point, it has to wrestle with this demon. So, when Haskell does so, it surrounds the Unholy State with crucifixes, throws holy water on it, and screams "The power of the IO Monad compels you!" at it over and over again. It's a hard fight, and the demon is kept in his box, but those who did battle with him are forever tainted, and the IO Monad knows, and ensures they can never again touch the pure and faithful. 
 
