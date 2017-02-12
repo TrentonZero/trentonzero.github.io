@@ -15,7 +15,7 @@ I have recently finished reading 'The Royal Game' by Stefan Zweig (also publishe
 <!-- more -->
 
 
-{% include figure.html src="/assets/images/Stefan_Zweig.png" caption="Stefan Zweig" width="10" align="right"  %}
+{% include figure.html src="/assets/images/Stefan_Zweig.png.jpg" caption="Stefan Zweig" width="10" align="right"  %}
 
 I had never heard of Austrian novelist Stefan Zweig, in spite of his popularity (including in the United States) during the 20s and 30s, until I had watched the recent Wes Anderson film 'The Grand Budapest.' It took me three viewings to decide conclusively if I liked the film (I did), but I was puzzled by some elements of it. Most specifically, the significance of the multiple levels of frame story. The story of the 'Grand Budapest' is the story of an art theft as told by an aging hotel proprietor to a novelist, who converts the story to a novel, which is itself being read by a young aspiring writer at a memorial to that novelist. I wasn't sure what to make of this multiple layering of frame story, until I read that this was a common device in Stefan Zweig's novels. This and a few other stylistic decision from the movie made a bit more sense with a little knowledge of Stefan Zweig to grant context. 
 

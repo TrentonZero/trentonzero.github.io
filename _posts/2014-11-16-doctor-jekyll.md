@@ -4,7 +4,7 @@
     tagline: "Stay calm, I'm the Doctor"
     title: Welcome to Jekyll
     tags: [blogging, jekyll, discus, wordpress]
-    image: /assets/images/jekyll.logo.png
+    image: /assets/images/jekyll.logo.png.jpg
 ---
 {% include JB/setup %}
 
@@ -23,7 +23,7 @@ I will go briefly over the merits of each blogging method:
 
 * Custom CMS: I suppose this is where it is when it comes to raw power. Everyone was changeable. Everything was exactly how I <strike>wanted it to be</strike> made it. There are some cases, like custom web applications, where that's what you want. But blogging isn't. Blogging is a well-defined problem that has been solved multiple times. There really isn't a whole lot that justifies the time and effort (and security ramifications) of a custom CMS. 
 
-{% include figure.html src="/assets/images/jekyll.logo.png" caption="Where have you been all my life?" align="right" %}
+{% include figure.html src="/assets/images/jekyll.logo.png.jpg" caption="Where have you been all my life?" align="right" %}
 
 * WordPress: For a long time, I considered WordPress to be the solution par-excellence, and WordPress.com to be a really good free hosting service. Built in community, generous free media hosting, built in SEO. But, a few things rubbed me the wrong way. One, the ads. A few of the ads they chose to show on my page rubbed me the wrong way. What can you do? I mean, it's free, right? And they gotta pay the bills somehow. 
 
