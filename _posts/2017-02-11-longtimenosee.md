@@ -3,7 +3,7 @@
     category: Personal 
     tagline: "The State of Things"
     title: What a Disagreeable Old Man I Have Become
-    tags: [life]
+    tags: [life, haskell, Yelloturë, remodel, Calloléra, Lumna, Calemorrinna, Alassë, Turë, Yara]
     image: /assets/images/jed.jpg
 ---
 {% include JB/setup %}
