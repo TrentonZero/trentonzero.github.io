@@ -18,5 +18,5 @@ But before we get into that, what is a tabletop, pen-and-paper, role-playing gam
 {% include figure.html src="/assets/images/fiasco.jpg" caption="Fiasco is one of the most popular entry level story games. Most games of Fiasco end with everyone dead or in prison. It is a blast."  %}
 
 
-
+blah
 
