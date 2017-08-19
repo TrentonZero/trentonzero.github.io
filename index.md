@@ -12,7 +12,7 @@ tagline: What's new in the land of Vanyanan?
 <p>
 
 {% if post.image %}
-<img style="width:10em;float:left;margin-right:1em;margin-bottom:1em" src="{{ post.image }}"/>
+<img style="width:10em;float:left;margin-right:1em;margin-bottom:1em;{{post.customimagestyle}}" src="{{ post.image }}"/>
 {% endif %}
 
 </p>
