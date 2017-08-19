@@ -8,7 +8,7 @@
     customimagestyle: "box-shadow:0 0 0"
 ---
 {% include JB/setup %}
-f
+
 The weekend is here and I am anxious to go and organize all my system configurations using GNU Stow.
 
 Incidentally, anyone else had that moment where you realized that you had a problem, and wondered what you could contrive to solve it. Then figured out that the GNU project solved this problem almost twenty years ago? That the solution is free and, truth be told, works pretty well? Yeah, that's me right now. That's me a lot actually.
