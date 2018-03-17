@@ -37,8 +37,6 @@ There is a shocking level of agreement in the pages of Mother Jones magazine, th
 
 Calemorinna is probably right. Her response to all of this is "Go back to the Old Testament. Nothing is new. The thing that all the modern philosophers get wrong is thinking there is something special and different about modernity."
 
-I put words in her mouth, but that is how I understand her. And the odd thing is...I haven't gone back to the Old Testament. And I think its for the same reason I'm convinced that λCMB is wrong and some version of MOND is right. The same reason I'm irrationally convinced somewhere deep down that the day is coming when I have to pay the piper for all my good fortune, because it's just not fair that I get a six-figure salary for doing my damn hobby.
-
-When I was living on mimimum wage, I was a techno-utopian. Now that I'm a successful technologist, I'm a pessimist that still believes all the core tenets of techno-utopianism.
+I put words in her mouth, but that is how I understand her. And the odd thing is...I haven't gone back to the Old Testament. The same reason I'm irrationally convinced somewhere deep down that the day is coming when I have to pay the piper for all my good fortune, because it's just not fair that I get a six-figure salary for doing my damn hobby. When I was living on mimimum wage, I was a techno-utopian. Now that I'm a successful technologist, I'm a pessimist that still believes all the core tenets of techno-utopianism.
 
 Maybe Calemorinna is right and I should just go back to being a Christian. 
