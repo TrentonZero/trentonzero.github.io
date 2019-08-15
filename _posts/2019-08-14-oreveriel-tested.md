@@ -16,6 +16,8 @@ I was halfway to work when Orëveriel appeared in the car. She was, once again, 
  
 <!-- more -->
 
+{% include figure.html src="/assets/images/forest.jpg" caption=""  %}
+
 "That sounds great, but I'm on my way to work." 
  
 "And you have oodles of vacation time. Hiking."
