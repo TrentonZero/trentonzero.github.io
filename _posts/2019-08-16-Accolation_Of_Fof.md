@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Personal
-tagline: "The Accolation of Fôf"
+tagline: "The Accolation of Fof"
 title: The Coming of Calemorinna: Part 1
 tags: 
 - myth
