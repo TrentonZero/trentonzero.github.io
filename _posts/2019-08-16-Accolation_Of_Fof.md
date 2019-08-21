@@ -6,7 +6,7 @@ title: The Coming of Calemorinna: Part 1
 tags: 
 - myth
 - allegory
-- Fôf
+- Fof
 - Kanda
 - Calemorinna
 - Vanyanan
