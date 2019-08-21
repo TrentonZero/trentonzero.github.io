@@ -2,7 +2,7 @@
 layout: post
 category: Personal
 tagline: "The Accolation of Fof"
-title: The Coming of Calemorinna: Part 1
+title: "The Coming of Calemorinna: Part 1"
 tags: [ myth, allegory, Fof, Kanda, Calemorinna, Vanyanan]
 ---
 {% include JB/setup %}
