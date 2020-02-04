@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Personal
+category: Myth 
 tagline: "The Accolation of Fof"
 title: "The Coming of Calemorinna: Part 1"
 tags: [ myth, allegory, Fof, Kanda, Calemorinna, Vanyanan]

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Personal
+category: Myth
 tagline: ""
 title: The Untold Myth
 tags: 

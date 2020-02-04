@@ -1,6 +1,6 @@
 ---                                                 
     layout: post                                    
-    category: Personal                              
+    category: Myth                              
     tagline: "A History of the World"
     title: The Beginning                               
     tags: [allegory, vanyanan]   

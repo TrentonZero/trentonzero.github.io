@@ -1,6 +1,6 @@
 ---                                                 
     layout: post                                    
-    category: Personal                              
+    category: Myth                              
     tagline: "The end"
     title: An Apocalypse                               
     tags: [allegory, vanyanan]   

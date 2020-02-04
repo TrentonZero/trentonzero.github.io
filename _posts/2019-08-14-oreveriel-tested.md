@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Personal
+category: Myth 
 tagline: "In which Vanyanan Sees The Goat Man"
 title:  "Orëveriel Tested"
 image: /assets/images/forest.jpg

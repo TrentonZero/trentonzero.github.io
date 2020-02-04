@@ -1,6 +1,6 @@
 ---
     layout: post
-    category: Personal
+    category: Myth 
     tagline: ""
     title: A Walk With Oréveriel
 

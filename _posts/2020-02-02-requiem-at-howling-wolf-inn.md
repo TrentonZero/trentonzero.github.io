@@ -1,6 +1,6 @@
 ---                                                 
     layout: post                                    
-    category: Personal                              
+    category: Myth                             
     tagline: ""
     title: Requiem at the Howling Wolf Inn  
     tags: [myth, allegory, untold myth, oreveriel, calemorrina]   

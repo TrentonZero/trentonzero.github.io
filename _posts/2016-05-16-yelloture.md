@@ -1,6 +1,6 @@
 ---
     layout: post
-    category: Personal 
+    category: Myth 
     tagline: "Something wicked this way comes"
     title: Yelloturë 
     tags: [quenya, allegory]

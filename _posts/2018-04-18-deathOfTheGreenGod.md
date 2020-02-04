@@ -1,6 +1,6 @@
 ---                                                 
     layout: post                                    
-    category: Personal                              
+    category: Myth                              
     tagline: "The Rise of the Red God"
     title: The Death of the Green God                               
     tags: [allegory, myth]   
