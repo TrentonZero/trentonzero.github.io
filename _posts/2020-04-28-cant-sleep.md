@@ -5,7 +5,7 @@ category: personal
 tags:
   - movies
   - rambling
-title: Can''t Sleep
+title: Can't Sleep
 ---
 I can't sleep, and I keep complaining that people don't blog anymore. So, instead of jotting something away on FB, I will blog the way I used to blog, when I felt free to ramble and start a post without the slightest idea where it would end up. 
 
@@ -45,11 +45,3 @@ Still, I like the book.
 
 
 ### Signing off
-
-
-
-
-
-
-
-
