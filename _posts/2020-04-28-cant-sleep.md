@@ -21,7 +21,7 @@ Layoffs. There were layoffs today. I still have a job, but dozens of people at m
 
 _There Will Be Blood_. I need to write a proper blog entry on that movie, but here's a thought that occurred to me on my most recent viewing (spoiler): it is the wrong reading of the movie to think that Daniel does not feel real affection for HW. There is too much evidence to the contrary. But at the end, when he declares HW his enemy and tells him he was only a tool in his con, there is a line that Daniel mutters under his breath: "You're making such a misstep." 
 
-HW was going to Mexico to start his own oil company, and in the real world, Mexico would seize all the oil wells and nationalize them within 10 years of these events. 
+HW was going to Mexico to start his own oil company, and in the real world, Mexico would seize all the oil wells and nationalize them within 10 years of these events. Daniel's hatred, the whole bit about "You have none of me in you" has another meaning: HW is going to fail, horribly, and Daniel is disgusted by it. 
 
 ### Manhattan Half Life
 
