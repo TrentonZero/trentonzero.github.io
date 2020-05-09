@@ -44,25 +44,21 @@ Let's define some terms:
 * *Busy-work* is done to escape ennui and boredom
 * *Vocation* is done to the fulfillment of an innate purpose
 
-With terms defined, lets make some assertions:
+With terms defined, let's make some assertions:
 
 * Alfred is correct to identify toil as a negative, to be minimized where possible.
+* However, toil is the only *unselfish* form of work. All other forms of work are done for the benefit of the worker primarily. Toil alone is primarily an act of service (even if only service to our future selves). 
 * Alfred and Rachael are correct that Tony's focus on status often (very often) leads him to abuse the others. After all, if all Tony's efforts are to signal that he is a winner, that can only happen if the others are losers.
 * Alfred has made a tragic error: generally, you will find Alfred, the most adverse to toil, toiling the most in his day job compared to the others. 
 * Tony is correct to recognize that all the toil, busy-work, and vocations in the world are useless if no one finds the output worthy of even paying for it. It is really true that Tony's schemes, cunning, and efforts to come out on top transform an incoherent mix of all types of work into goods and services that enrich humanity and that left to their own devices, everyone else would revert to the Stone Age in a generation.
 * Rachael has by a gift of birth struck upon an almost Edenic ideal of work.
 * It is impossible in a world with scarcity for everyone to be Rachaels.
 * Even were it possible, Rachael's hope is wrong: we are not all Rachaels. Given all the leisure in the world, Tony must have his place in his hierarchy, and if there isn't one, he will make one. Alfred will at best dedicate himself to domestic cultivation and at worst to indolence and alcohol. Martha will kill herself without something to distract her from the void in her soul. 
-* Martha alone is without redeeming virtue. She, more than any other, enables the worst attributes of all the others. She covers for Alfred's laziness. She is the soulless clerk who enacts the detailed execution of Tony's ammoral or immoral schemes. She takes on willingly all the parts of Rachael's job that don't fit into Rachael's idea of her own vocation. She feels put upon and she's right. 
+* Martha alone is without redeeming virtue. She, more than any other, enables the worst attributes of all the others. She covers for Alfred's laziness. She is the soulless clerk who enacts the detailed execution of Tony's most ammoral or immoral schemes. She takes on willingly all the parts of Rachael's job that don't fit into Rachael's idea of her own vocation. She feels put upon and she's right.
 
 
-## The Job
+What is the proper role of work in life?
 
-How does the idea of a "job" fit into this? 
+Toil, hustle, and vocation all have their proper place.
 
-
-
-
-
-
-
+Busy-work, however, serves to corrupt all the other forms of work. A preference for busy-work, alone among the attitudes towards work, indicates a malformed soul in need of help. 
