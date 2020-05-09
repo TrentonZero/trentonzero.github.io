@@ -13,7 +13,7 @@ What is the role of work in life?
 
 Let's start by describing some people, and of course these imaginary people are exaggerations on themes. You will find these types in every job, but in different ratios. You will find any profession with substantial bonuses and commissions dominated by Tonys and every entry-level job by Alfreds. Whereever salaries are paid, you will find Martha and Rachael together.
 
-<!--more-->
+<!-- more -->
 
 ### Alfred The Card Puncher 
 
@@ -64,4 +64,4 @@ What is the proper role of work in life?
 
 Toil, hustle, and vocation all have their proper place.
 
-Busy-work, however, serves to corrupt all the other forms of work. A preference for busy-work, alone among the attitudes towards work, indicates a malformed soul in need of help. 
+Busy-work, however, serves to corrupt all the other forms of work. A preference for busy-work, alone among the attitudes towards work, indicates a malformed soul in need of help.
