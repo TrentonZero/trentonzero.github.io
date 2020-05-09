@@ -13,6 +13,8 @@ What is the role of work in life?
 
 Let's start by describing some people, and of course these imaginary people are exaggerations on themes. You will find these types in every job, but in different ratios. You will find any profession with substantial bonuses and commissions dominated by Tonys and every entry-level job by Alfreds. Whereever salaries are paid, you will find Martha and Rachael together.
 
+<!--more-->
+
 ### Alfred The Card Puncher 
 
 > Alfred sees work entirely as a means to an end. Life really consists of his family, his time fishing by the lake, and his friends at the bar. He works hard, but leaves work entirely behind when he goes home for the day.  If he is laid off, for Alfred, the only concern is to find a replacement income. If he wins the lottery, he dreams of the day when he can cease work and spend all his time with family, fishing, and at the bar. If he is a Republican, it is because he sees the Democrats as condescending nannies, and if he is a Democrat, it is because he sees the Republicans as on the side of his employers. To Alfred, Tony is a crook, Rachael is incomprehensible. He likes Martha a lot, but thinks she "just works too damned much." Indeed, to Alfred, Martha is the only other one who actually does work. Tony "steals" and Rachael "plays".
