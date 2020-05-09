@@ -7,7 +7,6 @@ tags:
   - work
   - philosophy
 ---
-# The Role of Work
 
 What is the role of work in life? 
 
