@@ -5,6 +5,7 @@ category: personal
 title: Role Of Work
 tags:
   - work
+  - philosophy
 ---
 # The Role of Work
 
