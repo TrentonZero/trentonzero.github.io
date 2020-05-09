@@ -25,7 +25,7 @@ Let's start by describing some people, and of course these imaginary people are 
 
 ### Martha the Workaholic
 
-> Martha lives for her work. For Martha, work fills a void. Whatever else she has in her life, she prefers her work to it. She may have a family, a church, pets, but if she has a hobby, it is only because she is waged and therefore has statuatory limits to how much work she can do in a week.  If she is a Democrat, it is because the Marxist slogan "From each according to their ability, to each according to their needs" so adaquately describes her life that it does not occur to her that anyone could disagree with it. If she is a Republican, it is because she thinks everyone else is shiftless and lazy. She respects Tony and Rachael, but that feeling is not at all mutual.
+> Martha lives for her work. For Martha, work fills a void. Whatever else she has in her life, she prefers her work to it. She may have a family, a church, pets, but if she has a hobby, it is only because she is waged and therefore has statuatory limits to how much work she can do in a week.  If she is a Democrat, it is because the Marxist slogan "From each according to their ability, to each according to their needs" so adaquately describes her life that it does not occur to her that anyone could disagree with it. If she is a Republican, it is because she thinks everyone else is shiftless and lazy. She respects Tony and Rachael, but that feeling is not at all mutual. Like Tony, she finds Alfred disgustingly lazy.
 
 ### Rachael the Professional
 
