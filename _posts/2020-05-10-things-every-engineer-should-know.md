@@ -75,7 +75,14 @@ title: 250 Things Every Software Engineer Should Know
 66. why you never run a cron job every five minutes in a distributed system
 67. that the user doesn't know what he wants
 68. how to tell what the user actually wants
-69. 
-
+69. what your boss really wants
+70. the cost of your program crashing
+71. what a new user sees when he starts your program
+72. what your grandmother sees
+73. how to explain why a feature is difficult or impossible in words an MBA can understand
+74. in words your grandmother can understand
+75. in words an arrogant junior engineer can understand
+76. what each of these people really wants when they ask for the impossible feature
+77. 
 
 ( This was inspired by ["Two Hundred and Fifty Things an Architect Should Know" by Michael Sorkin](https://www.readingdesign.org/250-things?fbclid=IwAR1QkzCBRB1X2k45QTrJGI1otGGyg8MXYQfZUSlosF2L_ejTuRyqbeGNrzE) )
