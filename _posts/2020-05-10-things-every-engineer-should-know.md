@@ -90,8 +90,54 @@ title: 250 Things Every Software Engineer Should Know
 81. the business model of a successful open source product
 82. what marginal cost says about software as a business
 83. what marginal cost says about open source software
-84. why most of the highest quality software in the world costs $50-$200.
+84. why most of the highest quality software in the world costs $50-$200 per license.
 85. why the lowest quality software in the world costs $1,000-$100,000 per license.
+86. when to ask for help
+87. when to add a third party dependency
+88. when to roll your own
+89. when to ignore the contractor
+90. and when to defer to her
+91. grep
+92. grep -v
+93. what Chesterton's fence says about legacy code
+94. Be fluent in a dynamically typed language
+95. ...a statically typed language
+96. ...an object oriented language
+97. ...a functional language
+98. ...a scripting language
+99. C
+100. LISP macros
+101. how to implement a hobby language of each of these types in C
+102. what it feels like to return to bad code after 6 months away
+103. what the web is like at 56k
+104. what the web is like on a screen reader
+105. why regex cannot model XML
+106. Each type of SQL join
+107. its performance
+108. its treatment of missing data
+109. that Object-Relational mapping is impossible
+110. That sometimes impossible things are worth almost doing
+111. Nothing is easy
+112. You need sleep to live
+113. Your skills are probably worth more than you think
+114. That engineers are taken out and shot at 40
+115. How and when to optimize for CPU cycles
+116. How and when to optimize for memory
+117. How and when to optimize for latency
+118. That usually it's best not to optimize at all
+119. How to optimize for free time
+120. How to optimize for family
+121. How to optimize for low bug counts
+122. How to ask for a raise
+123. How and why to avoid a bad software team
+124. You need exercise to live
+125. That you will desperately want a non-computer hobby by your mid-30s.
+126. All that stuff about good computer posture applies to you. 
+127. The Gang of Four Design Patterns
+128. 
+
+
+
 
 
 
