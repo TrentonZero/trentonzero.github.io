@@ -62,9 +62,20 @@ title: 250 Things Every Software Engineer Should Know
 53. How to sort a binary tree
 54. What features allow NoSQL databases to scale horizontally better than SQL databases
 55. What features do NoSQL databases sacrifice from SQL databases
-56. What are ACIDs and BASEs?
+56. ACID vs BASE
+57. How deadlocks happen
+58. What Turing Completeness proves
+59. What it doesn't prove
+60. Dependency injection
+61. The two general's problem
+62. How much latency feels instantaneous
+63. how much latency feels fast
+64. slow
+65. how much latency before the user gives up
+66. why you never run a cron job every five minutes in a distributed system
+67. that the user doesn't know what he wants
+68. what to tell what the user actually wants
 
 
 
 ( This was inspired by ["Two Hundred and Fifty Things an Architect Should Know" by Michael Sorkin](https://www.readingdesign.org/250-things?fbclid=IwAR1QkzCBRB1X2k45QTrJGI1otGGyg8MXYQfZUSlosF2L_ejTuRyqbeGNrzE) )
-
