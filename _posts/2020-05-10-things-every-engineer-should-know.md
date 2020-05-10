@@ -15,6 +15,7 @@ title: 150 Things Every Software Engineer Should Know
 
 <!-- more -->
 
+{:start="6"}
 6. [1..100].map(addOne)
 7. [1..100].reduce(sum)
 8. Why you can't string append in a loop 
