@@ -88,7 +88,11 @@ title: 250 Things Every Software Engineer Should Know
 79. why hardware manufacturers invest billions in open source
 80. how Bill Gates made his billions
 81. the business model of a successful open source product
-82. marginal costs
+82. what marginal cost says about software as a business
+83. what marginal cost says about open source software
+84. why most of the highest quality software in the world costs $50-$200.
+85. why the lowest quality software in the world costs $1,000-$100,000 per license.
+
 
 
 
