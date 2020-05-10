@@ -4,7 +4,7 @@ layout: post
 category: personal
 tags:
   - programming
-title: 250 Things Every Software Engineer Should Know
+title: 150 Things Every Software Engineer Should Know
 ---
 
 1. 0(n log n)
@@ -134,9 +134,30 @@ title: 250 Things Every Software Engineer Should Know
 125. That you will desperately want a non-computer hobby by your mid-30s.
 126. All that stuff about good computer posture applies to you. 
 127. The Gang of Four Design Patterns
-128. 
-
-
+128. The Unix Philosophy
+129. Why engineers still use tools written the Unix way decades later
+130. Why everything for end-users written the Unix way is dead and bankrupt.
+131. What you sound like as a bright young engineer to the old timers
+132. What the old timers sound like to a bright young engineer.
+133. Why it seems like marketing never does any work
+134. Why your blue-collar cousin thinks you don't do any work
+135. Why so many engineers hate Java
+136. Why so many businesses use Java
+137. What an architecture astronaut is
+138. What a network effect is
+139. Commodification
+140. Promises
+141. How to search a 100kb file for a string?
+142. A 2 terabyte file
+143. In ISO-8859-1
+144. How to ensure only one copy of your program is running
+145. Why email isn't secure
+146. The implications of the major open source licenses for commercial software development
+147. What a Heisenbug is
+148. How to debug it
+149. How to avoid it
+150. What a race condition is 
+and what it looks like in code.
 
 
 
