@@ -74,8 +74,8 @@ title: 250 Things Every Software Engineer Should Know
 65. how much latency before the user gives up
 66. why you never run a cron job every five minutes in a distributed system
 67. that the user doesn't know what he wants
-68. what to tell what the user actually wants
-
+68. how to tell what the user actually wants
+69. 
 
 
 ( This was inspired by ["Two Hundred and Fifty Things an Architect Should Know" by Michael Sorkin](https://www.readingdesign.org/250-things?fbclid=IwAR1QkzCBRB1X2k45QTrJGI1otGGyg8MXYQfZUSlosF2L_ejTuRyqbeGNrzE) )
