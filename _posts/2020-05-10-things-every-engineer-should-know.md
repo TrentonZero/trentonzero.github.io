@@ -12,6 +12,9 @@ title: 150 Things Every Software Engineer Should Know
 3. When to use a hashmap
 4. When to use an array
 5. When *not* to use an array
+
+<!-- more -->
+
 6. [1..100].map(addOne)
 7. [1..100].reduce(sum)
 8. Why you can't string append in a loop 
