@@ -164,6 +164,7 @@ title: 150 Things Every Software Engineer Should Know
 and what it looks like in code.
 
 
+* A bonus one: That much intelligent behavior can be emulated with a heuristic that simply maximizes the number of available actions next tick.
 
 
 
