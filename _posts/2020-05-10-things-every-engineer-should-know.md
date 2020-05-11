@@ -71,7 +71,7 @@ title: 150 Things Every Software Engineer Should Know
 58. What Turing Completeness proves
 59. What it doesn't prove
 60. Dependency injection
-61. The two general's problem
+61. The two generals problem
 62. How much latency feels instantaneous
 63. how much latency feels fast
 64. slow
