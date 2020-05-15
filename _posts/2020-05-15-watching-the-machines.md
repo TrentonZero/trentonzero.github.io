@@ -17,7 +17,7 @@ There's a bit from the Walker Percy novel "Lancelot" where he praises the kind o
 
 And then relaxed and watched in idle, bemused interest as the machines worked and the money poured into his pockets.  There is a lot of the pleasure of programming right there. Even the money part, if you take the entrepreneurial road, but not just the money part. Some of it is just the pure and simple pleasure of constructing an abstract edifice from pure thought-stuff, and then watching as electrons dance at the speed of light around its contours to do your calculus homework. Or simulate heroic deeds. Or, for that matter, a beautiful woman's admiration. 
 
-That's heady stuff. No wonder so many of us got hooked on it. More and more of us, from the later GenXers on, descending the socioeconomic ladder as computers became more affordable. 
+That's heady stuff. No wonder so many of us got hooked on it. More and more of us, from the later GenXers on, descending the socioeconomic ladder as computers became more affordable. Did you know that programming was once a female dominated profession? It's true, and remained true right up until the first teenagers who had grown up with computers started entering the workforce. 
 
 My first taste was the QBASIC Gorillas game, which you run by running the source code. Two pixelated, cartoon monkeys throwing explosive bananas at each other on a city sky-line. It didn't take me long to realize that I could tweak the code to make the bananas blow up, not the other gorilla, but the entire city. 
 
