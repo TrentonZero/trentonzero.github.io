@@ -2,7 +2,7 @@
 published: false
 title: What Motivates You?
 ---
-We were sitting talking with a family friend a few weeks ago when the topic of the conversation turned to the source of our motivation. Everyone else had an answer, but I didn't have one ready at hand. 
+We were sitting talking with a family friend a few weeks ago when the topic of the conversation turned to the source of our motivation. Everyone else had an answer, but I didn't have one ready at hand.  test
 
 <!-- more --> 
 
