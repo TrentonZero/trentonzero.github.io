@@ -4,6 +4,7 @@ layout: post
 category: personal
 tags:
   - programming
+title: Letter from a Dev Dinosaur
 ---
 Dear Hipster Coders,
 
