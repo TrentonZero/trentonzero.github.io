@@ -5,8 +5,6 @@ category: personal
 tags:
   - programming
 ---
-## Letter from a Dev Dinosaur
-
 Dear Hipster Coders,
 
 <br/>
