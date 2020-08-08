@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+category: personal
+tags:
+  - programming
 ---
 ## Letter from a Dev Dinosaur
 
