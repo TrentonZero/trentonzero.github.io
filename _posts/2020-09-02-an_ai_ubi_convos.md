@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+category: personal
+tags:
+  - ai
+  - ubi
+  - philosophy
+  - economics
+title: A Conversation AboutAI and UBI
 ---
 
 
@@ -37,4 +45,4 @@ The dispossessed became known as the "head count." And they didn't just adapt th
 
 V: Two answers: first, Rome was far from a liberal society, so we need not go the way of Rome. Second, that example cuts both ways. The grain dole and the professionalization of the legions both played a decisive role in the fall of the Republic. The grain dole legitimatized vote buying through the promise of greater benefits (with resources that had to be secured militarily), and the practically as soon Gaius Marius turned the legionary service from an aristocratic perk to a job for the dispossessed, the civil wars began.
 
-If AI and automation necessitates drastic social reforms of the type you are describing, we can do them when they becomes necessary. We are not there, and the reforms have dangers. 
+If AI and automation necessitates drastic social reforms of the type you are describing, we can do them when they becomes necessary. We are not there, and the reforms have dangers.
