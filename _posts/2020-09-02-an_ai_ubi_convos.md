@@ -13,6 +13,8 @@ title: A Conversation AboutAI and UBI
 
 C: Eventually, AI will be sufficiently advanced that most jobs will be eliminated. We will need UBI to ensure people have access to the wealth created by the AI.
 
+<!-- more --> 
+
 V: That's not possible. Human want is infinite. For every good and service produced through automation that was not produced before, we free human beings up to produce more, and increase the realm of desires they can fulfill.
 
 C: Previous rounds of automation took the form of labor multipliers. We gave a machine to a laborer and allowed him to produce more, but he kept the job. This is the first round that actually eliminates jobs entirely. 
