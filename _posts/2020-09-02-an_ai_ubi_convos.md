@@ -7,7 +7,7 @@ tags:
   - ubi
   - philosophy
   - economics
-title: A Conversation AboutAI and UBI
+title: A Conversation About AI and UBI
 ---
 
 
