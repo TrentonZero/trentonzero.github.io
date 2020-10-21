@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+category: personal
+tags:
+  - religion
+  - blessed karl
 ---
 
 They are there, hundreds of them, packing into a room to commemmorate a dead man they didn't know, who died five generations before their time and took with him a world they never knew and cannot imagine. 
