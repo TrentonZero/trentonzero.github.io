@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+category: personal
+tags:
+  - finance
+  - ramsey
+  - antiracism
+  - critical race theory
+  - kendi
+  - independence
+  - work
+  - golden handcuffs
 ---
 Let's talk golden handcuffs. 
 
@@ -15,10 +26,10 @@ To clarify, I'm not really talking about the actual poor in America. I'm talking
 
 We aren't necessarily miserable, and our employers can't exploit it quite the way big law firms can in NYC, but the phenomenon is real. 
 
-I've been thinking about it recently at work. Our boss has decided we must read and discuss and  agree with the Ibram X Kendi book on Antiracism. The book alternates between anecdotes from his life and an ideolology he identifies with them. The anecdotes are powerful and thought-provoking. The ideology, on the other hand, is bonkers-on-bananas, explicitly illiberal, and implicitly totalitarian.  
+I've been thinking about it recently at work. Our boss has decided we should read and discuss and  agree with the Ibram X Kendi book on Antiracism. The book alternates between anecdotes from his life and an ideolology he identifies with them. The anecdotes are powerful and thought-provoking and if your worldview can't make sense of how these things happen, your worldview needs some nuance. But the ideology, on the other hand, is bonkers-on-bananas, explicitly illiberal, and implicitly totalitarian.  
 
 The count is up to a dozen people in a group of around forty who will say to me, in private, "This is insane." But so far there are only two people, total, who will say, out loud and in public "There is no such category as 'not racist policy'? Every decision is racist or antiracist? Really?!? We have to pick between tabs and spaces based on a Critical Race Theory analysis?" 
 
-The other ten are afraid and hope that it will all just go away if they stay silent. I don't know what gives the other guy the guts.  I know what gives me the guts is....I'm not in golden handcuffs. I live in a cheap house in a cheap neighborhood. I drive a paid for used car. I save every penny in my Roth 401k that the law will allow, and then my wife saves every penny in her Roth 401k that the law will allow, and then we save another 30% of our take home pay after *that*. 
+The other ten are afraid and hope that it will all just go away if they stay silent. I don't know what gives the other guy the guts.  I know what gives me the guts is....I'm not in golden handcuffs. I live in a cheap house in a cheap neighborhood. I drive a paid-for used car. I save every penny in my Roth 401k that the law will allow, and then my wife saves every penny in her Roth 401k that the law will allow, and then we save another 30% of our take home pay after *that*. 
 
-As the fear starts up, and the threats about consequences for dissent become less and less veiled, I can look at my situation and say "You know what? I'm not going to be bullied into pretending to agree that liberalism and capitalism and Christianity and math are crypto-racist. That's insane. I don't need your money enough to be intimidated on this. I've spent the last ten years of my life living within my means, and a consequence of that is that if you fire me, I have almost a decade before the money runs out. Not that I want that outcome. I like my job, or did until you started trying to bully me into saying that liberal democracy is inherently racist. I'd just assume keep it, but not if that's your price." 
+As the fear starts up, and the threats about consequences for dissent become less and less veiled, I can look at my situation and say "I'm not going to be bullied into pretending to agree that liberalism and capitalism and Christianity and unix and math are crypto-racist. That's insane. I don't need the money enough. I've spent the last five years of my life living within my means, and a consequence of that is that if you fire me, I have almost a decade before the money runs out. Not that I want that outcome. I like my job, or did until they started trying to bully me into saying that liberal democracy is inherently racist. I'd just assume keep it, but not if that's the price." 
