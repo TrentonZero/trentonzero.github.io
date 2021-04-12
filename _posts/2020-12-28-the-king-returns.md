@@ -1,9 +1,11 @@
 ---
-    layout: post
-    category: Personal
-    tagline: "You want it darker..."
-    title: Our Future King
-    tags: [politics]
+layout: post
+category: Personal
+tagline: You want it darker...
+title: Our Future King
+tags:
+  - politics
+published: true
 ---
 
 The future king of America is (probably) currently alive and is (at least) thirteen years old. And when I say probably, I mean that I would bet at even odds that in my natural lifetime, America will have a monarch or a dictator or an emperor or some other word for an executive serving for life and wielding practically unlimited power (even if only sophisticated observers realize how much power that is). It might be as few as four years. It might be as many as forty. It won't be longer than sixty.
