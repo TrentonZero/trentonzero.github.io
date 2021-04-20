@@ -16,7 +16,7 @@ For a moment, he stood there, mouth moving silently (a symptom of dementia) befo
 
 "I want to go to church. I want to pray for my wife." 
 
-The kindly nurse considered, paused on whether to tell the poor soul his wife had been dead for a decade, and decided against it. 
+The kindly nurse considered, paused on whether to tell the poor soul his wife had been dead for a decade and decided against it. 
 
 "It's Saturday, Mr. Gibbons. We'll have chapel tomorrow. On Sunday. I'm sure you're wife will be there then."
 
