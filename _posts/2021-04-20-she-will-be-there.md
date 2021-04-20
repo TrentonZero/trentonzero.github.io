@@ -18,6 +18,6 @@ For a moment, he stood there, mouth moving silently (a symptom of dementia) befo
 
 The kindly nurse considered, paused on whether to tell the poor soul his wife had been dead for a decade and decided against it. 
 
-"It's Saturday, Mr. Gibbons. We'll have chapel tomorrow. On Sunday. I'm sure you're wife will be there then."
+"It's Saturday, Mr. Gibbons. We'll have chapel tomorrow. On Sunday. I'm sure your wife will be there then."
 
 She felt a little guilty about the small lie, but Mr. Gibbons could never keep his dates straight and it ended the conversation. 
