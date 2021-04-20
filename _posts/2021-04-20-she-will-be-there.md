@@ -20,4 +20,4 @@ The kindly nurse considered, paused on whether to tell the poor soul his wife ha
 
 "It's Saturday, Mr. Gibbons. We'll have chapel tomorrow. On Sunday. I'm sure your wife will be there then."
 
-She felt a little guilty about the small lie, but Mr. Gibbons could never keep his dates straight and it ended the conversation. 
+She felt a little guilty about the small lie, but Mr. Gibbons could never keep his dates straight, and it ended the conversation. 
