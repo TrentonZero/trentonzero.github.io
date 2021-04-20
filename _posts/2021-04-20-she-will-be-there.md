@@ -12,7 +12,7 @@ It is Saturday, November 2nd, and another day for the nurses and the dozens of h
 
 "It's Saturday, Mr. Gibbons. Church is on Sunday." 
 
-For a moment, he stood there, mouth moving silently (a symptom of dementia) before answering. 
+For a moment he stood there, mouth moving silently (a symptom of dementia,) before answering. 
 
 "I want to go to church. I want to pray for my wife." 
 
