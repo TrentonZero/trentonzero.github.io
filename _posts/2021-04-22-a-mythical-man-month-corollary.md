@@ -52,4 +52,3 @@ C: Oh, yeah.
 
 K: And then you are a 5 man team trying to interact with it…
 
-C: It always alarms me when someone says “Large Corporation does X for a reason, we should consider it”, what I hear is “I have no idea what I’m doing”.
