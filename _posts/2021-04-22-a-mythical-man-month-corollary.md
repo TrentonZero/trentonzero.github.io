@@ -46,7 +46,7 @@ K: Actually, though you bring up a good point. I’m getting at something but I�
 
 C: Potentially 40ish: Usually you have a primary one and then some scriptwork for deployment.
 
-K: But, of course, the 5 man team would break the monolith up into components, but components they can understand. That are organized into a holistic whole. The 100 man team, to solve the communication complexity problem, shifts it into the infrastructure of the system, which allows them to work, but also makes a system that only a 100 man team could maintain. Now, here’s the rub. What if you have a ~100 man team…but they didn’t built a 100 man system. They took architectures from Netflix, Google, Amazon for granted as “best practice” and built a system for a 10,000 man team.
+K: But, of course, the 5 man team would break the monolith up into components, but components they can understand. That are organized into a holistic whole. The 100 man team, to solve the communication complexity problem, shifts it into the infrastructure of the system, which allows them to work, but also makes a system that only a 100 man team could maintain. Now, here’s the rub. What if you have a ~100 man team…but they didn’t build a 100 man system. They took architectures from Netflix, Google, Amazon for granted as “best practice” and built a system for a 10,000 man team.
 
 C: Oh, yeah.
 
