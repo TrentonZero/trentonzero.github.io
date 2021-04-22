@@ -14,6 +14,8 @@ K: I can sit here and think that 100 man developer teams have as their sole adva
 
 A lot of successful businesses disagree with me, so maybe I’m wrong…but it feels true. Throw 5 devs at a problem and they will solve it perfectly well with a system that can be maintained by 5 devs. Throw 100 devs at the same problem, and they will solve it just about as well (probably worse) with a system that only 100 developers could maintain.
 
+<!-- more -->
+
 C: “…Sole advatnage over 5 man developer teams…” advantage here is sarcastic in light of your last message?
 
 K: Well, it's an advantage if you are the other 95 devs. :)
