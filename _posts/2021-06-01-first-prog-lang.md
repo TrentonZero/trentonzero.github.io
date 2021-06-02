@@ -1,8 +1,11 @@
 ---
 published: false
+category: Personal
+layout: post
+tags:
+  - programming
+title: Your First Programming Language
 ---
-## Your First Programming Language
-
 "What should my first programming language be? Should I learn Javascript or C or C++ or Java or LISP?"
 
 This is really very easy. First, not C++. God have mercy on your soul, not C++. The first plus means they added OO to C. The second plus means they added a whole bunch more WTF on as well. I'm not really trying to hate on C++ here: it's the standard within its domain for a reason. I'm just saying you shouldn't learn C++ until after C. When you reach the point in C where you find yourself cursing structs, you can go open that ++ box. 
