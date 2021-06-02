@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 category: Personal
 layout: post
 tags:
