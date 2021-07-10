@@ -1,5 +1,12 @@
 ---
 published: true
+category: Personal
+layout: post
+tags:
+  - programming
+  - career
+  - politics
+title: That A**hole
 ---
 ## That Asshole
 
