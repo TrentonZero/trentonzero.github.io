@@ -9,6 +9,8 @@ image: /assets/images/simplicity.jpg
 ---
 ## Programmer Rant on Complexity
 
+{% include figure.html src="/assets/images/simplicity.jpg" caption="One of these is not like the other..." align="right" %}
+
 A meme on LinkedIn accomplished its missing, if its mission was to "trigger" me. I've attached it here. It's true, but it's paradoxical truth, and at the risk of pedantry, I want to explore the paradox.
 
 <!-- more -->
