@@ -17,7 +17,7 @@ A meme on LinkedIn accomplished its mission, if its mission was to "trigger" me.
 
 Like a lot of paradoxically true things, the paradox is explained by using two definitions of the same word. In this case, the meaning of complexity changes as you move from the left side of the graph to the right.
 
-On the left side, "complex" means "with few parts." And sure enough, beginner code has few parts: it is one gigantic procedure manipulating a mass of highly-entwined global state.
+On the left side, "simple" means "with few parts." And sure enough, beginner code has few parts: it is one gigantic procedure manipulating a mass of highly-entwined global state.
 
 In the middle, OOP and design patterns come in as a way to manage all the entwining, but the engineer thinks they are making things more complex. There are more "things" to think about. They create objects and interfaces, almost at random, because their guiding principle is now a dual mandate: balance entwined global state with "simplicity" (meaning having few parts.) This is "encapsulation."
 
