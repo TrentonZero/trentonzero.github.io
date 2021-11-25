@@ -9,7 +9,7 @@ title: A Thanksgiving Post
 ---
 I began to write this in my notebook with the line "When I was young, every variation from linear progressive time was a nuisance." And as soon as I wrote it, I realized it wasn't true. 
 
-To be young is to live an entire life in the grooves of cyclic time. Life is summers at Benbrook Lake, Thanksgiving, Christmas. The annual trip up to Dalhart and to the smell of horses. Cartoons on Saturday morning. The funny pages on Sunday afternoon. The favorite TV show Friday at 4. 
+To be young is to live an entire life in the grooves of cyclic time. Life is summers at Benbrook Lake, Thanksgiving, Christmas. The annual trip up to Dalhart which smells of horses. Cartoons on Saturday morning. The funny pages on Sunday afternoon. The favorite TV show Friday at 4. 
 
 <!-- more -->
 
