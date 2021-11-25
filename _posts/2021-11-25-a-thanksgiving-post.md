@@ -11,7 +11,7 @@ I began to write this in my notebook with the line "When I was young, every vari
 
 To be young is to live an entire life in the grooves of cyclic time. Life is summers at Benbrook Lake, Thanksgiving, Christmas. The annual trip up to Dalhart. Cartoons on Saturday morning. The funny pages on Sunday afternoon. The favorite TV show Friday at 4. 
 
-<!--more-->
+<!-- more -->
 
 It's the opposite. The happiness of our youth is the happiness of cyclic time, a life of recurring holidays and the anticipation of holidays. It is in middle age that we are lured into the trap of linear time. We fall into the world of ambitions and retirement plans and projects at work. And we discover happiness in the reclamation fo the cycles, or we go mad, chasing younger women, sportier cars, and doubling down on foregone ambitions during our midlife crisis. 
 
