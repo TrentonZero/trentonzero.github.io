@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+category: Personal
+layout: post
+tags:
+  - thanksgiving
+  - holiday
+title: A Thanksgiving Post
 ---
 I began to write this in my notebook with the line "When I was young, every variation from linear progressive time was a nuisance." And as soon as I wrote it, I realized it wasn't true. 
 
