@@ -13,7 +13,7 @@ To be young is to live an entire life in the grooves of cyclic time. Life is sum
 
 <!-- more -->
 
-It's the opposite. The happiness of our youth is the happiness of cyclic time, a life of recurring holidays and the anticipation of holidays. It is in middle age that we are lured into the trap of linear time. We fall into the world of ambitions and retirement plans and projects at work. And we discover happiness in the reclamation of the cycles, or we go mad, chasing younger women, sportier cars, and doubling down on foregone ambitions during our midlife crisis. Screaming all the while that death chant of linear time: You Only Live Once. 
+It's the opposite. The happiness of our youth is the happiness of cyclic time, a life of recurring holidays and the anticipation of holidays. It is in middle age that we are lured into the trap of linear time. We fall into the world of ambitions and retirement plans and projects at work. And we discover happiness in the reclamation of the cycles, or we go mad, chasing younger women, sportier cars, and doubling down on foregone ambitions during our midlife crisis. Reciting desperately all the while that death chant of linear time: You Only Live Once. 
 
 This may be why children, for all their burden and trouble, bring happiness, or can bring happiness, because their lives pull us back, just a little, into cyclic time? How strange that youth is the most progressive part of our lives and that it is also cyclic? To adults it looks progressive, but for the child, the closest analogy is treading water. 
 
