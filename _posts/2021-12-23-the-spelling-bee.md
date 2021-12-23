@@ -4,7 +4,7 @@ published: true
 
 I live at the corner of Gibson and Parrish. "Parrish," with an extra R that makes me wonder if there is some word I don't know or if I really live next to an elementary school and at the corner of a mispelling. I'd call it a typo, but it's not a slip of the finger. Or, if it is, it's a slip of some secretary's finger, recorded in the city records and in my street name forever.
 
-<!--more-->
+<!-- more -->
 
 Somewhere, a child loses a spelling bee and the judges debate whether it was really a stutter, that extra R. She was doing so well, little Sally, in her white dress, until she was asked to spell the word for an ecclesial territory, which is already tricksy in this age, and was sabotaged by a secretary's distracted fingers, decades ago, burning an image little Sally's mind that will never recede.
 
