@@ -10,6 +10,6 @@ Somewhere, a child loses a spelling bee and the judges debate whether it was rea
 
 The first among many, Sally. The first among many. Poor Sally looks at the old people, sitting with their coffee, and wonders "What are they thinking?" But Sally will grow old, and her thoughts will be on that spelling bee, and the faces. The one judge, the middle-aged woman, a mysterious happiness behind the disappointment that Sally could not understand, but she will, when the decades have played their tricks on her. The other judge, the middle-aged man with an expression Sally couldn't quite parse then, but she would learn to recognize (all to well, all to well) as mixed pity, unearned condescension, and lust. 
 
-And maybe later, distracted by this and a thousand similar memories, and the sins upon sins upon sins that mark her unraveling of these mysteries, she will mispell a word in a place where it can live forever. 
+And maybe later, distracted by this and a thousand similar memories, and the sins upon sins upon sins that mark her unraveling of these mysteries, she will misspell a word in a place where it can live forever. 
 
 Maybe on a birth certificate?
