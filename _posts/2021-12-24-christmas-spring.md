@@ -9,6 +9,6 @@ We associate Christmas with snow, but isn't spring weather a better symbol of Ch
 
 Without a warm Christmas, we fall back on the winter solstice. That's also a good symbol. It is dark and cold, but it is just before the dawn. Warmth is coming, 'tis Christ the Lord. But, I still like this year's mini-spring at Christmas. 
 
-The birds are singing to announce the arrival of our King! We three kings of Orient are sophisticated and wise and discern the signs in the stars, but we are behind the times. The birds and the sheep and their shephards knew before us. The avant-garde is the rear guard. 
+The birds are singing to announce the arrival of our King! We three kings of Orient are sophisticated and wise and discern the signs in the stars, but we are behind the times. The birds and the sheep and their shepherds knew before us. The avant-garde is the rear guard. 
 
 And, that may be the perfect closing to 2021.
