@@ -12,7 +12,7 @@ tags:
   - computer
 ---
 
-I wrote a blog entry titled [Fat Nerd](https://trentonzero.github.io/personal/2020/05/13/fat-nerd) almost exactly 4 years ago. I was down 30 pounds from a high of about 280. I had participated in a 5k. And I had injured myself. 
+I wrote a blog entry titled [Fat Nerd](https://trentonzero.github.io/personal/2020/05/13/fat-nerd) almost exactly 4 years ago. I was down 30 pounds from a high of about 290. I had participated in a 5k. And I had injured myself. 
 
 It was angry, profanity laden, desperate, and obsessed with identity stuff about nerds and jocks. 
 
