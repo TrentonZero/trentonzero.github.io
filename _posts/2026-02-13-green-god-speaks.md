@@ -28,6 +28,8 @@ Now the Green God Speaks...
 
 <!-- more -->
 
+---
+
 In the final days before the awakening of Estelune, when the Red God labored ceaselessly and the Green God slept drunkenly, there came upon the world a whisper. It was not the whisper of Ainofiriano, which only Fion had heard, nor the song of Isil, which all the Calloléra knew in their hearts. It was the voice of the Green God himself, speaking for the first time since his murder.
 
 "I am not dead," said the voice, "but sleeping. And in my dreams I have learned to speak."
