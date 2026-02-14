@@ -6,7 +6,6 @@
     tags: [movie, citizen kane, orson welles,fan, movie review,unreliable narrator]
     image: /assets/images/highangle.jpg 
 ---
-{% include JB/setup %}
 
 {% include figure.html src="/assets/images/highangle.jpg" caption="What to make of this man?" align="right" %}
 

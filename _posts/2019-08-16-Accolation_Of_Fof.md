@@ -5,7 +5,6 @@ tagline: "The Accolation of Fof"
 title: "The Coming of Calemorinna: Part 1"
 tags: [ myth, allegory, Fof, Kanda, Calemorinna, Vanyanan]
 ---
-{% include JB/setup %}
 
 In the Dark Age, before the return of the Calloléra, in the thirty-fourth year since the creation of the world, before the year of Yelloturë's ascendence, came Calemorinna from the Sea. Where Calemorinna went, song followed, so that she was also called Gwethlir.
  

@@ -6,7 +6,6 @@
     tags: [book, review, literature, great_books, eddison ]
     image: /assets/images/worm.jpg
 ---
-{% include JB/setup %}
 
 I have just finished "The Worm Ouroboros" by E.R. Eddison. Here we have a representative passage, reproduced faithfully exactly as written: 
 

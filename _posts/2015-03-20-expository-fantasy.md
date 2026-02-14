@@ -7,7 +7,6 @@ comments: true
 image: /assets/images/home-gnomes.jpg
 tags: [book, literature]
 ---
-{% include JB/setup %}
 
 I am starting [another blog](http://expositoryfantasy.trentonzero.com) devoted to works of Expository Fiction. What, I imagine you asking, is expository fiction?
 

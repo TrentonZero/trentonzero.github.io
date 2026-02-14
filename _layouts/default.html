@@ -1,6 +1,52 @@
----
-theme :
-  name : terminal
----
-{% include JB/setup %}
-{% include themes/terminal/default.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+  <link href="/assets/css/pygments.css" rel="stylesheet">
+  <link href="/assets/css/terminal.css" rel="stylesheet">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.jpg">
+</head>
+<body>
+  <div class="site">
+    <nav class="site-nav">
+      <div class="container">
+        <a class="site-title" href="/">{{ site.title }}</a>
+        <ul>
+          {% for node in site.pages %}
+            {% if node.group == 'navigation' and node.title %}
+              <li><a href="{{ node.url }}"{% if page.url == node.url %} class="active"{% endif %}>{{ node.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <ul class="social">
+          {% if site.author.github %}
+            <li><a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub">GH</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </nav>
+
+    <div class="site-content">
+      {{ content }}
+    </div>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+      </div>
+    </footer>
+  </div>
+
+  {% include analytics.html %}
+</body>
+</html>

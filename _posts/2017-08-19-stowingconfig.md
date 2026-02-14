@@ -7,7 +7,6 @@
     image: /assets/images/gnu.png
     customimagestyle: "box-shadow:0 0 0"
 ---
-{% include JB/setup %}
 
 The weekend is here and I am anxious to go and organize all my system configurations using GNU Stow.
 

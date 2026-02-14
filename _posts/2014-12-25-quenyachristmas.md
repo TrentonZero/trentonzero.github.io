@@ -6,7 +6,6 @@
     tags: [quenya, christmas]
     image: /assets/images/merrychristmas_quenya.jpg
 ---
-{% include JB/setup %}
 
 Happiness to you from the feast of Christ!
 

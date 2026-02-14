@@ -6,7 +6,6 @@
     tags: [life, haskell, Yelloturë, remodel, Calloléra, Lumna, Calemorrinna, Alassë, Turë, Yara]
     image: /assets/images/jed.jpg
 ---
-{% include JB/setup %}
 
 A lot has happened in the world of Vanyanan since I last wrote. Calemorrinna is here, and the two households have been joined. My servant Alassë is anything but alassenen. She is faithful as always, and after great difficulty accepted Calemorrinna. But she has not at all accepted Turë or Yara. Despite constant effort, she isn't any closer to accepting. And Turë has had enough...
 

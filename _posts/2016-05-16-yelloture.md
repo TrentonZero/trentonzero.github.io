@@ -6,7 +6,6 @@
     tags: [quenya, allegory]
     image: /assets/images/dungeon.jpg
 ---
-{% include JB/setup %}
 
 It's cold here in the dungeon; cold and lonely.
 

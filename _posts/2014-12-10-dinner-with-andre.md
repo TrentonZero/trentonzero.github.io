@@ -6,7 +6,6 @@
     tags: [great movies, review, dinner with andre, movies, film]
     image: /assets/images/wallace.jpg
 ---
-{% include JB/setup %}
 
 Two nights ago I watched the famous "My Dinner with André" for the second time and, with at least two viewings under my belt, I feel confident to write down some thoughts. Just a fair warning, I'm going to assume you've seen the movie, or don't care about seeing it, or at least don't care about knowing what happens in it. So, spoiler alert. I'm not 100% sure I really *can* spoil the movie, but I could taint your first viewing. Better that you see it at least once and decide what you think before you read. 
 

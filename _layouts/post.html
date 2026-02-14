@@ -1,5 +1,56 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/terminal/post.html %}
+
+<div class="page-header">
+  <div class="container">
+    <h1>{{ page.title }}{% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="post-layout">
+    <div class="post-main content">
+      {{ content }}
+
+      <hr>
+
+      <div class="post-nav">
+        {% if page.previous %}
+          <a class="btn" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+        {% endif %}
+        {% if page.next %}
+          <a class="btn" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+        {% endif %}
+        <a class="btn" href="/archive.html">Archive</a>
+      </div>
+
+      {% include comments.html %}
+    </div>
+
+    <aside class="post-sidebar">
+      <section>
+        <h4>Published</h4>
+        <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
+      </section>
+
+      {% if page.category %}
+      <section>
+        <h4>Category</h4>
+        <p class="post-category">{{ page.category }}</p>
+      </section>
+      {% endif %}
+
+      {% if page.tags.size > 0 %}
+      <section>
+        <h4>Tags</h4>
+        <ul class="tag-list">
+          {% for tag in page.tags %}
+            <li><a href="/tags.html#{{ tag }}-ref">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+    </aside>
+  </div>
+</div>

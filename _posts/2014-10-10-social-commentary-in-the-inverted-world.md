@@ -19,7 +19,6 @@ published: true
 author: 
 ---
 
-{% include JB/setup %}
 
 I spoil plot points. So stop reading if you intend to read [*The Inverted World*](http://www.amazon.com/Inverted-World-Review-Books-Classics/dp/1590172698) by Christopher Priest. 
 

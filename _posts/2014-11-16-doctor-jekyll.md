@@ -6,7 +6,6 @@
     tags: [blogging, jekyll, discus, wordpress]
     image: /assets/images/jekyll.logo.png.jpg
 ---
-{% include JB/setup %}
 
 I am now committed. I've seen enough to let me know that WordPress is out and Jekyll hosted on Github Pages is in. I will be moving my blog from WordPress and over into Jekyll.
 

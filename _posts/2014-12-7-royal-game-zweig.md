@@ -6,7 +6,6 @@
     tags: [chess, novel, review, stefan zweig, literature, best books]
     image: /assets/images/royal_game.jpg
 ---
-{% include JB/setup %}
 
 "Isn't it confoundedly easy to think you're a great man if you aren't burdened with the slightest idea that Rembrandt, Beethoven, Dante or Napoleon ever lived?"
 
