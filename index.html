@@ -14,7 +14,8 @@ tagline: What's new in the land of Vanyanan?
 <img style="width:10em;float:left;margin-right:1em;margin-bottom:1em;{{post.customimagestyle}}" src="{{ post.image }}"/>
 {% endif %}
 
-<p>{{ post.excerpt | strip_html }}&hellip; (<a href="{{ post.url }}">Read More</a>)</p>
+{{ post.excerpt | truncatewords: 100 }}
+<p>(<a href="{{ post.url }}">Read More</a>)</p>
 
 <div style="clear:both"></div>
 </div>
