@@ -5,17 +5,34 @@ header: Posts By Tag
 group: navigation
 ---
 
+{% comment %}Build an array of "count|tagname" strings so we can sort by count{% endcomment %}
+{% assign tag_counts = "" %}
+{% for tag in site.tags %}
+  {% assign padded = tag[1].size | prepend: "000" | slice: -4, 4 %}
+  {% assign entry = padded | append: "|" | append: tag[0] %}
+  {% if forloop.last %}
+    {% assign tag_counts = tag_counts | append: entry %}
+  {% else %}
+    {% assign tag_counts = tag_counts | append: entry | append: "," %}
+  {% endif %}
+{% endfor %}
+{% assign sorted_tag_counts = tag_counts | split: "," | sort | reverse %}
+
 <ul class="tag-list">
-  {% assign sorted_tags = site.tags | sort %}
-  {% for tag in sorted_tags %}
-    <li><a href="#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+  {% for item in sorted_tag_counts %}
+    {% assign parts = item | split: "|" %}
+    {% assign tag_name = parts[1] %}
+    {% assign tag_size = site.tags[tag_name].size %}
+    <li><a href="#{{ tag_name }}-ref">{{ tag_name }} <span>{{ tag_size }}</span></a></li>
   {% endfor %}
 </ul>
 
-{% for tag in site.tags %}
-  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+{% for item in sorted_tag_counts %}
+  {% assign parts = item | split: "|" %}
+  {% assign tag_name = parts[1] %}
+  <h2 id="{{ tag_name }}-ref">{{ tag_name }}</h2>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in site.tags[tag_name] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
