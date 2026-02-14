@@ -2,19 +2,21 @@
 .well, .breadcrumb, input,
 input[type="file"],
 select,
-textarea, .progress, code, pre {
-  -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
-  -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
-  -o-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
-  box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
-  background: #202020;
-  background-color: rgba(0, 0, 0, 0.3);
+textarea, .progress {
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+code, pre {
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0.3);
 }
 
 /* line 33, ../sass/darkstrap.scss */
 body {
-  background: #2f2f2f;
-  color: #c6c6c6;
+  background: #1a1a2e;
+  color: #d0d0d0;
 }
 
 /* line 39, ../sass/darkstrap.scss */
@@ -28,16 +30,13 @@ body {
 
 /* line 48, ../sass/darkstrap.scss */
 .page-header {
-  -moz-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  -webkit-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  -o-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  border-bottom: 1px solid #121212;
+  box-shadow: none;
+  border-bottom: 1px solid rgba(100, 140, 200, 0.1);
 }
 
 /* line 49, ../sass/darkstrap.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: white;
+  color: #e8e8e8;
 }
 
 /* line 50, ../sass/darkstrap.scss */
@@ -49,7 +48,7 @@ h6 {
 .nav-tabs .open .dropdown-toggle,
 .nav-pills .open .dropdown-toggle,
 .nav > .open.active > a:hover {
-  background-color: #222222;
+  background-color: #161630;
   border-color: #2f2f2f #2f2f2f transparent #2f2f2f;
 }
 
@@ -70,14 +69,14 @@ h6 {
 }
 /* line 71, ../sass/darkstrap.scss */
 .nav-tabs > .active > a, .nav-tabs > .active > a:hover {
-  background-color: #2f2f2f;
+  background-color: #1a1a2e;
   color: #fff;
   border-color: #666 #666 transparent #666;
 }
 /* line 76, ../sass/darkstrap.scss */
 .nav-tabs > li > a:hover {
   border-color: #2f2f2f #2f2f2f #666666 #2f2f2f;
-  background-color: #222222;
+  background-color: #161630;
   color: #00aaff;
 }
 /* line 83, ../sass/darkstrap.scss */
@@ -87,7 +86,7 @@ h6 {
 
 /* line 89, ../sass/darkstrap.scss */
 .nav-pills > li > a:hover {
-  background-color: #222222;
+  background-color: #161630;
   color: #00aaff;
 }
 
@@ -170,8 +169,8 @@ h6 {
 /* line 140, ../sass/darkstrap.scss */
 .input-prepend .add-on,
 .input-append .add-on {
-  background: #444;
-  color: #c6c6c6;
+  background: #252540;
+  color: #d0d0d0;
   border-color: #111;
   text-shadow: 0 1px 0  black;
 }
@@ -208,7 +207,7 @@ legend {
 /* line 167, ../sass/darkstrap.scss */
 .form-actions {
   border-top-color: #222;
-  background-color: #444;
+  background-color: #252540;
 }
 
 /* line 172, ../sass/darkstrap.scss */
@@ -283,7 +282,7 @@ legend {
 
 /* line 191, ../sass/darkstrap.scss */
 .table-striped tbody tr:nth-child(2n+1) td, .table-striped tbody tr:nth-child(2n+1) th {
-  background-color: #444;
+  background-color: #252540;
 }
 
 /* line 197, ../sass/darkstrap.scss */
@@ -301,13 +300,13 @@ legend {
 /* line 208, ../sass/darkstrap.scss */
 .pagination a:hover {
   color: #00aaff;
-  background-color: #222222;
+  background-color: #161630;
 }
 
 /* line 212, ../sass/darkstrap.scss */
 .pagination .active a {
   color: #fff;
-  background-color: #222222;
+  background-color: #161630;
 }
 
 /* line 216, ../sass/darkstrap.scss */
@@ -317,12 +316,12 @@ legend {
 
 /* line 219, ../sass/darkstrap.scss */
 .pager a {
-  background-color: #2f2f2f;
+  background-color: #1a1a2e;
   border-color: #666;
 }
 /* line 222, ../sass/darkstrap.scss */
 .pager a:hover {
-  background-color: #222222;
+  background-color: #161630;
   color: #00aaff;
 }
 
@@ -376,7 +375,7 @@ legend {
 
 /* line 245, ../sass/darkstrap.scss */
 .modal {
-  background-color: #444;
+  background-color: #252540;
 }
 
 /* line 248, ../sass/darkstrap.scss */
@@ -391,7 +390,7 @@ legend {
 
 /* line 254, ../sass/darkstrap.scss */
 .modal-footer {
-  background-color: #373737;
+  background-color: #1e1e38;
   border-top: 1px solid #222;
   -moz-box-shadow: 0 1px 0 #333333 inset;
   -webkit-box-shadow: 0 1px 0 #333333 inset;
@@ -401,20 +400,17 @@ legend {
 
 /* line 266, ../sass/darkstrap.scss */
 blockquote {
-  border-left-color: #111;
+  border-left-color: rgba(100, 180, 232, 0.4);
 }
 /* line 268, ../sass/darkstrap.scss */
 blockquote.pull-right {
-  border-right-color: #111;
+  border-right-color: rgba(100, 180, 232, 0.4);
 }
 
 /* line 271, ../sass/darkstrap.scss */
 hr {
-  -moz-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  -webkit-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  -o-box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  box-shadow: rgba(255, 255, 255, 0.07) 0 1px 0;
-  border-bottom: 1px solid #121212;
+  box-shadow: none;
+  border-bottom: none;
   border-top: none;
 }
 
@@ -425,6 +421,6 @@ code {
 
 /* line 281, ../sass/darkstrap.scss */
 pre {
-  border: none;
-  color: #c6c6c6;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: #d0d0d0;
 }

@@ -1,1 +1,23 @@
-/* This is for your Custom Content. */
+/* Sidebar */
+div.sidebar section, .span4 section {
+	background: rgba(0, 0, 0, 0.2);
+	border: 1px solid rgba(255, 255, 255, 0.05);
+	border-radius: 6px;
+	padding: 16px;
+	margin-bottom: 16px;
+	h4 {
+		font-family: 'Space Mono', monospace;
+		font-size: 13px;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: #888;
+		margin-bottom: 8px;
+		padding-bottom: 8px;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+	}
+	img.icon {
+		float: left;
+		margin: 7px 15px 0 0;
+		border-radius: 5px;
+	}
+}
