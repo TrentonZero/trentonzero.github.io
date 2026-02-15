@@ -5,6 +5,7 @@ title: The Beginning
 tags:
 - ainofiriano
 - allegory
+- fiction
 - vanyánan
 ---
  In the beginning was the First Father, Lord of Hosts, Lord of the Calloléra, from whose lips was found no falsehood, who served Ainofiriano, who did not find lordship a thing to be grasped. Through his victories he begot the world and raised it as a son. For this reason we call him First Father. We have no other name for him.

@@ -5,6 +5,7 @@ title: "The Coming of Calemorinna: Part 1"
 tags:
 - allegory
 - calemorinna
+- fiction
 - fof
 - kanda
 - vanyánan

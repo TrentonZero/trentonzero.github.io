@@ -5,6 +5,7 @@ title: The Green God Speaks
 tags:
 - ainofiriano
 - allegory
+- fiction
 - fion
 - green god
 - vanyánan

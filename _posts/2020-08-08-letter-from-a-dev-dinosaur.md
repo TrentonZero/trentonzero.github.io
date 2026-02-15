@@ -4,7 +4,8 @@ layout: post
 tags:
 - programming
 title: Letter from a Dev Dinosaur
----Dear Hipster Coders,
+---
+Dear Hipster Coders,
 
 <br/>
 

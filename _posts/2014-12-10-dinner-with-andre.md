@@ -4,6 +4,7 @@ tagline: "A movie about nothing"
 title: My Dinner With André
 tags:
 - film
+- philosophy
 - review
 image: /assets/images/wallace.jpg
 ---

@@ -6,6 +6,7 @@ tags:
 - fiction
 - horror
 - literature
+- review
 image: /assets/images/hillhouse.jpg
 ---
 

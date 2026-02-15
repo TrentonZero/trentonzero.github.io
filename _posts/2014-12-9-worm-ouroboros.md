@@ -4,7 +4,9 @@ tagline: "by E.R. Eddison"
 title: The Worm Ouroboros
 tags:
 - books
+- linguistics
 - literature
+- philosophy
 - review
 image: /assets/images/worm.jpg
 ---

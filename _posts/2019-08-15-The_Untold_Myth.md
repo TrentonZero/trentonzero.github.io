@@ -4,6 +4,7 @@ tagline: ""
 title: The Untold Myth
 tags:
 - allegory
+- fiction
 - orëveriel
 - vanyánan
 ---

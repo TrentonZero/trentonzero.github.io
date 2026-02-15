@@ -6,6 +6,7 @@ tags:
 - ainofiriano
 - allegory
 - calemorinna
+- fiction
 - fion
 - orëveriel
 - vanyánan
