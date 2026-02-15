@@ -1,7 +1,9 @@
 ---
 published: true
----
-It is Christmas Eve, and it's not even noon. I'm sitting outside without a jacket, wearing a t-shirt. Welcome to Texas! We have a dozen little springs scattered throughout the winter.
+tags:
+- poetry
+- religion
+---It is Christmas Eve, and it's not even noon. I'm sitting outside without a jacket, wearing a t-shirt. Welcome to Texas! We have a dozen little springs scattered throughout the winter.
 
 We associate Christmas with snow, but isn't spring weather a better symbol of Christmas? We were in the winter of our sins, but here today a baby is born, 'tis Christ the Lord. And here, in mid-winter, is a little burst of Pentecost. The Holy Spirit descends, we take off all our armor against cold and sin and death, and we have coffee on the front porch. 
 

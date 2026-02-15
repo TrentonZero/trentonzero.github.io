@@ -1,11 +1,13 @@
----                                                 
-    layout: post                                    
-    category: Myth                              
-    tagline: "The end"
-    title: An Apocalypse                               
-    tags: [allegory, vanyanan]   
 ---
-
+layout: post
+tagline: "The end"
+title: An Apocalypse
+tags:
+- ainofiriano
+- allegory
+- calemorinna
+- vanyánan
+---
  Of the beginning you have been told, but for a beginning there is also an end.
 
 <!-- more -->

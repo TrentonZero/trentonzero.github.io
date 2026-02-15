@@ -1,12 +1,13 @@
 ---
-    layout: post
-    category: Personal 
-    tagline: "Silvia Moreno-Garcia"
-    title: This Strange Way of Dying
-    tags: [books]
-    image: /assets/images/strangedying.jpg
+layout: post
+tagline: "Silvia Moreno-Garcia"
+title: This Strange Way of Dying
+tags:
+- books
+- horror
+- review
+image: /assets/images/strangedying.jpg
 ---
-
 I discovered Silvia Moreno-Garcia through the late Larry Santoro's "Tales to Terrify" podcast. In episode 9, Amy Sturgis does an awesome job narrating the story "Flash Frame" from this collection. All you need to know about 'Flash Frame' is that it is still, in my head, titled "The Queen in Yellow." I have to look up the real title everytime I think of it. And despite hearing it for the first time two and a half years ago, it has stuck with me. Except for the title. It's not a bad title, it's just that it *is* the "Queen in Yellow," a psychosexual/punk twist on Robert W. Chamber's "King in Yellow" set on the sleazy side of Mexico City. 
 
 <!-- more -->

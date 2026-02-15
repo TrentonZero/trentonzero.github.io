@@ -1,13 +1,12 @@
 ---
 published: true
-category: Personal
 layout: post
 tags:
-  - programming
+- philosophy
+- programming
 title: Programmer Rant On Complexity
 image: /assets/images/simplicity.jpg
----
-## Programmer Rant on Complexity
+---## Programmer Rant on Complexity
 
 {% include figure.html src="/assets/images/simplicity.jpg" caption="One of these is not like the other..." align="right" %}
 

@@ -2,8 +2,10 @@
 published: true
 title: 'The Political Philosophy of Dungeons And Dragons'
 tagline: 'Or How I Learned to Stop Worrying and Trust the DM'
+tags:
+- philosophy
+- politics
 ---
-
 What is the first rule of being a Dungeon Master who wants to enjoy a long campaign of Dungeons and Dragons with his friends? 
 
 Maybe, "know the rules." 

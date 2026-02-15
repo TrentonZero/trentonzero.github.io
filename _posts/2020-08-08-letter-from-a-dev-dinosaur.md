@@ -1,12 +1,10 @@
 ---
 published: true
 layout: post
-category: personal
 tags:
-  - programming
+- programming
 title: Letter from a Dev Dinosaur
----
-Dear Hipster Coders,
+---Dear Hipster Coders,
 
 <br/>
 

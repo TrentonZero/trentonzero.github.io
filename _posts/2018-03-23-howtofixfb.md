@@ -1,11 +1,10 @@
----                                                 
-    layout: post                                    
-    category: Personal                              
-    tagline: "Make it more insular"
-    title: How to Fix Facebook                               
-    tags: [social networks, facebook, politics, memes]   
 ---
-
+layout: post
+tagline: "Make it more insular"
+title: How to Fix Facebook
+tags:
+- politics
+---
 I know how to fix Facebook. 
 
 <!-- more -->

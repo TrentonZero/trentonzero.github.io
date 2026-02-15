@@ -1,7 +1,9 @@
 ---
 published: true
----
-Christmas is almost here. Decorating the tree is a study in human nature. I never want to go through the trouble. But, then I begin and it proceeds happily, and it is done. We turn on the tree lights, we turn off the house lights, and then there is peace. 
+tags:
+- philosophy
+- religion
+---Christmas is almost here. Decorating the tree is a study in human nature. I never want to go through the trouble. But, then I begin and it proceeds happily, and it is done. We turn on the tree lights, we turn off the house lights, and then there is peace. 
 <!-- more -->
 
 And it comes to you that it is really happening again this year. Christmas will happen. Around the world, even in cultures where practically no one believes in Christ, secular Christmas rings through as a beautiful thing. It is, around the world, a time for innocent romance, for decorations, for gift giving. 

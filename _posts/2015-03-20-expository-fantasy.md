@@ -2,12 +2,12 @@
 layout: post
 title: "Expository Fiction"
 tagline: "TrentonZero's Other Blog"
-category: Personal
 comments: true
 image: /assets/images/home-gnomes.jpg
-tags: [book, literature]
+tags:
+- books
+- literature
 ---
-
 I am starting [another blog](http://expositoryfantasy.trentonzero.com) devoted to works of Expository Fiction. What, I imagine you asking, is expository fiction?
 
 The simplest answer is: "fiction written in the style of nonfiction."  

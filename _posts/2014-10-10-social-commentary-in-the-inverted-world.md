@@ -3,22 +3,14 @@ layout: post
 title: Social Commentary in *The Inverted World*
 tagline: In which I wax pretentious
 date: 2014-10-10 17:17:31.000000000 -05:00
-categories:
-- Review
 tags:
-- book review
-- Christopher Priest
-- Inverted World
 - literature
-- pretentious
-- social commentary
-- spoilers
+- review
 status: publish
 type: post
 published: true
-author: 
+author:
 ---
-
 
 I spoil plot points. So stop reading if you intend to read [*The Inverted World*](http://www.amazon.com/Inverted-World-Review-Books-Classics/dp/1590172698) by Christopher Priest. 
 

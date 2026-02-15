@@ -1,11 +1,10 @@
 ---
 published: true
 layout: post
-category: personal
 tags:
-  - flash
+- fiction
+- slice of life
 ---
-
 
 Every spring, the ducks came, and JB came with them. He sat on the wooden bench beside the pond, slowly breaking off crumbs of bread or bits of cracker and tossing them on the ground. When the bread was gone and the last cracker had been crumbled up, the ducks waddled back to the pond, and he stood up and made the slow walk across the street. 
 

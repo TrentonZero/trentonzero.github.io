@@ -1,12 +1,17 @@
 ---
-    layout: post
-    category: Myth 
-    tagline: "Something wicked this way comes"
-    title: Yelloturë 
-    tags: [quenya, allegory]
-    image: /assets/images/dungeon.jpg
+layout: post
+tagline: "Something wicked this way comes"
+title: Yelloturë
+tags:
+- ainofiriano
+- allegory
+- calemorinna
+- fiction
+- liswamírë
+- orëveriel
+- vanyánan
+image: /assets/images/dungeon.jpg
 ---
-
 It's cold here in the dungeon; cold and lonely.
 
 <!-- more -->

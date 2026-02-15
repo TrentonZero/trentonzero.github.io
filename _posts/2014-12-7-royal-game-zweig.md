@@ -1,12 +1,13 @@
 ---
-    layout: post
-    category: Personal 
-    tagline: Or Chess Story 
-    title: The Royal Game by Stefan Zweig
-    tags: [chess, novel, review, stefan zweig, literature, best books]
-    image: /assets/images/royal_game.jpg
+layout: post
+tagline: Or Chess Story
+title: The Royal Game by Stefan Zweig
+tags:
+- books
+- literature
+- review
+image: /assets/images/royal_game.jpg
 ---
-
 "Isn't it confoundedly easy to think you're a great man if you aren't burdened with the slightest idea that Rembrandt, Beethoven, Dante or Napoleon ever lived?"
 
 I have recently finished reading 'The Royal Game' by Stefan Zweig (also published under the name 'Chess Story'), and greatly enjoyed it. I'll make no secret how I discovered the author. 

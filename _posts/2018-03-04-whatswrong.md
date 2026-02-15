@@ -1,11 +1,12 @@
 ---
-    layout: post
-    category: Personal
-    tagline: "Angst"
-    title: In which I unleash my inner sixteen year old 
-    tags: [politics, philosophy, great books]
+layout: post
+tagline: "Angst"
+title: In which I unleash my inner sixteen year old
+tags:
+- life
+- philosophy
+- politics
 ---
-
 Tyler Cowen says one of the most influential people of 2017 was ... Jordan Peterson.
 
 Who the hell is Jordan Peterson? And why am I, twenty years too old for it, thinking again about Nietzsche and Oswald Spengler and Heidegger, rereading Abolition of Man and its Catholic equivalent, the last chapter of Belloc's "The Great Heresies," or it's Catholic fictional equivalent, Lafferty's Past Master. I have a good career, a home, a wife, and a 401k. Why the hell am I reading Jordan Peterson?!?

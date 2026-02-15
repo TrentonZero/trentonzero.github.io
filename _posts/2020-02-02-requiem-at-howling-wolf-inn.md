@@ -1,11 +1,15 @@
----                                                 
-    layout: post                                    
-    category: Myth                             
-    tagline: ""
-    title: Requiem at the Howling Wolf Inn  
-    tags: [myth, allegory, untold myth, oreveriel, calemorrina]   
 ---
-
+layout: post
+tagline: ""
+title: Requiem at the Howling Wolf Inn
+tags:
+- ainofiriano
+- allegory
+- calemorinna
+- fion
+- orëveriel
+- vanyánan
+---
 It is Isilnight, the moon shines through the misting rain, and two figures enter the stone building in the wilderness, one carrying an urn. Once, it was an inn. It is now abandoned and cobwebs fill its alcoves. Against the wall is a table and a chess board. Black should be winning the unfinished game, but isn't. A backgammon case rests on a shelf, beside a wine goblet.
 
 <!-- more -->

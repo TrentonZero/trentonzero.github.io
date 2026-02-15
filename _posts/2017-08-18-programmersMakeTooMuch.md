@@ -1,12 +1,13 @@
 ---
-    layout: post
-    category: Personal
-    tagline: "But don't pat yourself too hard on the back, because you are still a lucky bastard"
-    title: Programmers Do Not Make Too Much
-    tags: [programming, economics, money, justice, lambdaconf]
-    image: /assets/images/compmoney.jpg
+layout: post
+tagline: "But don't pat yourself too hard on the back, because you are still a lucky bastard"
+title: Programmers Do Not Make Too Much
+tags:
+- politics
+- programming
+- work
+image: /assets/images/compmoney.jpg
 ---
-
 I was at a technical conference a few months ago (LambdaConf was a great experience) and in two seperate, independent contexts, I've heard someone else say "Programmers make too much." And in both contexts I noticed that the people around me pretty much accepted this statement as gospel truth...and that bugs me. Not because it threatens my income (my boss doesn't particularly care what other people think of my salary), but because it betrays a fundamental ignorance about why anybody gets paid what they do. This in a class of people that take great pride in their intelligence and rightfully so.
 
 <!-- more -->

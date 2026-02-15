@@ -1,12 +1,11 @@
 ---
 published: true
-category: Personal
 layout: post
 tags:
-  - programming
+- programming
+- work
 title: Interviewing Programmers
 ---
-
 We have discovered why it is actually so difficult to interview programmers. We want to know if they've acquired the thousand and one little lessons that add up to being good at this. And those lessons mostly consist of a sense for a good design versus a bad one, identifying the correct abstraction and the right data structure, and knowing when they have chosen poorly and how to fix it.
 
 <!-- more -->

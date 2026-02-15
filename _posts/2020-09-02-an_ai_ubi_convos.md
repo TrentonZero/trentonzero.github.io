@@ -1,15 +1,11 @@
 ---
 published: true
 layout: post
-category: personal
 tags:
-  - ai
-  - ubi
-  - philosophy
-  - economics
+- philosophy
+- politics
 title: A Conversation About AI and UBI
 ---
-
 
 C: Eventually, AI will be sufficiently advanced that most jobs will be eliminated. We will need UBI to ensure people have access to the wealth created by the AI.
 

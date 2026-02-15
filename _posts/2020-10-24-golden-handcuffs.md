@@ -1,18 +1,11 @@
 ---
 published: true
 layout: post
-category: personal
 tags:
-  - finance
-  - ramsey
-  - antiracism
-  - critical race theory
-  - kendi
-  - independence
-  - work
-  - golden handcuffs
----
-Let's talk golden handcuffs. 
+- philosophy
+- politics
+- work
+---Let's talk golden handcuffs. 
 
 I heard about the concept on the Advisory Opinions legal podcast to describe the dilemna that faces Harvard educated lawyers who accept jobs at major law firms in New York City. These young, entry-level lawyers are paid ridiculous salaries, even within law, and then are given workloads that are impossible to handle without working 100 hour weeks. 
 

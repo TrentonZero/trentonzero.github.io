@@ -1,11 +1,11 @@
 ---
-    layout: post
-    category: Personal
-    tagline: "To be or not to be"
-    title: College Thoughts
-    tags: [college, programming, computer science, liberal arts]
+layout: post
+tagline: "To be or not to be"
+title: College Thoughts
+tags:
+- life
+- programming
 ---
-
 I'm sick of being a college drop out. I have the time and the money and I only have ~20 credit hours left, so I'm finishing my BS in CS. One of  the lib ed courses I need to finish is "Democracy and Democratic  Theory." Off I go to buy textbooks.
 
 And the required texts are Hobbes, Machiavelli, Rousseau, and a short book on writing. No textbook in sight. I have never met or heard of this woman (Prof Kosmetatou at UIS). But, she has already made my list of favorite teachers ever.

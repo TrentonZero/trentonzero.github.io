@@ -1,12 +1,14 @@
 ---
-    layout: post
-    category: Myth 
-    tagline: ""
-    title: A Walk With Oréveriel
+layout: post
+tagline: ""
+title: A Walk With Oréveriel
 
-    tags: [allegory, vanyanan, oreveriel]
+tags:
+- allegory
+- hiking
+- orëveriel
+- vanyánan
 ---
-
 I've taken to going on walks pretty much anywhere I can find time and a path through the woods. Sometimes, Pippin goes with me, but my old faithful friend has gotten old, and anything over two miles, especially in the Texas heat, is just too much for him, no matter how much water I have. Today, I wanted to just *walk*. To walk as far as I could without worrying about anyone, and wanted a place where I could do it mindlessly. So I went to Fish Creek Trail, a 12-mile paved trail through the woods dropped in the middle of Arlington that I had never been to. I always found my way to River Legacy. 
 
 About a mile in, Oréveriel showed up. 

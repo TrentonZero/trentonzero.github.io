@@ -7,3 +7,15 @@ permalink: /404.html
 
 <p>Sorry, this page does not exist.</p>
 <p><a href="/">Return home</a></p>
+
+<script>
+// Redirect old category-based URLs to new format.
+// Old: /:category/:year/:month/:day/:title
+// New: /:year/:month/:title
+(function() {
+  var m = window.location.pathname.match(/^\/[^\/]+\/(\d{4})\/(\d{2})\/\d{2}\/(.+?)\/?\s*$/);
+  if (m) {
+    window.location.replace('/' + m[1] + '/' + m[2] + '/' + m[3]);
+  }
+})();
+</script>

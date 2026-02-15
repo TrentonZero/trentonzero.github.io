@@ -1,14 +1,12 @@
 ---
 published: true
-category: Personal
 layout: post
 tags:
-  - programming
-  - career
-  - politics
+- politics
+- programming
+- work
 title: That A**hole
----
-## That Asshole
+---## That Asshole
 
 My first programming job was for $30k at a time when the typical entry-level salary was $60k. I was a college drop-out with only hobby programming experience and I needed work for food. Someone took a chance on me. Another developer, a guy with a Masters, there heard about it, said "That asshole." 
 

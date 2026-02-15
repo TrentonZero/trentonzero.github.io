@@ -1,12 +1,13 @@
 ---
-    layout: post
-    category: Personal 
-    tagline: ""
-    title: Merry Elven Christmas
-    tags: [quenya, christmas]
-    image: /assets/images/merrychristmas_quenya.jpg
+layout: post
+tagline: ""
+title: Merry Elven Christmas
+tags:
+- elvish
+- quenya
+- tolkien
+image: /assets/images/merrychristmas_quenya.jpg
 ---
-
 Happiness to you from the feast of Christ!
 
 <!-- more -->

@@ -2,7 +2,7 @@
 title: "TrentonZero's Thoughts"
 tagline: "You Wanted More, you got it."
 production_url: https://trentonzero.github.io
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:title
 
 exclude: [".hyde.el", ".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Dockerfile", "docker-compose.yml"]
 highlighter: rouge

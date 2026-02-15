@@ -1,13 +1,11 @@
 ---
 published: true
-category: Personal
 layout: post
 tags:
-  - programming
-  - allegory
-title: A Programming Allegory 
+- allegory
+- programming
+title: A Programming Allegory
 ---
-
 Once, in the long, long ago, the prophet descended from the mountain. We called him Alan Kay, praise be upon his name. He told us the gospel of objects and the priests heard him, and the priests told the people, who had been suffering greatly. 
 
 <!-- more -->

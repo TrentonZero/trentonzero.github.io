@@ -1,12 +1,13 @@
 ---
 layout: post
-category: Personal 
 tagline: “Favorite Horror Writer”
 title: On Shirley Jackson
-tags: [Shirley Jackson, horror, thriller, fiction, literature]
+tags:
+- fiction
+- horror
+- literature
 image: /assets/images/hillhouse.jpg
 ---
-
 
 Shirley Jackson is rapidly becoming my favorite horror author. Most people will know Shirley Jackson from her short story "The Lottery", which they will have been forced to read in school. I, actually, have no recollection of having read it in school, but that doesn't mean it didn't happen. I discovered her from her short story "The Summer People," about vacationing city-folk who decide to retire and live year round in their country summer home. The locals are, needless to say, this being a horror story, not very fond of the idea.
 

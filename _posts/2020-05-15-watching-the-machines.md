@@ -1,16 +1,10 @@
 ---
 published: true
 layout: post
-category: personal
 title: Watching the Machines Run
 tags:
-  - green god
-  - lancelot
-  - walker percy
-  - power fantasy
-  - programming
+- programming
 ---
-
 There's a bit from the Walker Percy novel "Lancelot" where he praises the kind of "interested idleness" that just watches the machines run. It was made in reference to an oil man and self-made millionaire who dug a hole a in the ground, worked to build an industrial mechanism on top of it... 
 
 <!-- more -->

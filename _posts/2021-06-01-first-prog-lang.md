@@ -1,12 +1,10 @@
 ---
 published: true
-category: Personal
 layout: post
 tags:
-  - programming
+- programming
 title: Your First Programming Language
----
-"What should my first programming language be? Should I learn Javascript or C or C++ or Java or LISP?"
+---"What should my first programming language be? Should I learn Javascript or C or C++ or Java or LISP?"
 
 <!-- more -->
 

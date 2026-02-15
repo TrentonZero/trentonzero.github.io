@@ -1,11 +1,11 @@
----                                                 
-    layout: post                                    
-    category: Personal                              
-    tagline: "Pet Peeve"                            
-    title: Ingratitude                               
-    tags: [pet-peeve, economics, pay, imposter syndrome, education]   
 ---
-
+layout: post
+tagline: "Pet Peeve"
+title: Ingratitude
+tags:
+- politics
+- work
+---
 The twitter sphere, for the whole ten minutes that it succeeded in being distracted from Trump, was set aflame by an Arizona teacher that posted her pay-stub online along with a rant about how she could not possible live on a salary of $35,000 a year.
 
 Sigh.

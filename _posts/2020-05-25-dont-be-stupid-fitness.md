@@ -1,8 +1,9 @@
 ---
 published: false
 title: Fat Nerd 2 Not Stupid
+tags:
+- fitness
 ---
-
 Everyone has a fitness philosophy it seems like, but I'm not sure I've really heard anyone express mine. Maybe that's because I'm wrong (disclaimer, I still weigh almost 260 pounds). Or maybe that's because I don't have anything to sell you. Anyway, here's mine, the "Don't be Stupid" fitness program.
 
 <!-- more -->

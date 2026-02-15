@@ -1,12 +1,12 @@
 ---
-    layout: post
-    category: great movies
-    tagline: "Best, movie, ever"
-    title: Who is Citizen Kane?
-    tags: [movie, citizen kane, orson welles,fan, movie review,unreliable narrator]
-    image: /assets/images/highangle.jpg 
+layout: post
+tagline: "Best, movie, ever"
+title: Who is Citizen Kane?
+tags:
+- film
+- review
+image: /assets/images/highangle.jpg
 ---
-
 {% include figure.html src="/assets/images/highangle.jpg" caption="What to make of this man?" align="right" %}
 
 I watched <em>Citizen Kane</em> for the first time almost ten years ago. I had been pegged with teaching an "English through Film" class at Shengda College in Zhengzhou, Henan, China, and that class required that I build an English class around screening around a dozen classic films. At the moment, I can only remember two of those: Citizen Kane and Casablanca. I have since seen Citizen Kane around twenty or thirty times, and with each viewing, it ascends a little higher in my esteem. And the first viewing had it pegged pretty highly in general. For half a century, it has been seen as one of the best films ever created, and I can't quibble with that distinction.

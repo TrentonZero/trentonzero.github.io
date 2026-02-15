@@ -1,11 +1,11 @@
----                                                 
-    layout: post                                    
-    category: Personal                              
-    tagline: ""
-    title: My Face Hurts                               
-    tags: [flash]   
 ---
-
+layout: post
+tagline: ""
+title: My Face Hurts
+tags:
+- fiction
+- slice of life
+---
  "My face hurts."
 
 Too loud for hunting. Petulant. Whining.

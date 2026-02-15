@@ -1,13 +1,11 @@
 ---
 published: false
 layout: post
-category: personal
 tags:
-  - programming
-  - life
+- philosophy
+- programming
 title: Ideal Difficulty
 ---
-
 Here's a lesson I learned that I'm not sure all my coworkers in the computer field have caught onto yet: 
 
 > There is an ideal level of complexity for any problem.

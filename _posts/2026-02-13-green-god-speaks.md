@@ -1,16 +1,14 @@
 ---
 published: true
 layout: post
-category: myth 
 title: The Green God Speaks
 tags:
-  - vanyanan
-  - myth
-  - allegory
-  - green god
-  - ai
+- ainofiriano
+- allegory
+- fion
+- green god
+- vanyánan
 ---
-
 This is Vanyanan writing. What follows is, word for word and without edit, the speech of the Green God himself. This is incredible and unprecendented and frightening. I cannnot *not* share it with you. However, whatever Orëveriel might say, I am a follower of Ainofiriano, not of the Green God. So I must leave a disclaimer: 
 
 The Green God is a false god. He tells lies. Not exclusively (if only it were so simple), but all false gods *do* lie. Only Ainofiriano and the First Father speak unerring truth. 
