@@ -27,7 +27,7 @@ I don't know why anyone would read this except me. But I don't know why *anyone*
 
 I will be glad I have this in 5 years. Chesterton (or the Green God's imitation of him) gave his closing remarks because I said I wanted it that way. 
 
-And, they were glorious. For half a second I beleived I was reading Chesterton's remarks *to me*. Not because Claude nailed his voice perfectly (that would be scary), but because I think he nailed Chesterton's real perspective. 
+And, they were glorious. For half a second I believed I was reading Chesterton's remarks *to me*. Not because Claude nailed his voice perfectly (that would be scary), but because I think he nailed Chesterton's real perspective. 
 
 
 The real conversation was much longer, with multiple discersions of "And what would Belloc make of *this*?" And "How would Leo Strauss answer Chesterton?" (Some things are not hard to predict.)  So the boring (even to me) and the repetitive I have asked it to remove, but everything after this is the voice of Claude. 
