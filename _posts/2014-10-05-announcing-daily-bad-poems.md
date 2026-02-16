@@ -1,0 +1,25 @@
+---
+layout: post
+title: Announcing Daily (Bad) Poems
+date: 2014-10-05 09:44:41.000000000 -05:00
+tags:
+- blogging
+- poetry
+published: true
+---
+
+When I was in high-school, freshman year, I took creative writing, and the bulk of the writing was poetry. (Or maybe that is just what I remember best.) I wrote poetry through all of high-school and even a few years after. Then, I just stopped.
+
+<!-- more -->
+
+I realized something which was probably obvious to everyone else from the start, namely that I am not a very good poet. My poems that weren't teenage angst or Pythonesque gibberish were obvious and without any of the real insight that makes for great poetry. Even then, most of the time I just hacked it and tried to assume other writers' insights and rephrase them in my own words. My sense of meter, when I was disciplined enough to follow it, which was very rarely, was barely tolerable.
+
+I was a bad poet, and I felt that if I couldn't be a good poet, I may as well give the whole thing up. (It wasn't long after giving up poetry that I gave up prose as well.) Besides, I was getting into my mid-twenties by this point and the whole thing just seemed too juvenile. No one besides myself was to blame for this. I think I was just a late bloomer and committed that most juvenile of juvenile offenses: trying to act like an adult.
+
+Cut to today. I'm in my mid-thirties, and anyone that questions my adulthood can get in line behind the mortgage and the two car payments. I promise to call their number sometime in, oh, thirty years.
+
+After not writing a poem in a decade or so, a few months ago I wrote a [short haiku about a spider](/personal/poetry/2014/07/12/spider-at-the-door/) that took up residence outside my front-door. It wasn't anything special, but I liked writing it, so I wrote a few more. And a few more after that. Many [downright terrible](/poetry/silly%20stories/2014/10/05/daily-poem-1/), others... better.
+
+I have come full circle and have decided that I just don't care anymore that my poetry is bad (provided it's as good as I could compose it.) I am not a famous poet, so I have no one to please but myself and a narrow circle of friends. I have a career where I get to be serious and competent, five-days a week. I can be silly, juvenile, and incompetent in my spare time if it suits me.
+
+All that being said, I've decided that I will post one poem, good or (more likely) bad or (likelier still) terrible, each day. The best I can promise is that none of them will be deliberately bad. I will never write a worse poem than I could write at the time, but that is the limit of my guarantee of quality, and there will be no returns. *Caveat emptor*.

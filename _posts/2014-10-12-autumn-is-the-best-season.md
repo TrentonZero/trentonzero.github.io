@@ -1,0 +1,17 @@
+---
+layout: post
+title: Autumn is the Best Season
+date: 2014-10-12 17:13:09.000000000 -05:00
+tags:
+- hiking
+- life
+- liswamírë
+published: true
+image: /assets/images/img_0196.jpg
+---
+
+{% include figure.html src="/assets/images/img_0196.jpg" caption="Gateway Park" align="center" %}
+
+Liswamírë and I took a trip to Gateway Park today and went on a nice four-mile hike with Merry and Pippin.
+
+Autumn is definitely the best season of the year. It has this entire "winding down" feel to it that I like. The temperatures are pleasant, but the wind is starting to get a cold bite to it. Just enough to wear a jacket and pull it tighter when it picks up. Nature takes on a tone of wistful, melancholic reflection, and that suits me just fine. It is time for coffee and acoustic music. And poetry. It is doubtful a coincidence that I took up blogging and poetry again in the fall. It wasn't conscious, I assure you, but it fits, and I think there is a cause-and-effect going on there somewhere in the subconscious.

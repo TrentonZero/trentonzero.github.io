@@ -1,0 +1,58 @@
+---
+layout: post
+title: 'Happy Halloween: House of the Devil'
+date: 2014-10-29 07:42:00.000000000 -05:00
+tags:
+- film
+- horror
+- review
+published: false
+---
+
+One of our favorite horror films in the TrentonZero household is Ti West's 2009 movie "House of the Devil." It's an excellent, atmospheric thriller in the tradition of Hitchcock.
+
+Set in the 80's, it centers around a cash-strapped co-ed, Samantha, at a New England university. She wants out of her dorm and into her own apartment for a perfectly valid reason: she rarely ever get into her dorm room. She finds the perfect location, but needs dough to make the first month's deposit.
+
+She accepts a last-minute and suspiciously lucrative baby-sitting job at an old-fashioned state house outside of town. The residents are suitably creepy, and drop the news that there is no baby to sit. Rather, the sitter is required for their elderly mother, and whom we are assured will sleep through the whole night. I don't think I need to put in a spoiler warning to say that this is not true.
+
+Speaking of spoilers, here is the spoiler warning. You've been warned.
+
+Did I mention it's the night of a total lunar eclipse, and the residents of the titular house are really, really interested in seeing it? Enough that they will pay a house-sitter around $300 dollars a night? And these are 1980's dollars. You could buy a new car for $200 back then, and still have money left over for a big hair cut. Okay, not really, but there has been non-trivial inflation since then, so can pretty much multiply the fee by two. These guys, so it would seem, are really frickin' into astronomy.
+
+Samantha knows something isn't right, so does her friend, and so do we. But, she needs the money, so she ignores her friend, ignores the audience, ignores her own better judgement, and accepts the job. But not before doubling the price. Samantha may be horror-movie bait, but she's not *stupid*.
+
+Did I mention that, out of the corner of our eye, we get a glimpse of a family portrait in the house, and the people in the photo look nothing like the creepy weirdos that are offering all the money to baby-sit dear old grandma?
+
+And let's leave the synopsis there, with Samantha "alone" in a house in a horror movie and us knowing that something really, really bad is going to go down.
+
+Though it does contain a bit of violence and gore, this is not what drives the film, and it feels no obligation to deliver these for the slavering sadists in the audience. (Not that there's anything wrong with that.) Conversely, ~~sadists~~ fans who come to horror primarily for guts and gore and violence tend to dismiss the movie as a "boring" movie in which "nothing happens" with an insufficient "pay off."
+
+I can sympathize, a little, with this attitude. Though I'm not at all a fan of the "torture porn" vein of horror, I don't plop down my ten dollars to watch a movie about nothing anymore than anyone else does. But, that isn't this movie. At the risk of sounding ridiculous, I must tell the truth as I see it, and hope you will stick around long enough to hear me out. A lot of things are happening during this movie. They just don't happen on screen.
+
+I will pause for exactly two minutes to let you get all your snarky comments out of your system.
+
+...
+
+Finished?
+
+No?
+
+I will wait a little longer?
+
+...
+
+Still not finished?
+
+Too bad, I'm continuing without you.
+
+As I was saying, lots of things happen in this movie, but they aren't happening on screen. You know about them. You saw the portrait of the happy looking family in the titular house. And you know there ain't no way that's this family and that family are the same. And while I'm sure we could come up with a perfectly rational explanation for the difference, we know that photo spells bad ju-ju. We in the audience recognize the voice on the other end of the phone, having met a few more members of the family in residence than Samantha has.
+
+We spend the whole movie on edge, watching in the corners of the frame for a hint of what's going on, what's going to go down, and, of course, we know that Samantha isn't alone in the house. She is house sitting dear old grandma. They said she's "sleeping", but we in the audience know that is total bullshit. Grandma is in the house. She's upstairs. And she is bad-news.
+
+Samantha is on edge, and decides to relax, so she plays a little music on her WalkMan. (It's the 80s!) Her song choice is happy enough, the 1982 pop song "One Thing Leads to Another" by The Fixx. But, we in the audience find the lyrics ominously prophetic.
+
+Ti West lets us sit in that suspense for awhile, slowing turning the screws with a hint here, a suggestion there, a peaked dead body in an unexplored room, the murder of Samantha's best friend.
+
+This is the heart of great horror. Torture porn is shocking. It's cheap, it's easy, it's *boring*. But honest to goodness suspense? Having a director twist you around his finger like he has you chained to the rack? That's horror. That's exciting. And Ti West is **good** at it.
+
+Of course, the "payoff" does come. We finally see grandma. We learn the dark secret of the eclipse. And (I did give you a spoiler warning, didn't I?) Samantha gets to find out just how Mia Farrow felt in another masterpiece of horror and suspense. She's a little more decisive than Mia was under similar circumstances. But, don't worry, we close with assurances that Samantha and her baby are gonna be *just fine.*

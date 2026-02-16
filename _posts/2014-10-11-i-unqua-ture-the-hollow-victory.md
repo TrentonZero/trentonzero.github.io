@@ -1,0 +1,25 @@
+---
+layout: post
+title: I Unqua Turë (The Hollow Victory)
+date: 2014-10-11 10:31:30.000000000 -05:00
+tags:
+- elvish
+- quenya
+- tolkien
+published: true
+image: /assets/images/unqua-ture.png
+---
+
+![The Hollow Victory](/assets/images/unqua-ture.png)
+
+After trying, still unsuccessfully, to configure LaTeX to generate Quenya (cursive or otherwise), I have given up. I have decided to just use the text editor that came with iWei(1).
+
+I'm not 100% happy with this arrangement. Currently, to generate tengwar text, I have to go through the following steps:
+
+1) Write the quenya itself using a system of romanization.  
+2) Look up the relevant tengwar for each letter. (I know the vowels, but much more uncomfortable with the consonents.)  
+3) Look up the keycode for how to type the Tengwar, because it does not match the closest English letter at all. For example, the vowel 'ah' (you can see it in the triple ''' in the title) can be typed with either #,E,D, or C, depending upon where it should be placed.
+
+However, until I can get LaTeX to actually see the new fonts (I have followed multiple tutorials,) I may just have to let it go and do it the tedious way. I can create cursive tengwar now, but it's still a hollow victory (unqua turë).
+
+1) Liswamírë and I have named the three Macs in our household after the states during the Chinese period of Three Kingdoms: iWei (my Macbook), iWu (her Macbook), and iShu (a Mac Mini server).
