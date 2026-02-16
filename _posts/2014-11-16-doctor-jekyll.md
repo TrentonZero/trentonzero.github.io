@@ -7,6 +7,7 @@ tags:
 - programming
 image: /assets/images/jekyll.logo.png.jpg
 ---
+
 I am now committed. I've seen enough to let me know that WordPress is out and Jekyll hosted on Github Pages is in. I will be moving my blog from WordPress and over into Jekyll.
 
 I have blogged on five different platforms in my life: static HTML, LiveJournal, a custom CMS written by yours truely on the Google App Engine, WordPress, and now Jekyll. And I have to say that at least so far I feel like Jekyll (along, of course, with Discus for the social functionality) is the best of the bundle, at least for a person of my dispositions and talents. 

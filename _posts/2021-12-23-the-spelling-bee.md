@@ -4,6 +4,7 @@ tags:
 - fiction
 - slice of life
 ---
+
 I live at the corner of Gibson and Parrish. "Parrish," with an extra R that makes me wonder if there is some word I don't know or if I really live next to an elementary school and at the corner of a misspelling. I'd call it a typo, but it's not a slip of the finger. Or, if it is, it's a slip of some secretary's finger, recorded in the city records and in my street name forever.
 
 <!-- more -->

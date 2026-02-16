@@ -4,6 +4,7 @@ tags:
 - philosophy
 - religion
 ---
+
 Christmas is almost here. Decorating the tree is a study in human nature. I never want to go through the trouble. But, then I begin and it proceeds happily, and it is done. We turn on the tree lights, we turn off the house lights, and then there is peace. 
 <!-- more -->
 

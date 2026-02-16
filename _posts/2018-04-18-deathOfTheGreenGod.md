@@ -7,6 +7,7 @@ tags:
 - fiction
 - green god
 ---
+
 Shortly after the begetting of the world by the First Father, after the Wise Ones wrote the scriptures, while the Wise Ones still walked the earth and took pleasure in their creation, the Green God was born.
 
 <!-- more -->

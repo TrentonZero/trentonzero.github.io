@@ -6,6 +6,7 @@ tags:
 - philosophy
 - work
 ---
+
 What is the role of work in life? 
 
 Let's start by describing some people, and of course these imaginary people are exaggerations on themes. You will find these types in every job, but in different ratios. You will find any profession with substantial bonuses and commissions dominated by Tonys and every entry-level job by Alfreds. Whereever salaries are paid, you will find Martha and Rachael together.

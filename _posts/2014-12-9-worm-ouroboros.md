@@ -10,6 +10,7 @@ tags:
 - review
 image: /assets/images/worm.jpg
 ---
+
 I have just finished "The Worm Ouroboros" by E.R. Eddison. Here we have a representative passage, reproduced faithfully exactly as written: 
 
 "Unto the right high mighti and doubtid Prynsace the Quen of Implande, one that was your Servaunt but now beinge both a Traitor and a manifald parjured Traitor, which above doth abhorre, the erth below detest, the sun moone and stars be eschamed of, and all creatures doo curse and ajudge unworthy of breth and life , do wish onelie to die your Penytent."

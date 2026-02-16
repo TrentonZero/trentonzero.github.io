@@ -7,6 +7,7 @@ tags:
 - allegory
 - orëveriel
 ---
+
 I was halfway to work when Orëveriel appeared in the car. She was, once again, in the form of a calico cat, but this time done up fully in "English officer in India" safari getup. 
 
 "It is supposed to be cooler today, Vanyanan. Let's go for a good walk."

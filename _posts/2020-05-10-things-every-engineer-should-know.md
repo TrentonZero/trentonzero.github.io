@@ -5,6 +5,7 @@ tags:
 - programming
 title: 150 Things Every Software Engineer Should Know
 ---
+
 1. 0(n log n)
 2. How to hash a data structure
 3. When to use a hashmap

@@ -3,7 +3,9 @@ published: true
 tags:
 - philosophy
 - religion
----(I wrote this shortly after a Bible study in a notebook, and it's pretty chaotic. Don't assume anything is a coherent thought.) 
+---
+
+(I wrote this shortly after a Bible study in a notebook, and it's pretty chaotic. Don't assume anything is a coherent thought.) 
 
 The gospel of authenticity can only be true if authenticity means true to our redeemed nature. It cannot mean true to the Fall.
 

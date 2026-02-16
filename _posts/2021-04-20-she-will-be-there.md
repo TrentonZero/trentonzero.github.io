@@ -7,6 +7,7 @@ tags:
 - religion
 - slice of life
 ---
+
 It is Saturday, November 2nd, and another day for the nurses and the dozens of humans who have outlived their lives. Among them walks a disheveled and unshaven man wearing a crooked crucifix. 
 
 "I want to go to church," he tells every nurse who will listen. It was three or four nurses before one answered kindly. 

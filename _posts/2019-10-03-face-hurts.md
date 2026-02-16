@@ -6,6 +6,7 @@ tags:
 - fiction
 - slice of life
 ---
+
  "My face hurts."
 
 Too loud for hunting. Petulant. Whining.

@@ -4,7 +4,9 @@ layout: post
 title: A Mythical Man Month Corollary Conversation
 tags:
 - programming
----(A conversation that happened with another developer. Lightly edited to protect the innocent. Also, there may be typos and grammatical errors, since it is copied pretty directly from an IM thread.)
+---
+
+(A conversation that happened with another developer. Lightly edited to protect the innocent. Also, there may be typos and grammatical errors, since it is copied pretty directly from an IM thread.)
 
 K: I can sit here and think that 100 man developer teams have as their sole advantage over 5 man developer teams that they build systems that can only be maintained by a 100 man developer team…but I have no proof of that, and we already have such a system, so what can I do?
 

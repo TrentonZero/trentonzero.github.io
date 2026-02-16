@@ -5,6 +5,7 @@ tags:
 - politics
 - religion
 ---
+
 They are there, hundreds of them, packing into a room to commemmorate a dead man they didn't know, who died five generations before their time and took with him a world they never knew and cannot imagine. 
 
 But, they think they do, and they long for it. Poor American children living in the secular age, mourning a long dead Austrian and what he represents to them. Heaven help them.

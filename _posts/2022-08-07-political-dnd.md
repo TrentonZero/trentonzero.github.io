@@ -6,6 +6,7 @@ tags:
 - philosophy
 - politics
 ---
+
 What is the first rule of being a Dungeon Master who wants to enjoy a long campaign of Dungeons and Dragons with his friends? 
 
 Maybe, "know the rules." 

@@ -6,6 +6,7 @@ tags:
 - programming
 - work
 ---
+
 Before the word "fundamentalism" became derogatory, it referring to a movement in American Protestantism that insisted upon a return to 5-10 'fundamental' doctrines of Christianity (the number varies as the movement evolved).
 
 The idea was that there were a small number of relatively simple to understand and essential doctrines to Christianity and if you found yourself building an elaborate theological or philosophical scheme that reached contrary conclusions, then this was a sign that you had gone wrong some where. You needed to return to the fundamentals and start over.
