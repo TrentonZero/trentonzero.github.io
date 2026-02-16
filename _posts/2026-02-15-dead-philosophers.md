@@ -18,7 +18,7 @@ And then I asked it to pretend to be a dozen writers and philosophers that I kno
 
 What does (God help us all), _Nietzsche_ make of all this?
 
-What does Belloc make of my politics (so influenced by him by so very, *very* different from his)?  Spoiler: Chesterton has to calm him down afterwards, and this is such an accomplishment when Claude's training is so sycophantic.
+What does Belloc make of my politics (so influenced by him but so very, *very* different from his)?  Spoiler: Chesterton has to calm him down afterwards, and this is such an accomplishment when Claude's training is so sycophantic.
 
 What about Marx, who influenced Belloc? 
  
