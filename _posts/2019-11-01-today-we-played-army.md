@@ -5,6 +5,7 @@ title: Today We Played Army
 tags:
 - fiction
 - slice of life
+- showcase
 ---
 
  We played army today, the six of us, with ranks organized by age, so that the two teenage boys were the generals, the twelve year old a captain, the ten year old a sergeant, and we eight year olds were privates.

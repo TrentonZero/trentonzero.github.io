@@ -5,6 +5,8 @@ header: The Vanyanan Cantos
 group: navigation
 ---
 
+<p><a href="/guide.html">Guide for the Perplexed</a> &mdash; a guide to the characters, peoples, and places of the Cantos.</p>
+
 {% assign myth_posts = site.posts | where_exp: "post", "post.tags contains 'myth'" %}
 {% for post in myth_posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

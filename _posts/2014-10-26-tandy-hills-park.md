@@ -8,7 +8,6 @@ tags:
 - liswamírë
 - texas
 - vanyánan
-- myth
 published: true
 image: /assets/images/img_0250.jpg
 ---

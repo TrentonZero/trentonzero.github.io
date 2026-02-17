@@ -5,6 +5,7 @@ title: The Old Priest
 tags:
 - fiction
 - slice of life
+- showcase
 ---
 
  

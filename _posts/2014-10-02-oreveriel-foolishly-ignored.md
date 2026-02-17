@@ -7,7 +7,6 @@ tags:
 - quenya
 - silly story
 - vanyánan
-- myth
 published: true
 ---
 

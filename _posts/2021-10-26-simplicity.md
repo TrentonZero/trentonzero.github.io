@@ -4,7 +4,6 @@ layout: post
 tags:
 - philosophy
 - programming
-- showcase
 title: Programmer Rant On Complexity
 image: /assets/images/simplicity.jpg
 ---
