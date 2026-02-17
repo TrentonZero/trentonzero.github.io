@@ -1,0 +1,29 @@
+---
+layout: page
+title: The Vanyanan Cantos
+header: The Vanyanan Cantos
+group: navigation
+---
+
+{% assign myth_posts = site.posts | where_exp: "post", "post.tags contains 'myth'" %}
+{% for post in myth_posts %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+  {% if forloop.first %}
+    <h2>{{ this_year }}</h2>
+    <ul>
+  {% endif %}
+
+  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+
+  {% if forloop.last %}
+    </ul>
+  {% else %}
+    {% if this_year != next_year %}
+      </ul>
+      <h2>{{ next_year }}</h2>
+      <ul>
+    {% endif %}
+  {% endif %}
+{% endfor %}

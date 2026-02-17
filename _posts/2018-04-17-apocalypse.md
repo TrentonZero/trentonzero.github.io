@@ -8,6 +8,7 @@ tags:
 - calemorinna
 - fiction
 - vanyánan
+- myth
 ---
 
  Of the beginning you have been told, but for a beginning there is also an end.

@@ -10,6 +10,7 @@ tags:
 - liswamírë
 - orëveriel
 - vanyánan
+- myth
 image: /assets/images/dungeon.jpg
 ---
 

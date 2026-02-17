@@ -9,6 +9,7 @@ tags:
 - silly story
 - slice of life
 - vanyánan
+- myth
 published: true
 image: /assets/images/photo-on-9-28-14-at-7-49-pm-3.jpg
 ---

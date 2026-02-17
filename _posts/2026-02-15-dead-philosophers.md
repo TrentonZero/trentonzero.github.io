@@ -9,6 +9,7 @@ tags:
   - religion
   - great books
   - ai
+  - showcase
 title: Chesterton's Ghost
 ---
 

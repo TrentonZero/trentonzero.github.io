@@ -454,6 +454,50 @@ pre > code {
 
 
 /* ==========================================================================
+   Showcase
+   ========================================================================== */
+
+.showcase {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.showcase-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  transition: border-color 0.25s ease, background 0.25s ease;
+}
+
+.showcase-card:hover {
+  border-color: var(--border-light);
+  background: var(--bg-hover);
+}
+
+.showcase-card .showcase-title {
+  font-family: var(--font-heading);
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.showcase-card .showcase-date {
+  font-family: var(--font-code);
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.showcase-card .showcase-tagline {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+
+/* ==========================================================================
    Responsive
    ========================================================================== */
 
@@ -471,6 +515,10 @@ pre > code {
 
   .site-nav .social {
     display: none;
+  }
+
+  .showcase {
+    grid-template-columns: 1fr;
   }
 
   .post-list .date {

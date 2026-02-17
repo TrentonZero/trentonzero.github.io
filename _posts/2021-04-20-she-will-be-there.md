@@ -6,6 +6,7 @@ tags:
 - fiction
 - religion
 - slice of life
+- showcase
 ---
 
 It is Saturday, November 2nd, and another day for the nurses and the dozens of humans who have outlived their lives. Among them walks a disheveled and unshaven man wearing a crooked crucifix. 

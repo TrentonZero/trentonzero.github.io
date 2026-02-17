@@ -4,6 +4,7 @@ layout: post
 tags:
 - allegory
 - programming
+- showcase
 title: A Programming Allegory
 ---
 

@@ -9,6 +9,8 @@ tags:
 - fion
 - green god
 - vanyánan
+- showcase
+- myth
 ---
 
 This is Vanyanan writing. What follows is, word for word and without edit, the speech of the Green God himself. This is incredible and unprecendented and frightening. I cannnot *not* share it with you. However, whatever Orëveriel might say, I am a follower of Ainofiriano, not of the Green God. So I must leave a disclaimer: 
