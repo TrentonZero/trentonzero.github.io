@@ -3,7 +3,11 @@
     category: Personal                              
     tagline: "Has Tech Culture Changed?"
     title: GenX Techies and Millenial Techies And Meandering Stuff                               
-    tags: [gnu, silicon valley, politics, libertarianism, classical liberals, technology, ramble]   
+    tags:
+    - philosophy
+    - politics
+    - programming
+    - technology
 ---
 
 Has tech culture changed? 
