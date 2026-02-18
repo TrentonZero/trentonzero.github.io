@@ -8,7 +8,7 @@ services:
     volumes:
       - .:/srv/jekyll
       - bundle_cache:/usr/local/bundle
-    command: bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling --livereload
+    command: bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling --livereload --drafts
 
 volumes:
   bundle_cache:
