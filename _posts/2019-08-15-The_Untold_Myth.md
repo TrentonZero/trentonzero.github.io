@@ -8,7 +8,6 @@ tags:
 - orëveriel
 - vanyánan
 - myth
-- showcase
 ---
 
 There is in the dungeon a certain chest, latched tightly, double latched, triple latched, and banded in rings of gold. It is guarded only by its seclusion in the dungeon and has only ever once been opened, and then only for the briefest moment at the Lady's Feast.

@@ -5,8 +5,10 @@ title:  "Orëveriel Tested"
 image: /assets/images/forest.jpg
 tags:
 - allegory
+- fiction
 - orëveriel
 - myth
+- fitness
 ---
 
 I was halfway to work when Orëveriel appeared in the car. She was, once again, in the form of a calico cat, but this time done up fully in "English officer in India" safari getup. 

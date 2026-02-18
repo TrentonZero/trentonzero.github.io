@@ -6,6 +6,7 @@ tags:
 - liswamírë
 - orëveriel
 - quenya
+- fiction
 - silly story
 - slice of life
 - vanyánan

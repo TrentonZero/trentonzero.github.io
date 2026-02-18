@@ -5,6 +5,7 @@ title: My Face Hurts
 tags:
 - fiction
 - slice of life
+- showcase
 ---
 
  "My face hurts."

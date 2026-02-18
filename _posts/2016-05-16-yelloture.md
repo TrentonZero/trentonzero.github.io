@@ -11,7 +11,6 @@ tags:
 - orëveriel
 - vanyánan
 - myth
-- showcase
 image: /assets/images/dungeon.jpg
 ---
 

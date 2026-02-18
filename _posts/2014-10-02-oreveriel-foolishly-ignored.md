@@ -5,6 +5,7 @@ date: 2014-10-02 19:10:54.000000000 -05:00
 tags:
 - orëveriel
 - quenya
+- fiction
 - silly story
 - vanyánan
 published: true
