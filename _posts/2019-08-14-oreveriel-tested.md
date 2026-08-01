@@ -43,7 +43,7 @@ I proceeded. More hills, more mud. My heart was racing, I was lost, and I wasn't
 
 She appeared just a little further up on the trail, at the top of a hill of loose rocks that looked...not safe...to climb. "I didn't promise you waterfalls, Vanyanan!"
 
-"Sure. Fine. Where is Isil? Where's Terabithia? Where's Ainofirano? This is just mud and sweat!"
+"Sure. Fine. Where is Isil? Where's Terabithia? Where's Ainofiriano? This is just mud and sweat!"
 
 The cat shrugged, "I gave you the goat man."
 

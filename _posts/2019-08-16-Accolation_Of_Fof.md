@@ -12,7 +12,7 @@ tags:
 - myth
 ---
 
-In the Dark Age, before the return of the Calloléra, in the thirty-fourth year since the creation of the world, before the year of Yelloturë's ascendence, came Calemorinna from the Sea. Where Calemorinna went, song followed, so that she was also called Gwethlir.
+In the Dark Age, before the return of the Calloléra, in the thirty-fourth year since the creation of the world, before the year of Yelloturë's ascendance, came Calemorinna from the Sea. Where Calemorinna went, song followed, so that she was also called Gwethlir.
  
 
 <!-- more -->

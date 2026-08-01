@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-I gave Orëveriel a hard time about the the whole shaving fiasco as reported in my previous record. I even went so far as to say that practically every foolish thing I had ever done, I had done on her council.
+I gave Orëveriel a hard time about the whole shaving fiasco as reported in my previous record. I even went so far as to say that practically every foolish thing I had ever done, I had done on her council.
 
 In Orëveriel's defense, occasionally, randomly almost, she gets things correct. And, often, these are the times I choose not to listen to her. This morning, for example.
 
@@ -33,6 +33,6 @@ I took the train to work, like I always do, and everything went swell, until I l
 
 Turns out, there was a thunder and hail storm while I was at work. And all the trains were just sitting there, on the tracks, doing nothing for about an hour and half after I got off work. I am only just now coming within 10 minutes of the train station near my home, having left the office nearly three hours before. Giving up on the trains Dallas inner-city trains, I walked 3 miles to the transfer point for the TRE, which thankfully was only about a half hour behind schedule.
 
-Sitting next to me on the train is Orëveriel, a six-foot tall erect calico cat, wearing a now soaked rain-coat and sipping hot tea (I know not from where) from a porcelian tea cup (from I know not where.) She hasn't said anything yet. She just looks at me, with the smug superiority that seems to always on the face of all cats.
+Sitting next to me on the train is Orëveriel, a six-foot tall erect calico cat, wearing a now soaked rain-coat and sipping hot tea (I know not from where) from a porcelain tea cup (from I know not where.) She hasn't said anything yet. She just looks at me, with the smug superiority that seems to always on the face of all cats.
 
 I no longer look like me. I look like a very cold, very wet baby. And she, as a smug, self-satisified cat with a silent "told you so" expression, looks like no one except Orëveriel.

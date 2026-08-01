@@ -36,7 +36,7 @@ For this reason, the first half of the meal and the movie consists of André tal
 
 Here, the first time I viewed the movie, I paused it and went to the restroom. I was, to be honest, a little frustrated. André's worldview was interesting, no doubt, but listening to him go on about it felt about the same as listening to anyone drone on about their religion for forty-five minutes. Wallace feels the same way, but his growing frustration is played very subtly, so I missed it the first time. I did not hold out hope for the rest of the movie. 
 
-Liswamirë asked me what I thought about it at this point as well, and, like Wallace, I gave an answer somewhat like, "It's okay. It's interesting. I guess. André is getting on my nerves."
+Liswamírë asked me what I thought about it at this point as well, and, like Wallace, I gave an answer somewhat like, "It's okay. It's interesting. I guess. André is getting on my nerves."
 
 At almost exactly that moment (after I resumed the movie), as if on a cue, Wallace's disinterested, polite facade starts to break down. Don't misunderstand me, the conversation remains polite and civil through out the entire movie. (And I wouldn't want it any other way. I can listen to two morons scream at each other for free, thank you. Ninety-percent of television seems to have decided this is the 'real' mode of communication, but I digress.) 
 

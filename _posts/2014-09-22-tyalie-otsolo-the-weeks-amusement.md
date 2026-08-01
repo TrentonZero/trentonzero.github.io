@@ -15,7 +15,7 @@ I recently read *The Silmarillion* for the first time and not without some appre
 
 <!-- more -->
 
-All that being said, I was delighted by it. Far from Tolkien at his most tedious, *The Silmarillion*, I felt by the end, was Tolkien at his best: Tolkien as world creator. If I grew bored with Frodo and Sam in *The Two Towers*, I never grew bored with Middle-Earth. That place posessed a depth that left all other fantasy worlds looking shallow by comparison. And *The Silmarillion* is about Middle-Earth much more than it is about any of its characters. Few characters (outside the angelic Valar) appear in more than one chapter, though a few make memorable impressions in their alotted space. I am thinking especially of Beren and Lúthien, Lúthien in particular, but also Túrin Turambar. And we mustn't forget Ungoliant. The real power of the book however is the epic scope and depth. We have in *The Silmarillion* something like the Old Testament of Middle-Earth, and it holds a similar power. (And yes, there is even a "begets" section, though it only lasts a few paragraphs. You will be forgiven for skipping it.)
+All that being said, I was delighted by it. Far from Tolkien at his most tedious, *The Silmarillion*, I felt by the end, was Tolkien at his best: Tolkien as world creator. If I grew bored with Frodo and Sam in *The Two Towers*, I never grew bored with Middle-Earth. That place possessed a depth that left all other fantasy worlds looking shallow by comparison. And *The Silmarillion* is about Middle-Earth much more than it is about any of its characters. Few characters (outside the angelic Valar) appear in more than one chapter, though a few make memorable impressions in their allotted space. I am thinking especially of Beren and Lúthien, Lúthien in particular, but also Túrin Turambar. And we mustn't forget Ungoliant. The real power of the book however is the epic scope and depth. We have in *The Silmarillion* something like the Old Testament of Middle-Earth, and it holds a similar power. (And yes, there is even a "begets" section, though it only lasts a few paragraphs. You will be forgiven for skipping it.)
 
 I have been sufficiently enthused that I've been spending the past couple of days this week learning bits and pieces of Quenya, or "Ancient Elvish," one of two languages Tolkien created for the elves of Middle-Earth. (The other is Sindarin, and is essential modern Elvish.) I am, of course, no expert after this time. On the contrary, I've learned how difficult it is.
 
@@ -49,13 +49,13 @@ Other bits I have done. I decided that Wizard of Oz was :
 
 > Oswa Istari
 
-Which is Oz's Wizard, though I could see a case for using the genetive rather than the possessive mode.
+Which is Oz's Wizard, though I could see a case for using the genitive rather than the possessive mode.
 
 And I decided to create Elvish names for myself and my wife. We are Kevin and Amber, and of course the easiest thing to do would be to just try to transliterate the two words into Tengwar (the Elvish alphabet.) But, from what I've read in Tolkien, that's actually not a very Elvish thing to do. The Elves do not, in *The Silmarillion* or anywhere else, transliterate words or names. If they need a name for something, they give it a name themselves.
 
 Thus, the dwarves are, well, dwarves in 'Common.' They call themselves Khazad. The Elves aren't having any of that. The Elves call them Gonnhirrim (Masters of Stone) or Naugrim (Stunted People), depending on how nice they feel like being to them. In that spirit, I thought the more appropriately Elvish thing to do would be to look up the original meaning of the two names and then come up with proper Elven names. That is, names that represent the meaning of the thing being named, rather than a hopeless effort to reproduce sounds.
 
-Amber first, because it was easiest. The name 'Amber' is Arabaic for, you guessed it, amber, a honey-colored gemstone that comes from fossilized tree-resin. There is no Quenya word for amber, so I practiced a little creative license and went with:
+Amber first, because it was easiest. The name 'Amber' is Arabic for, you guessed it, amber, a honey-colored gemstone that comes from fossilized tree-resin. There is no Quenya word for amber, so I practiced a little creative license and went with:
 
 > Liswamírë
 
@@ -63,7 +63,7 @@ That is, "honey-colored jewel."
 
 Kevin was harder. The name 'Kevin' is Gaelic for, depending on the translation, "(gentle/handsome/kind) birth." I went with:
 
-> Vanyánan
+> Vanyanan
 
 That is, "born beautiful."
 
@@ -71,6 +71,6 @@ If I may say so myself.
 
 Ahem.
 
-Together, we are *Vanyánan ar Liswamírë*.
+Together, we are *Vanyanan ar Liswamírë*.
 
 I have tengal runes for all these, but I don't feel like attaching the images.

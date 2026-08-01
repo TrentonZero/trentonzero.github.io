@@ -21,7 +21,7 @@ title: 150 Things Every Software Engineer Should Know
 9. That the next time after 1:59 is not 2:00
 10. Why "float accountBalance = 100.32" is a bug
 11. How to write a recursive algorithm
-12. When to write a recursive algoritm
+12. When to write a recursive algorithm
 13. What tail call optimization is
 14. How a compiler works
 15. O(1)
@@ -87,7 +87,7 @@ title: 150 Things Every Software Engineer Should Know
 75. in words an arrogant junior engineer can understand
 76. what each of these people really wants when they ask for the impossible feature
 77. that easy-to-learn tools usually increase project complexity
-78. that hard-to-learn tools usually decrease project omplexity
+78. that hard-to-learn tools usually decrease project complexity
 79. why hardware manufacturers invest billions in open source
 80. how Bill Gates made his billions
 81. the business model of a successful open source product

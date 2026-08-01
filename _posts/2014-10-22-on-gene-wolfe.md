@@ -14,13 +14,13 @@ image: /assets/images/wolfecheers.jpg
 
 {% include figure.html src="/assets/images/wolfecheers.jpg" caption="Gene Wolfe" align="right" %}
 
-Gene Wolfe resides comfortable on my  ~~top-ten~~ ~~top-five~~ top-two list of favorite writers, out-ranked only by Chesterton. (You thought I would say Tokien, didn't you?) For the uninitiated, Gene Wolfe is most famous for his tetrology *The Book of the New Sun*, which begins with *The Shadow of the Torturer*, but he is also the author of *Peace*, *The Knight*, and *The Fifth Head of Cerebus*. And he has written hundreds of short stories. These come last in the list, but actually much of his best work is in short fiction.
+Gene Wolfe resides comfortable on my  ~~top-ten~~ ~~top-five~~ top-two list of favorite writers, out-ranked only by Chesterton. (You thought I would say Tolkien, didn't you?) For the uninitiated, Gene Wolfe is most famous for his tetralogy *The Book of the New Sun*, which begins with *The Shadow of the Torturer*, but he is also the author of *Peace*, *The Knight*, and *The Fifth Head of Cerebus*. And he has written hundreds of short stories. These come last in the list, but actually much of his best work is in short fiction.
 
 <!-- more -->
 
 He is ~~notorious~~ famous for writing stories and novels with unreliable narrators. This is usually taken to mean that the story's narrator is a liar, but that's generally not the case in a Gene Wolfe story (though there are exceptions.) Just as often, the narrator is simply not party to some bit of information that is essential to the full understanding of the plot, but the audience, over time, is.
 
-For example, in *The Knight*, our protagonist (Abel) is a thirteen-year-old boy who is teleported to a fantasy world, and granted a Herculean body. This is actually a common trope in low-brow juvenile fiction.  Wolfe turns the power fantasy on its head a bit though by letting the protagonist behave like a thirteen-year-old boy suddenly granted power. He becomes a bully, and its a rare problem he doesn't think he can solve just by beating the problem-person into submission.
+For example, in *The Knight*, our protagonist (Abel) is a thirteen-year-old boy who is teleported to a fantasy world, and granted a Herculean body. This is actually a common trope in low-brow juvenile fiction.  Wolfe turns the power fantasy on its head a bit though by letting the protagonist behave like a thirteen-year-old boy suddenly granted power. He becomes a bully, and it's a rare problem he doesn't think he can solve just by beating the problem-person into submission.
 
 Abel is suitably frightened in situations where fear is appropriate, but otherwise treats the whole experience like a video game. Every person of any importance who asks him to do anything is a quest, a quest Abel takes an oath to fulfill. By the end of the first novel (which must be read along with its sequel, *The Wizard*), Abel has set himself up in a web of contradicting oaths, including oaths sworn to a Satan-figure to do all sorts of things that are actually, well, really bad. (I'm trying not to spoil plot points more than I have to.)
 

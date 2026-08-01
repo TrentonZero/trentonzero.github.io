@@ -23,7 +23,7 @@ Or, take the older, preXP RPG Makers. Any random teenager willing to devote the 
 
 It wasn't fun.
 
-There are a lot of libraries that I find are like that. I cringe now everytime I find a page for a library that has a single liner invocation. Any problem so trivial that it can be solved by a single function call usually isn't worth the overhead of a third-party dependency. 
+There are a lot of libraries that I find are like that. I cringe now every time I find a page for a library that has a single liner invocation. Any problem so trivial that it can be solved by a single function call usually isn't worth the overhead of a third-party dependency. 
 
 Can you think of a counter-example? Maybe "Google search." Ah, but that's a great example, for a whole host of reasons. First, Google search is almost a command prompt, it takes so many special flags. In a programming API,  
 

@@ -9,11 +9,11 @@ tags:
 
 Let's talk golden handcuffs. 
 
-I heard about the concept on the Advisory Opinions legal podcast to describe the dilemna that faces Harvard educated lawyers who accept jobs at major law firms in New York City. These young, entry-level lawyers are paid ridiculous salaries, even within law, and then are given workloads that are impossible to handle without working 100 hour weeks. 
+I heard about the concept on the Advisory Opinions legal podcast to describe the dilemma that faces Harvard educated lawyers who accept jobs at major law firms in New York City. These young, entry-level lawyers are paid ridiculous salaries, even within law, and then are given workloads that are impossible to handle without working 100 hour weeks. 
 
 <!-- more -->
 
-They are, almost to a man, utterly miserable, but they cannot quit, because they become accustomed to a $300k lifestyle. To take a reasonable job means to accept a paycut to down to a "measely" $80-100k and to move out of NYC. And so they continue, trapped by affluence. They are wearing "golden handcuffs." 
+They are, almost to a man, utterly miserable, but they cannot quit, because they become accustomed to a $300k lifestyle. To take a reasonable job means to accept a paycut to down to a "measly" $80-100k and to move out of NYC. And so they continue, trapped by affluence. They are wearing "golden handcuffs." 
 
 This happens at every stage of middle class life in America in a less extreme form. We buy houses we can barely afford, and drive cars we usually cannot afford at all, and then discover that we feel trapped. Our peers and advertisers are really, really good at convincing us that the minimum is about 20% more than we can actually afford, and banks are happy to loan us the difference. 
 
@@ -21,7 +21,7 @@ To clarify, I'm not really talking about the actual poor in America. I'm talking
 
 We aren't necessarily miserable, and our employers can't exploit it quite the way big law firms can in NYC, but the phenomenon is real. 
 
-I've been thinking about it recently at work. Our boss has decided we should read and discuss and  agree with the Ibram X Kendi book on Antiracism. The book alternates between anecdotes from his life and an ideolology he identifies with them. The anecdotes are powerful and thought-provoking and if your worldview can't make sense of how these things happen, your worldview needs some nuance. But the ideology, on the other hand, is bonkers-on-bananas, explicitly illiberal, and implicitly totalitarian.  
+I've been thinking about it recently at work. Our boss has decided we should read and discuss and  agree with the Ibram X Kendi book on Antiracism. The book alternates between anecdotes from his life and an ideology he identifies with them. The anecdotes are powerful and thought-provoking and if your worldview can't make sense of how these things happen, your worldview needs some nuance. But the ideology, on the other hand, is bonkers-on-bananas, explicitly illiberal, and implicitly totalitarian.  
 
 The count is up to a dozen people in a group of around forty who will say to me, in private, "This is insane." But so far there are only two people, total, who will say, out loud and in public "There is no such category as 'not racist policy'? Every decision is racist or antiracist? Really?!? We have to pick between tabs and spaces based on a Critical Race Theory analysis?" 
 

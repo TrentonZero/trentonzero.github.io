@@ -37,9 +37,9 @@ Evil doesn't work. Or rather, it's incredibly hard to make it work. Harder even 
 
 This is not a trait of role-playing games, but it a trait of good and evil. 
 
-Being good does not gaurantee success, not in DND, not in real-life. 
+Being good does not guarantee success, not in DND, not in real-life. 
 
-But being evil almost always gaurantees failure, or at least a sub-optimal outcome. 
+But being evil almost always guarantees failure, or at least a sub-optimal outcome. 
 
 Con artists know this. They are themselves evil and greedy and will openly declare that it is extraordinarily hard to con a good person, smart or dumb. But they can con a greedy person. 
 
@@ -53,7 +53,7 @@ The schemes never work.
 
 The brutal landlord...he's a slum lord, isn't he? 
 
-The lying salesman...works on a sleezy used-car lot, doesn't he?
+The lying salesman...works on a sleazy used-car lot, doesn't he?
 
 The drug dealer sells poison for the promise of wealth...and the latest data shows that he mostly has less to show for it than he would have made devoting the same effort at a MacDonalds.
 

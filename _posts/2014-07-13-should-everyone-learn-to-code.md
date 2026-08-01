@@ -22,20 +22,20 @@ But everyone? I guess that sounds uncontroversial enough, but let's expand it ou
 
 As you move across the spectrum, you encounter the other subjects of a typical contemporary education: history, literature, civics, science, mathematics (beyond arithmetic), a foreign or classical language, and art. The question becomes, where does "coding" sit on the spectrum? I think the answer is "right next to 'shop'." In other words, right at the end, a subject to be studied by those interested (or obliged by other interests) but otherwise to be left alone. That's a pretty controversial statement right now (especially coming from a programmer), so let me justify it.
 
-First, a word to other programmers. I am speakig to you based on an assumption, namely that the reason you are a programmer today is because you like computers, then one day you tried out this programming thing, wrote "Hello World," realized endless possibilities, and starting soaking up programming knowledge with joy and personal zeal. In other words, you are passionate about it. Those of you that entered the field because you were clueless and figured it was a good way to make money, I don't know you. Nothing wrong with making money, but I don't know you.
+First, a word to other programmers. I am speaking to you based on an assumption, namely that the reason you are a programmer today is because you like computers, then one day you tried out this programming thing, wrote "Hello World," realized endless possibilities, and starting soaking up programming knowledge with joy and personal zeal. In other words, you are passionate about it. Those of you that entered the field because you were clueless and figured it was a good way to make money, I don't know you. Nothing wrong with making money, but I don't know you.
 
 For the programmers, driven to program by zeal and passion: other people are not like you. Even if we live in corporate drone land where programming consists of slapping together a VB form as quickly and joylessly as possible, we remember that shining moment when the machine was a bottomless well of possibility and imagination. When we learned about Turing Completeness later in college, we realized we knew it all along in our hearts. Where am I going with this? We knew what this machine could do and it inspired us and made us feel empowered, so when our first artistic vision was finished and we hit "compile" and the compiler spewed 587 lines that looked like this:
 
 error: (Each undeclared identifier is reported only once for each function it appears in) (Main.cpp:455)
 
-We powered through it and figured out that this was just GCC's quirky way of telling us that we mispelled a word, and that it even told us what line it happened on. And we fixed those 587 errors, in the process learning that sometimes GCC seemed to lie about what line had the problem. But, we got through it. We ran the compiler again to see our artistic vision come to life, and realized that now it found 1,542 errors that it couldn't find the first time. And now they say things like:
+We powered through it and figured out that this was just GCC's quirky way of telling us that we misspelled a word, and that it even told us what line it happened on. And we fixed those 587 errors, in the process learning that sometimes GCC seemed to lie about what line had the problem. But, we got through it. We ran the compiler again to see our artistic vision come to life, and realized that now it found 1,542 errors that it couldn't find the first time. And now they say things like:
 
 Undefined first referenced  
 symbol in file  
 main /usr/local/lib/gcc-lib/sparc-sun-solaris2.7/2.95.2/crt1.o  
 ld: fatal: Symbol referencing errors. No output written to a.out
 
-This time, no helpful file and line number. It mentions a file, but it's not one of our code files at all. It's a ".o" file, but we are writing .cpp and .h files! For that matter, even though all the words make sense, they don't point the new coder to anything to do about it. And, after digging for awhile, and that while might be a few minutes or might be a few hours, we realized that this (probably) was really just another way of telling us that we mispelled a word. And the blasphemous thought occurs to us, "Why can't it just say that?"
+This time, no helpful file and line number. It mentions a file, but it's not one of our code files at all. It's a ".o" file, but we are writing .cpp and .h files! For that matter, even though all the words make sense, they don't point the new coder to anything to do about it. And, after digging for awhile, and that while might be a few minutes or might be a few hours, we realized that this (probably) was really just another way of telling us that we misspelled a word. And the blasphemous thought occurs to us, "Why can't it just say that?"
 
 We fix those errors, and this time, we hit compile and, low and behold, the program runs. Our artistic vision has come to life. Except, it didn't. In fact, though the program is running, it doesn't actually do what we expected it to do in any of a hundred different ways. And then, while we are still running it and trying to bask in the glory of having at least a running program, we see this:
 
@@ -53,7 +53,7 @@ I'll stop there. Nonprogrammers think that is just being unskilled at a new task
 6. Fixing that batch of errors.
 7. Compiling it.
 8. Running it.
-9. Realizing it doesn't do what its supposed to do in some way that matters.
+9. Realizing it doesn't do what it's supposed to do in some way that matters.
 10. Fixing that.
 11. Compiling it.
 12. Realizing your last fix introduced another error.
@@ -74,7 +74,7 @@ Now, let's get back to the ordinary people we want to inflict programming on. Or
 
 But, this is what we do, every day, nine to five. We spend the bulk of our time on steps 7-14, which are actually the most annoying steps for most people. My wife, who knows a few programming languages at a basic level, always runs out of steam around either step 9 or step 12.
 
-Programming is fundamentally unlike other arts and crafts. In art, if the brush stroke is a quarter inch too far to the left, then the painting has a technical imperfection, but it can still be striking. You can say, "Well, I'm no Rembrandt, but this painting of an Amazon war goddess in a chainmail bikini is rather striking, if I do say so myself." If a carpentar drives a nail a quarter inch too far to the right, then its a little off center, but the building will keep standing and he goes on to the next stud. He probably doesn't even notice he drove the nail a quarter inch off center. If he did, and pointed it out to his foreman, and suggested that it be withdrawn and driven correctly, he would be fired.
+Programming is fundamentally unlike other arts and crafts. In art, if the brush stroke is a quarter inch too far to the left, then the painting has a technical imperfection, but it can still be striking. You can say, "Well, I'm no Rembrandt, but this painting of an Amazon war goddess in a chainmail bikini is rather striking, if I do say so myself." If a carpenter drives a nail a quarter inch too far to the right, then it's a little off center, but the building will keep standing and he goes on to the next stud. He probably doesn't even notice he drove the nail a quarter inch off center. If he did, and pointed it out to his foreman, and suggested that it be withdrawn and driven correctly, he would be fired.
 
 But if a programmer accesses a memory location so much as one bit too far to the right or left, only God knows what will happen. Maybe nothing. Maybe suddenly the mouse pointer will disappear as we overwrite the portion of memory that contains its graphic. Maybe the "File" text on the menu bar will change to "?Fil". Most likely, the entire program will die suddenly, no matter what is going on, and tell the user:
 

@@ -14,7 +14,7 @@ published: true
 
 <!-- more -->
 
-Alan Jackson was watching the sailboat move slowly across the water on his own private section branch of the Michinoga River in Tennesee. He had bought this small river off branch nearly five years ago, after the hit of his coutry and western single "Chattahoochee".
+Alan Jackson was watching the sailboat move slowly across the water on his own private section branch of the Michinoga River in Tennessee. He had bought this small river off branch nearly five years ago, after the hit of his country and western single "Chattahoochee".
 
 And now, these young kids, real alternative, rock and roll types by the look of them, were sailing in his waters.
 
@@ -24,16 +24,16 @@ The aging country and western singer rose from his lawn chair, which he paid $80
 
 He began to move towards the water, a slow meander at first, growing to a determined walk, and into a mechanical jog. His eyes stayed focused on the kids in the sail boat. As he began to jog, his cowboy hat fell off, and if anyone was bothering to watch him very closely, which they weren't, he would notice that Alan Jackson didn't have ears anymore, just something like looked like a fleshy drum where his ears should be.
 
-Alan Jackson lept into the water, his clothes still on, but almost immediately after hitting the water, they came off. At first he swam, less and less so as his body changed into something far more streamlined and the flailing arms turned to fins and his legs, which were now starting to look more like a tail fin than the two lower appengages of the greatest ape, began to drive him forward in the water at greater and greater speeds.
+Alan Jackson leapt into the water, his clothes still on, but almost immediately after hitting the water, they came off. At first he swam, less and less so as his body changed into something far more streamlined and the flailing arms turned to fins and his legs, which were now starting to look more like a tail fin than the two lower appengages of the greatest ape, began to drive him forward in the water at greater and greater speeds.
 
-All this time, Alan Jacksons eyes, now jet black and soulless, stayed focus on the sailboat just a few hundred yards out from shore. As his dorsal fin, a metallica grey verticle blade, cut through the surface of the water.
+All this time, Alan Jacksons eyes, now jet black and soulless, stayed focus on the sailboat just a few hundred yards out from shore. As his dorsal fin, a metallic grey vertical blade, cut through the surface of the water.
 
-Alan Jackson hummed (in as much as he could hum in this body) the eerie and repetive theme from the Jaws series, as he prepared to teach a group of disrespectful young city boys a lesson in property rights...
+Alan Jackson hummed (in as much as he could hum in this body) the eerie and repetitive theme from the Jaws series, as he prepared to teach a group of disrespectful young city boys a lesson in property rights...
 
 > "Yeah, way down yonder on the Chattahoochee
 > it gets hotter than a hoochie coochie.
-> We layed rubber on the georgia asphalt,
-> we got a litte crazy,
+> We laid rubber on the Georgia asphalt,
+> we got a little crazy,
 > but we never got caught!"
 
 Except these kids did get caught.
