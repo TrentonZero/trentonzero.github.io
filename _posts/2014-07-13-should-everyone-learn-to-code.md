@@ -53,7 +53,7 @@ I'll stop there. Nonprogrammers think that is just being unskilled at a new task
 6. Fixing that batch of errors.
 7. Compiling it.
 8. Running it.
-9. Realizing it doesn't do what its supposed to do in some way that matters.
+9. Realizing it doesn't do what it's supposed to do in some way that matters.
 10. Fixing that.
 11. Compiling it.
 12. Realizing your last fix introduced another error.
@@ -74,7 +74,7 @@ Now, let's get back to the ordinary people we want to inflict programming on. Or
 
 But, this is what we do, every day, nine to five. We spend the bulk of our time on steps 7-14, which are actually the most annoying steps for most people. My wife, who knows a few programming languages at a basic level, always runs out of steam around either step 9 or step 12.
 
-Programming is fundamentally unlike other arts and crafts. In art, if the brush stroke is a quarter inch too far to the left, then the painting has a technical imperfection, but it can still be striking. You can say, "Well, I'm no Rembrandt, but this painting of an Amazon war goddess in a chainmail bikini is rather striking, if I do say so myself." If a carpenter drives a nail a quarter inch too far to the right, then its a little off center, but the building will keep standing and he goes on to the next stud. He probably doesn't even notice he drove the nail a quarter inch off center. If he did, and pointed it out to his foreman, and suggested that it be withdrawn and driven correctly, he would be fired.
+Programming is fundamentally unlike other arts and crafts. In art, if the brush stroke is a quarter inch too far to the left, then the painting has a technical imperfection, but it can still be striking. You can say, "Well, I'm no Rembrandt, but this painting of an Amazon war goddess in a chainmail bikini is rather striking, if I do say so myself." If a carpenter drives a nail a quarter inch too far to the right, then it's a little off center, but the building will keep standing and he goes on to the next stud. He probably doesn't even notice he drove the nail a quarter inch off center. If he did, and pointed it out to his foreman, and suggested that it be withdrawn and driven correctly, he would be fired.
 
 But if a programmer accesses a memory location so much as one bit too far to the right or left, only God knows what will happen. Maybe nothing. Maybe suddenly the mouse pointer will disappear as we overwrite the portion of memory that contains its graphic. Maybe the "File" text on the menu bar will change to "?Fil". Most likely, the entire program will die suddenly, no matter what is going on, and tell the user:
 
