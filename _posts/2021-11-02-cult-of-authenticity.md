@@ -43,7 +43,7 @@ This makes our task harder! We do not aspire to be saints. We aspire to be St Ke
 
 We must discern the norms which are mere averages from the law of our nature. We must "test the spirits." That which makes us unique that conforms to God is good, and we must be authentic to it. That which makes us unique but does not is a defect which we must cure/suppress/attempt to operate in spite of. 
 
-Sigh. The liturgy of the machine-god again. Does it's presence invalidate the thought? I don't think so, but it's worrisome. 
+Sigh. The liturgy of the machine-god again. Does its presence invalidate the thought? I don't think so, but it's worrisome. 
 
 The cult of authenticity ends in Adamism. God knew the fall of man by his clothing himself. But God did not forbid clothing, but instead, in the Law, regulated it. In the garden, we were authentic. In the Fall, w must be inauthentic, but in the exact right way. Holiness is no longer natural, our soul rebels against it. We must suppress our rebellious souls with being outflanked by pride. 
 

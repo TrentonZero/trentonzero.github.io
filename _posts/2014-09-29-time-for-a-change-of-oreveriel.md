@@ -46,7 +46,7 @@ Liswamírë was made of harder stuff. "She's baiting you."
 
 "That's true..." I considered.
 
-Orëveriel scoffed, "Oh please. Who will you look like then? How could a person ever not look like themselves. A person has to look like themselves, by definition. That's just plain logic. A=A and all that. After all, I change my appearance *all the time*, and I always look exactly like me." This was true. At that time, Orëveriel had a distinctly pixieish look, with boyishly short black-hair. Not three days prior, she had been a tall blonde. Two weeks ago, she was a he, and not a very attractive looking he at at that. Yet one thing was certainly true, Orëveriel never ceased to look like herself, no matter what form she took.
+Orëveriel scoffed, "Oh please. Who will you look like then? How could a person ever not look like themselves. A person has to look like themselves, by definition. That's just plain logic. A=A and all that. After all, I change my appearance *all the time*, and I always look exactly like me." This was true. At that time, Orëveriel had a distinctly pixieish look, with boyishly short black-hair. Not three days prior, she had been a tall blonde. Two weeks ago, she was a he, and not a very attractive looking he at that. Yet one thing was certainly true, Orëveriel never ceased to look like herself, no matter what form she took.
 
 That bit of sophistry settled it. "I will shave it all off."
 

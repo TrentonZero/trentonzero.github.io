@@ -38,7 +38,7 @@ Everyone is fretting about fake news right now. And everyone who knows me knows 
 
 But, it is extremely obvious that 90% of the fake news panic is people being upset that Trump won the election. 90% of the outcry is really saying, "Facebook, Google...put your fingers on the scale."
 
-I don't want Zuckerberg's finger on the scale of public debate. I don't want Google filtering public information down to it's own ideas of what people ought to read.
+I don't want Zuckerberg's finger on the scale of public debate. I don't want Google filtering public information down to its own ideas of what people ought to read.
 
 I'm all for community standards. I don't think trolls should be tolerated, or cyber-bullying, or insulting random people behind a veil of autonomy, or any of the other nasty things that the internet has given us.
 

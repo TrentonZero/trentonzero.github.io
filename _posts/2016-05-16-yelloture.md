@@ -46,11 +46,11 @@ My two servants remain with me as well. That I have lost Ainofiriano's favour, t
 
 I mentioned visitors. 
 
-Calemorinna is the main one. She serves Ainofiriano as well. She is also out of favor with him, though I'm not sure she knows it. She once admired the Isil as well, and went much further into her mysteries then I ever did. Everyone went further into her mysteries than I did. Maybe Orëveriel was right? 
+Calemorinna is the main one. She serves Ainofiriano as well. She is also out of favor with him, though I'm not sure she knows it. She once admired the Isil as well, and went much further into her mysteries than I ever did. Everyone went further into her mysteries than I did. Maybe Orëveriel was right? 
 
 I think Calemorinna fears Isil and holds her in too much awe now. I should inquire with Orëveriel about it. She will be better acquainted with Isil's mysteries, I suppose, being one of her faithful. Maybe she can tell if Calemorinna's fears are over reaction or greater wisdom. Or if she becomes defensive, maybe I can tell from her reaction. Or maybe I'll get no reaction at all. Are all Isil's faithful so... 
 
-Calemorinna visits every few weeks, and she is optimistic that she can help secure my pardon, or at least there there is pardon to be obtained. I'm not so optimistic.
+Calemorinna visits every few weeks, and she is optimistic that she can help secure my pardon, or at least there is pardon to be obtained. I'm not so optimistic.
 
 Ainofiriano took Savníro. It is expected by everyone he will take Saviel soon. Aranasëa he has struck with affliction. And Vanyanan he has left with despair. 
 
@@ -58,7 +58,7 @@ The tempest is larger now. I can hear the wind, even here. I'm not sure Liswamí
 
 I can hear jeering outside, and Ainofiriano be praised, I think maybe it is safer here in the dungeon. It seems impossible, even crazy, but something very big and very... wrong came into the far corners of our world along with Liswamírë's little tempest. The winds connect in strange ways at the corners of Cemen, and they say there isn't a desert wind that isn't on intimate speaking terms with the wildest storms of the sea. And I think Liswamírë's tempest has old and dark friends indeed among the gusts. 
 
-The jeering is louder, and there is a name in their cries, a new king to replace the old ones. They cry "Yelloturë, Yelloturë, Yelloturë."  It's name we've heard before, though we never credited it. The wise are confounded, and the wiser still say they really cry to a even darker god, whom he serves, and who they name "Estelune."  
+The jeering is louder, and there is a name in their cries, a new king to replace the old ones. They cry "Yelloturë, Yelloturë, Yelloturë."  It's name we've heard before, though we never credited it. The wise are confounded, and the wiser still say they really cry to an even darker god, whom he serves, and who they name "Estelune."  
 
 
 

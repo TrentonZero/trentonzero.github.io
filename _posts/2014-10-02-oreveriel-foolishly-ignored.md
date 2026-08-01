@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-I gave Orëveriel a hard time about the the whole shaving fiasco as reported in my previous record. I even went so far as to say that practically every foolish thing I had ever done, I had done on her council.
+I gave Orëveriel a hard time about the whole shaving fiasco as reported in my previous record. I even went so far as to say that practically every foolish thing I had ever done, I had done on her council.
 
 In Orëveriel's defense, occasionally, randomly almost, she gets things correct. And, often, these are the times I choose not to listen to her. This morning, for example.
 

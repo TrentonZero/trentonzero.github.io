@@ -198,7 +198,7 @@ He is right about that. I have no answer to it. I never did.
 
 ### Wendell Berry
 
-The coffeeshop. The Little Free Library. "The secret of happiness is to find a place and go there everyday, and thereby reenchant the world." Yes. Fidelity to place is the foundation. This much is understood here, and understood from experience, which is the only understanding worth having.
+The coffeeshop. The Little Free Library. "The secret of happiness is to find a place and go there every day, and thereby reenchant the world." Yes. Fidelity to place is the foundation. This much is understood here, and understood from experience, which is the only understanding worth having.
 
 But what do you *make*?
 
