@@ -8,9 +8,9 @@ tags:
 image: /assets/images/jekyll.logo.png.jpg
 ---
 
-I am now committed. I've seen enough to let me know that WordPress is out and Jekyll hosted on Github Pages is in. I will be moving my blog from WordPress and over into Jekyll.
+I am now committed. I've seen enough to let me know that WordPress is out and Jekyll hosted on GitHub Pages is in. I will be moving my blog from WordPress and over into Jekyll.
 
-I have blogged on five different platforms in my life: static HTML, LiveJournal, a custom CMS written by yours truely on the Google App Engine, WordPress, and now Jekyll. And I have to say that at least so far I feel like Jekyll (along, of course, with Discus for the social functionality) is the best of the bundle, at least for a person of my dispositions and talents. 
+I have blogged on five different platforms in my life: static HTML, LiveJournal, a custom CMS written by yours truly on the Google App Engine, WordPress, and now Jekyll. And I have to say that at least so far I feel like Jekyll (along, of course, with Discus for the social functionality) is the best of the bundle, at least for a person of my dispositions and talents. 
 
 <!-- more -->
 
@@ -40,9 +40,9 @@ I'm writing this post, right now, in Vim (cool top-of-the-line editor numero uno
 
 And what the hell, let's give the writers a simple web-server that runs just on their machine while they write, so that they can just refresh their browser and see exactly what their entire blog looks like on the internet, including their new post? No need to "publish as draft" (though we'll support that too). Just save the blog post on the local disk, navigate to "http://localhost" and get your entire blog site. 
 
-And (this is where the programmers out there, like me get excited) who needs a clunky web-interface to administer blog content? Blog content is just text files. We'll pair up with Github, and let people administer their blogs via git. And since, from Github's perspective, they are just serving plain old vanilla HTML with no expensive server code, they won't mind serving it for free, no strings attached. And if they ever change their mind, well, the user's will always have both their original text files and the generated static HTML. They can host anywhere. 
+And (this is where the programmers out there, like me get excited) who needs a clunky web-interface to administer blog content? Blog content is just text files. We'll pair up with GitHub, and let people administer their blogs via git. And since, from GitHub's perspective, they are just serving plain old vanilla HTML with no expensive server code, they won't mind serving it for free, no strings attached. And if they ever change their mind, well, the user's will always have both their original text files and the generated static HTML. They can host anywhere. 
 
-This last one is the only thing that really makes Jekyll unsuitable to the wider populace. Even with a graphical-client, I've known professional developers who found git to be a pain-in-the-ass. But, I use git every day at work, so it's no big deal. And for those that don't understand it, the official Github git client and a willingness to get the basic idea is probably sufficient. 
+This last one is the only thing that really makes Jekyll unsuitable to the wider populace. Even with a graphical-client, I've known professional developers who found git to be a pain-in-the-ass. But, I use git every day at work, so it's no big deal. And for those that don't understand it, the official GitHub git client and a willingness to get the basic idea is probably sufficient. 
 
 And it has a big plus. Git is what's known as a distributed source control system, and the big big big perk you get out of a distributed SCS is that you have all the benefits of source control without needing any network access whatsoever. And for those that don't know what source control is, it's basically a really powerful "undo" and "redo" feature that lets you see every change you have ever made, ever, to set of documents, and who made them, and when, and in association with what other documents, and undo and redo changes on the fly, as needed. And lots of other cool stuff. It's absolutely essential to programmers, but I'm still to this day astonished that the business world is still out there, losing documents that are worth tens of thousands of dollars, while IT departments have been using technology to alleviate that since the early 80s. 
 

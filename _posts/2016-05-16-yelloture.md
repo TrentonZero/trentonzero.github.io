@@ -18,7 +18,7 @@ It's cold here in the dungeon; cold and lonely.
 
 <!-- more -->
 
-Liswamirë is gone. Having become a wispy shadow of herself, she has been carried off on a tempest which she had made. It had occurred to her that she commanded the wind by virtue of years of study. And the wind, having caught her, tosses her about as a plaything. She has also left the services of Ainofiriano, preferring the whispers from the desert. 
+Liswamírë is gone. Having become a wispy shadow of herself, she has been carried off on a tempest which she had made. It had occurred to her that she commanded the wind by virtue of years of study. And the wind, having caught her, tosses her about as a plaything. She has also left the services of Ainofiriano, preferring the whispers from the desert. 
 
 Ainofiriano is not pleased with me, either. Good and faithful servant I am not. While I don't hear the desert whispering, the moon sits serene, and I have to confess she tempts me, sometimes. But, I won't answer that call. I threw my lot in with Ainofiriano, and I know he has gone deeper and higher.
 
@@ -33,16 +33,16 @@ That was weeks ago, as I said, and in the time since, I have come to think it wa
 
 "You said 'your Lord.' Isn't he yours as well?"
 
-"Ainofiriano? No. Once, he might have been, but Isil gives me a bigger cage and her followers suit me better. I'm with the moon, Vanyánan, and I think you know it."
+"Ainofiriano? No. Once, he might have been, but Isil gives me a bigger cage and her followers suit me better. I'm with the moon, Vanyanan, and I think you know it."
 
 Yes, I did, though I try to avoid thinking about it. I am thinking, I'm not so sure Isil gives Orëveriel a larger cell. She offered her creed that prisoners should dress like Lords and free men like prisoners. And I have never ever known anyone, of either sex, to dress as extravagantly as Orëveriel. But I didn't mention this to her. A religious argument with one of my few friends was not a good policy.
 
 "I followed Isil once." 
 
-She looked at me with a smile, "No. No, Vanyánan, you were one of his, even when you spat at him. Isil never had any part of you, and you never had any part of her. Where you thought you did, it was me. Or Wenléra. Or Aranasëa in his youth. Never you." 
+She looked at me with a smile, "No. No, Vanyanan, you were one of his, even when you spat at him. Isil never had any part of you, and you never had any part of her. Where you thought you did, it was me. Or Wenléra. Or Aranasëa in his youth. Never you." 
 
 
-My two servants remain with me as well. That I have lost Ainofiriano's favour, they don't understand, or, having understood, remain faithful out of some higher code. But they dislike the darkness. And distrust my visitors. I'm not sure they know about Liswamirë and the tempest, either. I don't know what they know or don't know. Just that they are still here.
+My two servants remain with me as well. That I have lost Ainofiriano's favour, they don't understand, or, having understood, remain faithful out of some higher code. But they dislike the darkness. And distrust my visitors. I'm not sure they know about Liswamírë and the tempest, either. I don't know what they know or don't know. Just that they are still here.
 
 I mentioned visitors. 
 
@@ -52,13 +52,13 @@ I think Calemorinna fears Isil and holds her in too much awe now. I should inqui
 
 Calemorinna visits every few weeks, and she is optimistic that she can help secure my pardon, or at least there there is pardon to be obtained. I'm not so optimistic.
 
-Ainofirano took Savníro. It is expected by everyone he will take Saviel soon. Aranasëa he has struck with affliction. And Vanyanan he has left with despair. 
+Ainofiriano took Savníro. It is expected by everyone he will take Saviel soon. Aranasëa he has struck with affliction. And Vanyanan he has left with despair. 
 
-The tempest is larger now. I can hear the wind, even here. I'm not sure Liswamirë knows even now what she did. Winds are tricky things. She can barely handle her little zephyr. But, I think other things have changed as well, old things, long taken for granted, long abused, have been ripped up root and all.
+The tempest is larger now. I can hear the wind, even here. I'm not sure Liswamírë knows even now what she did. Winds are tricky things. She can barely handle her little zephyr. But, I think other things have changed as well, old things, long taken for granted, long abused, have been ripped up root and all.
 
-I can hear jeering outside, and Ainofiriano be praised, I think maybe it is safer here in the dungeon. It seems impossible, even crazy, but something very big and very... wrong came into the far corners of our world along with Liswamirë's little tempest. The winds connect in strange ways at the corners of Cemen, and they say there isn't a desert wind that isn't on intimate speaking terms with the wildest storms of the sea. And I think Liswamirë's tempest has old and dark friends indeed among the gusts. 
+I can hear jeering outside, and Ainofiriano be praised, I think maybe it is safer here in the dungeon. It seems impossible, even crazy, but something very big and very... wrong came into the far corners of our world along with Liswamírë's little tempest. The winds connect in strange ways at the corners of Cemen, and they say there isn't a desert wind that isn't on intimate speaking terms with the wildest storms of the sea. And I think Liswamírë's tempest has old and dark friends indeed among the gusts. 
 
-The jeering is louder, and there is a name in their cries, a new king to replace the old ones. They cry "Yelloturë, Yelloturë, Yelloturë."  It's name we've heard before, though we never credited it. The wise are confounded, and the wiser still say they really cry to a even darker god, whom he serves, and who they name "Esteluna."  
+The jeering is louder, and there is a name in their cries, a new king to replace the old ones. They cry "Yelloturë, Yelloturë, Yelloturë."  It's name we've heard before, though we never credited it. The wise are confounded, and the wiser still say they really cry to a even darker god, whom he serves, and who they name "Estelune."  
 
 
 

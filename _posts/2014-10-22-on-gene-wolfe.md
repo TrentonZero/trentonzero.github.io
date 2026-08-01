@@ -14,7 +14,7 @@ image: /assets/images/wolfecheers.jpg
 
 {% include figure.html src="/assets/images/wolfecheers.jpg" caption="Gene Wolfe" align="right" %}
 
-Gene Wolfe resides comfortable on my  ~~top-ten~~ ~~top-five~~ top-two list of favorite writers, out-ranked only by Chesterton. (You thought I would say Tokien, didn't you?) For the uninitiated, Gene Wolfe is most famous for his tetrology *The Book of the New Sun*, which begins with *The Shadow of the Torturer*, but he is also the author of *Peace*, *The Knight*, and *The Fifth Head of Cerebus*. And he has written hundreds of short stories. These come last in the list, but actually much of his best work is in short fiction.
+Gene Wolfe resides comfortable on my  ~~top-ten~~ ~~top-five~~ top-two list of favorite writers, out-ranked only by Chesterton. (You thought I would say Tolkien, didn't you?) For the uninitiated, Gene Wolfe is most famous for his tetralogy *The Book of the New Sun*, which begins with *The Shadow of the Torturer*, but he is also the author of *Peace*, *The Knight*, and *The Fifth Head of Cerebus*. And he has written hundreds of short stories. These come last in the list, but actually much of his best work is in short fiction.
 
 <!-- more -->
 

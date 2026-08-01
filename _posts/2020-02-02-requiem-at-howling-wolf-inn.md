@@ -17,7 +17,7 @@ It is Isilnight, the moon shines through the misting rain, and two figures enter
 
 <!-- more -->
 
-In the corner, carved out of the stone is a triple-pillared altar to Isil. Orëveriel is kneeling before the altar, hands on her knees. The figures approach, a man and a woman, Vanyanan and nariel. nariel kneels beside Orëveriel. A third, Calemorrina, waits outside.
+In the corner, carved out of the stone is a triple-pillared altar to Isil. Orëveriel is kneeling before the altar, hands on her knees. The figures approach, a man and a woman, Vanyanan and nariel. nariel kneels beside Orëveriel. A third, Calemorinna, waits outside.
 
 One of the pillars has shattered, and Vanyanan crouches to place the urn beneath it and rises again. The three begin to sing, quietly but growing louder the words of the Untold Myth, the only time when the words may be recited. As they sing the words, Isil's liturgy if she ever had one, Vanyanan still wearing the sign of Ainofiriano's promise, the rain turns to a thunderstorm. The moon shines through the clouds. 
 
@@ -29,7 +29,7 @@ Someday, the second pillar will fall, and then the Untold Myth will be sung agai
 
 And someday, the final pillar will fall, and the Howling Wolf Inn will be swallowed into the earth and the world will end, as a billion worlds before it have ended. And Ainofiriano will speak his, his moment of victory come at last. 
 
-But now, the world lives, and for the nameless one who died, Vanyanan and Oreveriel and nariel sing the death liturgy on Isilnight.
+But now, the world lives, and for the nameless one who died, Vanyanan and Orëveriel and nariel sing the death liturgy on Isilnight.
 
 
 

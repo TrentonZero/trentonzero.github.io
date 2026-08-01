@@ -6,7 +6,7 @@ tags:
 title: Your First Programming Language
 ---
 
-"What should my first programming language be? Should I learn Javascript or C or C++ or Java or LISP?"
+"What should my first programming language be? Should I learn JavaScript or C or C++ or Java or LISP?"
 
 <!-- more -->
 
@@ -30,7 +30,7 @@ Welcome kindred! You are a programmer! You don't know a single production ready 
 
 No? You hated it? 
 
-You're welcome. I saved you a lot of misery and probably a lot of money. Because, you aren't one of us. And I really don't mean to be exclusive there. We come in all colors, creeds, ages, and genders. We are white, black and every shade in between. We are male and female and n/a. We are Catholic and Protestant and atheist and Buddhist and sometimes just flat-out weird. We are baby-faced and greybeard. But, we all love this stuff, we would do it for free. No one is more suprised than we are that they throw bags of money at us. We would do it for free. We are your competition. And in every place you want to work, we have a veto on the hiring decisions. And even if you make it through, you will hate it. You will hate it every day, and you won't be able to keep up. You will burn out and be bitter until you either leave or get the boot.
+You're welcome. I saved you a lot of misery and probably a lot of money. Because, you aren't one of us. And I really don't mean to be exclusive there. We come in all colors, creeds, ages, and genders. We are white, black and every shade in between. We are male and female and n/a. We are Catholic and Protestant and atheist and Buddhist and sometimes just flat-out weird. We are baby-faced and greybeard. But, we all love this stuff, we would do it for free. No one is more surprised than we are that they throw bags of money at us. We would do it for free. We are your competition. And in every place you want to work, we have a veto on the hiring decisions. And even if you make it through, you will hate it. You will hate it every day, and you won't be able to keep up. You will burn out and be bitter until you either leave or get the boot.
 
 
 

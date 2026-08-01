@@ -14,11 +14,11 @@ Has tech culture changed?
 
 <!-- more -->
 
-It's an oversimplification, but it seems like up until now tech culture has been dominated by an idealogical war between two broad idealogical movements.  One is the free software movement, and you can find it presented in its greatest idealogical purity by Richard Stallman. I will call this the anarcho-communist movement, because that's pretty much what it is, though one can quibble over details, I think it's hard to deny that the point of GNU and free software movement is the conviction that software, at least, is the leading edge of a coming post-scarcity society, and their reponse to that is that software has to be liberated from IP for the good of society.  
+It's an oversimplification, but it seems like up until now tech culture has been dominated by an ideological war between two broad ideological movements.  One is the free software movement, and you can find it presented in its greatest ideological purity by Richard Stallman. I will call this the anarcho-communist movement, because that's pretty much what it is, though one can quibble over details, I think it's hard to deny that the point of GNU and free software movement is the conviction that software, at least, is the leading edge of a coming post-scarcity society, and their response to that is that software has to be liberated from IP for the good of society.  
 
-The other is anarcho-capitalist and is expressed in its greatest idealogical purity by Ayn Rand's Atlas Shrugged.
+The other is anarcho-capitalist and is expressed in its greatest ideological purity by Ayn Rand's Atlas Shrugged.
 
-The point is not that everyone in tech believes one of these two idealogies, or that very many people believe either in full idealogical purity. I hew closer to the later, but I can't stand the last two-thirds of Atlas Shrugged (though I could find lots to like about the first third.) I think the motives of aggressive copyleft licenses are dangerous, but a common base of free software that proprietary software can run on is beneficial. There are all sorts of disagreements in techie culture, but the common core is an assumption of personal autonomy and individualism as the ultimate and self-justifying good. The disagreement is really a relatively technical matter of how consistent is that principle with private property, and with private IP in particular.
+The point is not that everyone in tech believes one of these two ideologies, or that very many people believe either in full ideological purity. I hew closer to the later, but I can't stand the last two-thirds of Atlas Shrugged (though I could find lots to like about the first third.) I think the motives of aggressive copyleft licenses are dangerous, but a common base of free software that proprietary software can run on is beneficial. There are all sorts of disagreements in techie culture, but the common core is an assumption of personal autonomy and individualism as the ultimate and self-justifying good. The disagreement is really a relatively technical matter of how consistent is that principle with private property, and with private IP in particular.
 
 These fit within older debates, but they are also much narrower than many debates that consume society. And that is changing.
 
@@ -26,7 +26,7 @@ The culture of many tech companies is no longer an uneasy truce between the libe
 
 It's still frightening. I can disagree with Richard Stallman, but feel safe interacting in his world because Richard Stallman's whole bit is that he doesn't want anyone controlling how anyone uses their computer. Copyleft is not intended to ensure you can't run your graphics hardware with good drivers. I can hand my data over to a principled libertarian. But the prospect of the major tech infrastructure being under the thumbs of SJW busy-bodies frightens me.
 
-And every day it seems like things which would have been unthinkable for a major tech company are happening. Google bans gun videos from Youtube, Github deletes open source projects for using offensive terms in the commit comments that would not cause a movie to lose a PG rating. PragerU has videos systematically banned from Youtube for...for providing mainstream Republican propaganda. I mean, let's be honest, PragerU is overly simplistic propaganda. But it's propaganda that lines up pretty well with mainstream thought within one of the two major political parties in the US, and there are far more extreme and more malevolent examples of propanda out there, including on Youtube, from left and right.
+And every day it seems like things which would have been unthinkable for a major tech company are happening. Google bans gun videos from YouTube, GitHub deletes open source projects for using offensive terms in the commit comments that would not cause a movie to lose a PG rating. PragerU has videos systematically banned from YouTube for...for providing mainstream Republican propaganda. I mean, let's be honest, PragerU is overly simplistic propaganda. But it's propaganda that lines up pretty well with mainstream thought within one of the two major political parties in the US, and there are far more extreme and more malevolent examples of propaganda out there, including on YouTube, from left and right.
 
 Our generation raked Microsoft over the coals for anticompetitive behavior like coming with a crappy non-standards compliant web browser installed by default. We ran Linux, even though it remained consistently five years behind the curve. Now, MacOS is the hot stuff. Today, by the hour, MacOS blocks third party applications from even running in the default configuration unless they are signed by Apple.
 
@@ -38,7 +38,7 @@ Everyone is fretting about fake news right now. And everyone who knows me knows 
 
 But, it is extremely obvious that 90% of the fake news panic is people being upset that Trump won the election. 90% of the outcry is really saying, "Facebook, Google...put your fingers on the scale."
 
-I don't want Zuckerburg's finger on the scale of public debate. I don't want Google filtering public information down to it's own ideas of what people ought to read.
+I don't want Zuckerberg's finger on the scale of public debate. I don't want Google filtering public information down to it's own ideas of what people ought to read.
 
 I'm all for community standards. I don't think trolls should be tolerated, or cyber-bullying, or insulting random people behind a veil of autonomy, or any of the other nasty things that the internet has given us.
 

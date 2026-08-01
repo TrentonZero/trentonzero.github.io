@@ -19,7 +19,7 @@ like Alec Baldwin, actor
 Where's the camera?
 
 I sometimes wonder  
-Does alcohol help or hinger?  
+Does alcohol help or hinder?  
 Let's discover!
 
 Hispanic woman  

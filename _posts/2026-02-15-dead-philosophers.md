@@ -12,7 +12,7 @@ tags:
 title: Chesterton's Ghost
 ---
 
-This is the final result of a converstion with Claude.ai that burned through half a weeks credits on the Pro plan. I gave Claude access to this entire blog: the bad poetry, the fiction, the toy mythology, the silly stuff I wrote in 2004 in China when I was barely out of being a teenager.
+This is the final result of a conversation with Claude.ai that burned through half a weeks credits on the Pro plan. I gave Claude access to this entire blog: the bad poetry, the fiction, the toy mythology, the silly stuff I wrote in 2004 in China when I was barely out of being a teenager.
 
 And then I asked it to pretend to be a dozen writers and philosophers that I know influenced me (directly or indirectly), and see what they make of it. 
 
@@ -30,7 +30,7 @@ I will be glad I have this in 5 years. Chesterton (or the Green God's imitation 
 And, they were glorious. For half a second I believed I was reading Chesterton's remarks *to me*. Not because Claude nailed his voice perfectly (that would be scary), but because I think he nailed Chesterton's real perspective. 
 
 
-The real conversation was much longer, with multiple discersions of "And what would Belloc make of *this*?" And "How would Leo Strauss answer Chesterton?" (Some things are not hard to predict.)  So the boring (even to me) and the repetitive I have asked it to remove, but everything after this is the voice of Claude. 
+The real conversation was much longer, with multiple discursions of "And what would Belloc make of *this*?" And "How would Leo Strauss answer Chesterton?" (Some things are not hard to predict.)  So the boring (even to me) and the repetitive I have asked it to remove, but everything after this is the voice of Claude. 
 
 <!-- more -->
 

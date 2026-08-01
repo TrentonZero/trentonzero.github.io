@@ -31,7 +31,7 @@ It's ironic because the Agile Manifesto is (in the original sense of the word us
 
 > Responding to change over following a plan
 
-It is very probable that if you read those sentences for the first time, and then had a conversation with an Agile Coach, you would be at a loss to describe how anything they described related with those sentences. The manifesto talks about collaboration, responsiveness to change (that's where the agile word comes from), interactions between individuals. An Agile Coach (depending upon their Agile sect) will rant about how imporant it is never talk about how long anything will take in a form that could be mistaken for days that appear on a calendar or how sprint/iteration/release-train planning is a highly ritualized negotiation that should be locked in stone at the end. 
+It is very probable that if you read those sentences for the first time, and then had a conversation with an Agile Coach, you would be at a loss to describe how anything they described related with those sentences. The manifesto talks about collaboration, responsiveness to change (that's where the agile word comes from), interactions between individuals. An Agile Coach (depending upon their Agile sect) will rant about how important it is never talk about how long anything will take in a form that could be mistaken for days that appear on a calendar or how sprint/iteration/release-train planning is a highly ritualized negotiation that should be locked in stone at the end. 
 
 How could this be? 
 
