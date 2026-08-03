@@ -4,10 +4,7 @@
      journey.html emits. Keeping this file Liquid-free is what lets the
      browser tests load the real artifact instead of an approximation. -->
   <p class="lede">Six years of measurements on one time axis, with the races, the milestone runs
-  and the writing marked against them.</p>
-
-  <p class="lede">The line breaks where the measuring stopped. Three of those breaks run longer
-  than six months, and nothing in the data says why — those are notes still to be written.</p>
+  and the writing marked against them. The line breaks where the measuring stopped.</p>
 
   <div class="stat-strip">
     <div class="tile" style="--tile-accent: var(--c-waist)">
@@ -36,9 +33,6 @@
         <span class="sw" style="background:var(--c-weight)"></span>Weight (lb)</button>
       <button class="item" type="button" id="s-vo2max" aria-pressed="true">
         <span class="sw" style="background:var(--c-vo2)"></span>VO&#8322;max</button>
-      <button class="item" type="button" id="s-index" aria-pressed="true">
-        <span class="sw" style="background:var(--c-health)"></span><span class="sw" style="background:var(--c-activity)"></span>Health &amp; activity</button>
-      <span class="item"><span class="sw" style="background:none;border-top:2px dashed var(--c-health);height:0"></span>Index on fewer inputs</span>
       <span class="item"><span class="sw ring"></span>Unverified tape reading</span>
       <span class="item"><span class="sw hatch"></span>No tape or scale entry</span>
       <span class="item"><span class="sw" style="background:none;border-top:2px dashed #e0b077;height:0"></span>Recalled peak</span>
@@ -87,30 +81,9 @@
     </p>
   </div>
 
-  <p class="note" style="margin-top:18px">
-  <strong style="color:#d0d0d0">About the two index lines.</strong>
-  <strong style="color:#5f9f3f">Health</strong> is resting heart rate and overnight heart-rate
-  variability; <strong style="color:#d06aa8">activity</strong> is step count and active calories.
-  Each input is scored against my own median and spread, so <strong>50 is a typical week of mine and
-  10 points is one standard deviation</strong> — the number says “a better week than most weeks
-  here”, not “a heart rate of 39”. It is not a clinical score and it does not compare to anyone
-  else’s. The faint line is the week; the solid one is an eight-week trailing mean, which is the
-  only resolution at which either of these says anything — week to week they are one bad night and
-  one long Saturday.
-  <br><br>
-  <strong>The two rings on the health line are its lowest and highest sustained
-  stretches</strong> — placed on the eight-week mean, not on single weeks, because a milestone
-  should mark a period rather than a blip. The worst single week on record scores 16; the trend
-  around it reads 32, and 32 is the honest number for how that stretch actually went. One caveat
-  travels with the low: it falls inside the dashed stretch, so it is a resting-heart-rate reading
-  being compared against later ones that also had HRV behind them.
-  <br><br>
-  Two things the lines cannot do. <strong>Where the line is dashed it is running on fewer inputs
-  than the rest of itself</strong>: nothing recorded HRV before April 2023, so the health line over
-  that stretch is resting heart rate alone, and it is a weaker claim wearing the same colour. And
-  <strong>activity here means movement, not training</strong> — it counts a long day on my feet
-  much like a hard session, and lifting barely registers. A flat activity line through a heavy
-  block is a limit of the instrument, not a rest week.</p>
+  <p class="explain-row">
+    <button class="explain" type="button" data-explain="x-read">How to read this page</button>
+  </p>
 
   <!-- ===================== Readout ===================== -->
   <div class="readout" id="readout">
@@ -122,9 +95,7 @@
       </div>
     </div>
     <div class="grid" id="ro-grid"></div>
-    <p id="ro-body" class="empty">Click a violet pin on the timeline, a phase band behind it, or
-    any post in the list below — this panel will show what the tape and the scale said at that
-    moment, and link straight to the post.</p>
+    <p id="ro-body" class="empty" hidden></p>
     <a class="go" id="ro-go" href="#" hidden>Read the post →</a>
   </div>
 
@@ -139,15 +110,10 @@
 
   <hr>
 
-  <h2>The phases</h2>
-  <p class="note" style="margin-bottom:18px">Two tiers, and they are not interchangeable.
-  <strong style="color:#d0d0d0">A–E</strong> come from the daily fasted-morning series, which only
-  exists from July 2025; their evidence column is the share of days with a reading —
-  <strong style="color:#d9a05b">a rate over 13% coverage is not the same kind of number as a rate over 91%</strong>.
-  <strong style="color:#d0d0d0">N1–N3</strong> come from monthly notebook readings taken at no fixed
-  time of day, so they are not fasted-AM and <em>their rates cannot be compared to A–E's</em> — their
-  evidence column is a raw reading count. Where neither can support a rate, none is given.
-  Click any row to isolate that phase on the chart.</p>
+  <div class="sechead">
+    <h2>The phases</h2>
+    <button class="explain" type="button" data-explain="x-phases">Two tiers, and they are not interchangeable</button>
+  </div>
 
   <div class="tablewrap"><table>
     <thead><tr><th>Phase</th><th>Window</th><th>Rate</th><th>Net</th><th>Coverage</th></tr></thead>
@@ -156,10 +122,47 @@
 
   <hr>
 
-  <h2>What I wrote, and where I was</h2>
+  <div class="sechead">
+    <h2>What I wrote, and where I was</h2>
+    <button class="explain" type="button" data-explain="x-posts">Why the writing and the data barely overlap</button>
+  </div>
   <ul class="post-list" id="postlist"></ul>
 
-  <p class="note" style="margin-top:20px">The earliest posts predate the measurements entirely —
-  they sit at the left edge of the chart, before the record starts. Writing and measuring barely
-  overlap in this archive: the blog's busiest years are 2004 and 2014, and the dense data starts
-  in 2020.</p>
+  <!-- ===================== Explainers =====================
+       Every long-form caveat this page used to print inline. Closed by
+       default; the .explain buttons above open them. -->
+  <dialog class="explainer" id="x-read" aria-labelledby="x-read-t">
+    <button class="x" type="button" data-close aria-label="Close">&times;</button>
+    <h3 id="x-read-t">How to read this page</h3>
+    <p>Everything shares one time axis — tape, scale, VO&#8322;max — with the races, the milestone
+    runs and the writing marked underneath.</p>
+    <p><strong>Waist is the primary fat-loss signal; weight is secondary.</strong> Weight is the
+    fasted-morning daily minimum, aggregated to whole weeks — no timestamps, no per-reading rows.</p>
+    <p><strong>A line breaks where the measuring stopped</strong>, and nothing is drawn across the
+    gap. The hatched stretches are real holes in the record rather than flat periods. Three of
+    those breaks run longer than six months, and nothing in the data says why — those are notes
+    still to be written.</p>
+    <p><strong>Uncertain tape readings are hollow.</strong> Which way an ambiguous digit fell was
+    never recorded, so no error bar is drawn — an invented band would be half guesswork.</p>
+  </dialog>
+
+  <dialog class="explainer" id="x-phases" aria-labelledby="x-phases-t">
+    <button class="x" type="button" data-close aria-label="Close">&times;</button>
+    <h3 id="x-phases-t">Two tiers of phase, and they are not interchangeable</h3>
+    <p><strong>A–E</strong> come from the daily fasted-morning series, which only exists from July
+    2025; their evidence column is the share of days with a reading —
+    <strong style="color:#d9a05b">a rate over 13% coverage is not the same kind of number as a rate
+    over 91%</strong>.</p>
+    <p><strong>N1–N3</strong> come from monthly notebook readings taken at no fixed time of day, so
+    they are not fasted-AM and <em>their rates cannot be compared to A–E’s</em> — their evidence
+    column is a raw reading count. Where neither tier can support a rate, none is given.</p>
+    <p>Click any row in the table to isolate that phase on the chart.</p>
+  </dialog>
+
+  <dialog class="explainer" id="x-posts" aria-labelledby="x-posts-t">
+    <button class="x" type="button" data-close aria-label="Close">&times;</button>
+    <h3 id="x-posts-t">Why the writing and the data barely overlap</h3>
+    <p>The earliest posts predate the measurements entirely — they sit at the left edge of the
+    chart, before the record starts. The blog’s busiest years are 2004 and 2014; the dense data
+    starts in 2020.</p>
+  </dialog>

@@ -47,59 +47,37 @@ const W = 900, H = 640;
 const M = { l: 60, r: 18 };
 const PW = W - M.l - M.r;
 const RIB_Y = 8, RIB_H = 16;          // clickable phase ribbon, above the plot
-// VGAP was 42 when three panels shared the budget. A fourth panel spends a
-// whole gap on top of splitting the same 404px, and 126px of inter-panel air
-// is dead space the panels need more than the layout does. The gap still only
-// has to clear a panel title set at p.y - 6.
-const TOP = 44, BUDGET = 404, VGAP = 34;
+// VGAP went to 34 while a fourth panel (health & activity) shared the budget:
+// a fourth panel spends a whole extra gap on top of splitting the same 404px.
+// Back to three, that air is affordable again. The gap only has to clear a
+// panel title set at p.y - 6.
+const TOP = 44, BUDGET = 404, VGAP = 42;
 const AXIS_Y = TOP + BUDGET;          // 448 — fixed, so toggling a series
 const COV_Y  = 506, COV_H = 18;       //        never reflows everything below
 const RAIL_Y = 582;
 const GUTTER = 36;
 
-const ORDER = ["waist", "weight", "vo2max", "index"];
+const ORDER = ["waist", "weight", "vo2max"];
 const P = {
   waist:  { key:"waist",  data:"waist_in",  dom:[42.2,48.6], step:2,  unit:"in", dp:2, color:"var(--c-waist)",  title:"Waist  in" },
   weight: { key:"weight", data:"weight_lb", dom:[228,264],   step:10, unit:"lb", dp:1, color:"var(--c-weight)", title:"Weight  lb" },
   /* Garmin's own estimate, and the only number on this page that is not
      self-relative -- 45 means the same thing here as it does for anyone else.
-     That is exactly why it does NOT join the index panel: sharing an axis with
-     two 0-100 self-relative indices would imply a comparability neither of
-     them has.
 
      dots:false because 414 points over six years is a smear, not a series of
      marks. snap:false because VO2max moves in single points and an axis
      snapped out to multiples of 5 would flatten every change worth seeing. */
   vo2max: { key:"vo2max", data:"vo2max", dom:[28,46], step:5, unit:"", dp:1,
             // Least hungry panel here: one sparse line, one endpoint label,
-            // no marks. A fourth panel costs a whole VGAP out of a fixed
-            // budget, so it gives that room back to the index panel rather
-            // than taking an equal quarter.
+            // no marks -- so it takes less than an equal third of the budget.
             dots:false, pad:0.08, snap:false, flex:0.85, color:"var(--c-vo2)",
-            title:"VO\u2082max  ml/kg/min      Garmin estimate" },
-  // Two lines, one panel, one scale. They are the same kind of number -- a
-  // self-relative 0-100 index -- so they share an axis honestly. Weight and
-  // waist could not: lb and in on one axis is the dual-axis trick, where the
-  // crossing point is chosen by whoever drew it.
-  index:  { key:"index", dom:[20,80], step:10, unit:"", dp:1, dots:false, pad:0.03, snap:false, flex:1.9,
-            title:"Health  ·  Activity      index, 50 = own median week",
-            lines: [
-              { key:"health",   data:"health_index",   color:"var(--c-health)",   name:"Health" },
-              { key:"activity", data:"activity_index", color:"var(--c-activity)", name:"Activity" }
-            ] }
+            title:"VO\u2082max  ml/kg/min      Garmin estimate" }
 };
-// Single-line panels are the degenerate case of a multi-line one.
+/* Every panel here draws exactly one line. The multi-line path stays because
+   it is what makes a panel "a set of lines against one scale" rather than a
+   special case -- the health & activity panel used it to put two series on one
+   axis until they came off the page on 2026-08-03. */
 const linesOf = p => p.lines || [{ data:p.data, color:p.color, name:p.title }];
-
-/* Did this week run on fewer inputs than the rest of its own line?
-
-   Compared against what the series actually reaches, not against a fixed
-   number. The activity index gains a third input (intensity minutes) as soon
-   as a schema-refresh pull backfills it, and a hardcoded threshold would then
-   either dash nothing or dash everything. `index_scale.full` is measured from
-   the published data for exactly this reason. */
-const fullParts = key => (J.index_scale && J.index_scale.full && J.index_scale.full[key]) || 2;
-const thin = (key, q) => !!q && q.parts < fullParts(key) - 0.5;
 
 // Minimum baseline separation between two labels that overlap horizontally.
 // Comfortably over the 12.5px type they are set in.
@@ -147,7 +125,7 @@ function placeLabel(p, el, y, prefer) {
 const S = {
   // Opens on the continuous era. "All" still reaches the 2020 island.
   z0: T0, z1: T1,
-  series: { waist: true, weight: true, vo2max: true, index: true },
+  series: { waist: true, weight: true, vo2max: true },
   showPhase: true, showPost: true, showRace: true,
   sel: null,        // pinned  {kind, ...}
   hoverTs: null,    // transient crosshair
@@ -180,8 +158,8 @@ function occupancy() {
   const add = arr => (arr || []).forEach(o => set.add(t(o.d)));
   // Every series, not just the visible ones — toggling a panel must not slide
   // the time axis under the panels that stayed on.
-  add(J.weight_lb); add(J.waist_in); add(J.anchors); add(J.races); add(J.posts);
-  add(J.health_index); add(J.activity_index);
+  add(J.weight_lb); add(J.waist_in); add(J.vo2max); add(J.anchors);
+  add(J.races); add(J.posts);
   return [...set].sort((a, b) => a - b);
 }
 
@@ -256,8 +234,8 @@ function fitDomain(p) {
   const pad = Math.max((hi - lo) * (p.pad ?? 0.15), p.snap === false ? 0.5 : p.step * 0.6);
   // Snapping the ENDS out to whole gridline multiples is right for a panel
   // whose axis wants round numbers, and wrong for one whose data occupies a
-  // narrow band: a 16-74 index spread snapped to a step of 10 becomes a 10-90
-  // axis, and the lines then use two thirds of the height they were given.
+  // narrow band: a 30-44 VO2max spread snapped to a step of 5 becomes a 30-45
+  // axis, and the line then uses less of the height it was given.
   // Gridlines are still drawn on the nice multiples inside the domain either
   // way — only the endpoints differ.
   p.dom = p.snap === false
@@ -290,9 +268,9 @@ function layoutPlots() {
   const vis = ORDER.filter(k => S.series[k]);
   vis.forEach(k => fitDomain(P[k]));
   let y = TOP;
-  // Panels are not equally hungry. Waist is 22 points on a 6-inch range; the
-  // index panel carries 560 points, two lines and four labels. Splitting the
-  // budget evenly starves the one doing the most work.
+  // Panels are not equally hungry. VO2max is one sparse line with a single
+  // label; waist and weight carry per-point dots, the recalled-peak rule and
+  // the hatching. Splitting the budget evenly starves the ones doing the work.
   const span = BUDGET - VGAP * Math.max(0, vis.length - 1);
   const total = vis.reduce((a, k) => a + (P[k].flex ?? 1), 0) || 1;
   vis.forEach(k => {
@@ -465,17 +443,7 @@ function drawPlot(p) {
   el("text", { x:M.l, y:p.y-6, class:"axis-title" }, L.grid).textContent = p.title;
 
   p._labels = [];
-  // Two passes over the lines, because label placement is first-come-first
-  // served and the panel's marks live on ONE line while the endpoint labels
-  // belong to all of them. Deferring the marks to a second pass is what stops
-  // the health line's "lowest · Mar 2022" from claiming a slot that boxes in
-  // the activity line's endpoint label -- nine pixels of horizontal overlap
-  // was enough to block its whole upward escape and push it 36px onto the
-  // wrong curve. Ordering within a single line could not fix that; the
-  // conflict is across lines.
-  const marks = [];
-  linesOf(p).forEach(ln => drawLine(p, ln, fn => marks.push(fn)));
-  marks.forEach(fn => fn());
+  linesOf(p).forEach(ln => drawLine(p, ln));
 
   // Recalled anchors are rules across the plot, never marks on the series --
   // there is no reading here to join a line to.
@@ -502,9 +470,9 @@ function drawPlot(p) {
 
 }
 
-/* One series inside a panel. Split out of drawPlot so the index panel can run
-   it twice against a shared scale. */
-function drawLine(p, ln, defer = fn => fn()) {
+/* One series inside a panel. Split out of drawPlot so a panel can run it once
+   per line against a shared scale. */
+function drawLine(p, ln) {
   const g = L.data, pts = J[ln.data] || [];
   if (!pts.length) return;
   const col = ln.color;
@@ -518,9 +486,10 @@ function drawLine(p, ln, defer = fn => fn()) {
   }
   segs.push(seg);
 
-  // A weekly index is mostly noise at this span — one bad night, one long
-  // Saturday. The raw weeks stay visible because hiding the scatter would
-  // oversell how smooth any of this is, but the readable line is the trend.
+  // A series may carry its own rolling mean in `t`. Where it does, the raw
+  // points stay visible — hiding the scatter would oversell how smooth the
+  // record is — but the readable line is the trend drawn over them. Nothing
+  // published today carries one; the weekly indices did until 2026-08-03.
   const hasTrend = pts.some(q => q.t != null);
   const path = (s, f) => s.map((q,i) => (i?"L":"M") + x(t(q.d)).toFixed(1) + " " + yOf(p,f(q)).toFixed(1)).join(" ");
 
@@ -529,7 +498,7 @@ function drawLine(p, ln, defer = fn => fn()) {
     const d = path(s, q => q.v);
     // The filled area under a line only reads as "how much" when there is one
     // line. Two overlapping washes read as a third colour that means nothing,
-    // so the index panel draws strokes alone.
+    // so a multi-line panel draws strokes alone.
     if (!p.lines) {
       el("path", { d: d + " L" + x(t(s[s.length-1].d)).toFixed(1) + " " + (p.y+p.h) +
                       " L" + x(t(s[0].d)).toFixed(1) + " " + (p.y+p.h) + " Z",
@@ -556,24 +525,8 @@ function drawLine(p, ln, defer = fn => fn()) {
     flush();
   });
 
-  // Where a week scored on one input instead of two, overprint dashed. Before
-  // April 2023 there is no HRV at all, so the health line over that stretch is
-  // resting heart rate alone — a weaker claim wearing the same colour, and it
-  // should not look like the rest of the line.
-  segs.forEach(s => {
-    for (let i = 1; i < s.length; i++) {
-      const a = s[i-1], b = s[i];
-      if (!(thin(ln.key, b) && thin(ln.key, a))) continue;
-      if (hasTrend && (a.t == null || b.t == null)) continue;
-      const f = hasTrend ? (q => q.t) : (q => q.v);
-      const d = `M${x(t(a.d)).toFixed(1)} ${yOf(p,f(a)).toFixed(1)} L${x(t(b.d)).toFixed(1)} ${yOf(p,f(b)).toFixed(1)}`;
-      el("path", { d, fill:"none", stroke:"var(--bg-primary)", "stroke-width":3 }, g);
-      el("path", { d, fill:"none", stroke:col, "stroke-width":2.4, "stroke-dasharray":"3 3" }, g);
-    }
-  });
-
-  // A weekly index is 250+ points; a dot on each is a smear, not a mark. Only
-  // the panels that carry sparse readings get dots.
+  // VO2max is 414 points over six years; a dot on each is a smear, not a mark.
+  // Only the panels that carry sparse readings get dots.
   if (p.dots !== false) pts.forEach((q, i) => {
     const ts = t(q.d);
     if (ts < S.z0 - DAY || ts > S.z1 + DAY) return;
@@ -617,35 +570,6 @@ function drawLine(p, ln, defer = fn => fn()) {
     et.textContent = label;
     placeLabel(p, et, yOf(p, val) + 4, prefer);
   }
-
-  // Marked extremes are placed AFTER the endpoint labels, and the order is
-  // load-bearing. An endpoint label IS its line's identity -- pushed off its
-  // own curve it names the wrong series -- while a mark keeps a circle on the
-  // point it refers to, so it can afford to move. Placed first, a mark that
-  // overlapped an endpoint label by nine pixels blocked its whole upward
-  // escape and shoved it two steps the other way, 36px from the line it named
-  // and closer to the other one.
-  // The high and low of the TREND, so they point at the best and worst
-  // sustained stretches rather than at a single good or bad week.
-  defer(() => pts.filter(q => q.mark && q.t != null).forEach(q => {
-    const ts = t(q.d);
-    if (ts < S.z0 || ts > S.z1) return;
-    const cx = x(ts), cy = yOf(p, q.t), up = q.mark === "high";
-    el("circle", { cx, cy, r:5.5, fill:"var(--bg-primary)", stroke:col, "stroke-width":2.5 }, g);
-    // Label above a high and below a low, so it never sits on the line it
-    // marks — and pulled inboard at the edges rather than clipped.
-    const near = cx > M.l + PW - 90, anchor = near ? "end" : cx < M.l + 90 ? "start" : "middle";
-    const lx = cx + (anchor === "end" ? 7 : anchor === "start" ? -7 : 0);
-    // Sit well clear of the line rather than just off it: the endpoint labels
-    // live in the same band at the right edge, and a mark that only just
-    // clears the curve starts a nudge cascade that drags them off their own
-    // series.
-    const mt = el("text", { x:lx, y:cy + (up ? -26 : 24), "text-anchor":anchor, fill:col,
-                 "font-size":11.5, stroke:"var(--bg-primary)", "stroke-width":3.5,
-                 "stroke-linejoin":"round", "paint-order":"stroke fill" }, g);
-    mt.textContent = `${up ? "highest" : "lowest"} · ${fmtM(ts)}`;
-    placeLabel(p, mt, cy + (up ? -26 : 24), up ? "up" : "down");
-  }));
 }
 
 function axisTicks() {
@@ -848,10 +772,9 @@ function drawOverlay() {
 /* How near a reading must be to the hovered date to describe it.
 
    Set from each series' own cadence, not one global number. The tape is
-   measured about monthly and the indices are weekly, so a single tolerance
-   either strands the tape or lets a three-week-old index value pose as
-   today's. */
-const SNAP_DAYS = { waist_in:21, weight_lb:5, vo2max:14, health_index:4, activity_index:4 };
+   measured about monthly and the scale weekly, so a single tolerance either
+   strands the tape or lets a three-week-old weight pose as today's. */
+const SNAP_DAYS = { waist_in:21, weight_lb:5, vo2max:14 };
 const snapDays = data => SNAP_DAYS[data] ?? 7;
 
 /* Every date the crosshair may land on: one from EVERY enabled series.
@@ -1002,17 +925,6 @@ function showReadingTip(e, ts) {
     html += vo ? `<div class="t-r"><i style="background:var(--c-vo2)"></i>VO\u2082max<b>${vo.v.toFixed(1)}</b></div>`
                : `<div class="t-r"><i style="background:rgba(255,255,255,.2)"></i>VO\u2082max<b>—</b></div>`;
   }
-  if (S.series.index) {
-    const hi = nearestWithin(J.health_index, rec.ts, snapDays("health_index"));
-    const ai = nearestWithin(J.activity_index, rec.ts, snapDays("activity_index"));
-    const row = (c, key, name, q) => q
-      ? `<div class="t-r"><i style="background:${c}"></i>${name}<b>${q.v.toFixed(0)}${thin(key, q) ? " *" : ""}</b></div>`
-      : `<div class="t-r"><i style="background:rgba(255,255,255,.2)"></i>${name}<b>—</b></div>`;
-    html += row("var(--c-health)", "health", "Health", hi)
-          + row("var(--c-activity)", "activity", "Activity", ai);
-    if (thin("health", hi) || thin("activity", ai))
-      html += `<div class="t-n">* Scored on fewer inputs than the rest of the line — a weaker number, not an equivalent one.</div>`;
-  }
   if (wa && wa.unverified) html += `<div class="t-n">This tape reading never reconciled against the page total — treat it as approximate.</div>`;
   if (!we && S.series.weight) html += `<div class="t-n">No home-scale reading this month. The two scales differ by ~2.9 lb and are never averaged.</div>`;
   tipAt(e, html);
@@ -1102,15 +1014,17 @@ function renderReadout() {
   go.hidden = true;
   grid.innerHTML = "";
   body.classList.remove("empty");
+  body.hidden = false;
 
   if (!sel) {
     ro.style.setProperty("--ro-accent", "var(--c-post)");
     eyebrow.textContent = "Where I was when I wrote it";
     title.textContent = "Nothing selected";
+    // One instruction, not two: `when` carries it and the body stays out of
+    // the way entirely rather than restating it a line lower.
     when.textContent = "Pick a post, a phase, or any point on the chart";
-    body.classList.add("empty");
-    body.textContent = "Click a violet pin on the timeline, a phase band behind it, or any post in " +
-      "the list below — this panel will show what the tape and the scale said at that moment, and link straight to the post.";
+    body.textContent = "";
+    body.hidden = true;
     return;
   }
 
@@ -1241,8 +1155,26 @@ toggleBtn("t-race",  on => { S.showRace  = on; draw(); });
 toggleBtn("s-waist", on => { S.series.waist  = on; draw(); });
 toggleBtn("s-weight",on => { S.series.weight = on; draw(); });
 toggleBtn("s-vo2max",on => { S.series.vo2max = on; draw(); });
-toggleBtn("s-index", on => { S.series.index  = on; draw(); });
 toggleBtn("t-table", on => { document.getElementById("datatable").hidden = !on; });
+
+/* ---------- explainers ----------
+   Every long-form caveat lives in a <dialog> instead of printing under its
+   panel. `showModal` rather than `show`: these are read instead of the page,
+   not alongside it, and modal is what gets the focus trap, the inert
+   background and Esc-to-close for free. Esc reaches the dialog rather than the
+   chart's own Escape handler, which is bound to the svg. */
+document.querySelectorAll("[data-explain]").forEach(b => {
+  const d = document.getElementById(b.dataset.explain);
+  if (!d) return;                     // a trigger naming nothing is a build bug
+  b.addEventListener("click", () => d.showModal());
+});
+document.querySelectorAll("dialog.explainer").forEach(d => {
+  d.addEventListener("click", e => {
+    // The backdrop is not an element: a click on it targets the dialog itself,
+    // where anything inside the panel targets a descendant.
+    if (e.target === d || e.target.hasAttribute("data-close")) d.close();
+  });
+});
 
 /* ---------- tables & lists ---------- */
 function buildTable() {
