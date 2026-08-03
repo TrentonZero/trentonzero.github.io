@@ -11,13 +11,6 @@
   --c-waist: #4a9ada;
   --c-weight: #c07f2e;
   --c-post: #9d6fd6;
-  /* Health and activity share one panel, so they are the pair that has to
-     separate: dE 13.2 at worst across deuter-, prot- and tritanopia. They sit
-     closer to weight and to each other's neighbours than the three originals
-     did, but never inside the same panel as them — no reading of this chart
-     asks anyone to tell the green from the orange. */
-  --c-health: #5f9f3f;
-  --c-activity: #d06aa8;
   /* VO2max sits in its own panel, so it only has to separate from the page
      ground and from the grid -- never from another line on the same axis. */
   --c-vo2: #46b3a6;
@@ -138,6 +131,47 @@ tbody tr.nb td { color: var(--text-secondary); }
   padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
 .note { font-size: 13.5px; color: var(--text-faint); max-width: 68ch; }
 .note code { background: rgba(0,0,0,.3); padding: 1px 5px; border-radius: var(--radius-sm); font-family: var(--font-code); font-size: .9em; }
+
+/* ---------- Explainers ----------
+   The page used to carry its caveats as prose under every panel: how to read a
+   broken line, which phase rates are comparable, why the writing and the
+   measuring barely overlap. All of it still exists, unabridged, one click
+   away — each .explain button opens the <dialog> it names. Nothing is
+   dropped, and the page reads as an instrument instead of an essay.
+
+   Buttons rather than anchors: these open a dialog, they do not navigate. */
+.explain { font-family: var(--font-code); font-size: 12.5px; line-height: 1.5;
+  color: var(--link-color); background: none; border: 0; padding: 0; margin: 0;
+  cursor: pointer; text-align: left; text-decoration: underline;
+  text-decoration-color: rgba(108,180,232,.35); text-underline-offset: 3px; }
+.explain:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
+.explain::before { content: "?"; display: inline-block; width: 14px; height: 14px;
+  margin-right: 7px; border: 1px solid currentColor; border-radius: 50%;
+  font-size: 10px; line-height: 12px; text-align: center; vertical-align: 1px; }
+.explain-row { display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 12px 0 0; }
+.sechead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; }
+.sechead h2 { margin-bottom: 16px; }
+
+/* max-height + scroll: an explainer runs to several paragraphs, which is
+   taller than a phone viewport. Without this the tail is unreachable. */
+dialog.explainer { max-width: 64ch; width: calc(100% - 28px);
+  max-height: calc(100vh - 40px); overflow-y: auto; padding: 24px 26px 26px;
+  color: var(--text-primary); background: var(--bg-deep);
+  border: 1px solid var(--border-accent); border-radius: var(--radius-lg);
+  box-shadow: 0 18px 60px rgba(0,0,0,.6); }
+dialog.explainer::backdrop { background: rgba(8, 8, 22, .68); }
+dialog.explainer p { font-size: 14.5px; color: #bcbcbc; }
+dialog.explainer p:last-child { margin-bottom: 0; }
+dialog.explainer strong { color: var(--text-bright); font-weight: 500; }
+/* Sticky rather than absolute: the dialog is the scroll container, so an
+   absolutely-positioned close button scrolls off the top of a long explainer
+   and leaves the panel looking uncloseable. */
+dialog.explainer .x { position: sticky; top: -4px; float: right; margin: -4px -6px 0 14px;
+  width: 28px; height: 28px; padding: 0; font-size: 18px; line-height: 1;
+  color: var(--text-muted); background: var(--bg-deep);
+  border: 1px solid transparent; border-radius: var(--radius-md); cursor: pointer;
+  box-shadow: 0 0 0 7px var(--bg-deep); }
+dialog.explainer .x:hover { color: var(--text-bright); background: var(--bg-hover); border-color: var(--border-light); }
 
 /* ---------- Post list ---------- */
 .post-list { list-style: none; padding: 0; margin: 0; }
