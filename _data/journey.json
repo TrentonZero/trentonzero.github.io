@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-08-04",
   "source": "data/canonical/ via scripts/build_journey.py",
   "window": {
     "start": "2014-02-23",
@@ -8,9 +8,9 @@
   "continuous_from": "2024-02-01",
   "break_days": 60,
   "fasted_am": {
-    "days": 268,
+    "days": 269,
     "first": "2020-06-11",
-    "last": "2026-08-02"
+    "last": "2026-08-04"
   },
   "weight_lb": [
     {
@@ -602,6 +602,11 @@
       "d": "2026-07-27",
       "v": 236.2,
       "cov": 4
+    },
+    {
+      "d": "2026-08-03",
+      "v": 235.3,
+      "cov": 1
     }
   ],
   "anchors": [
@@ -2364,6 +2369,10 @@
     {
       "d": "2026-08-02",
       "v": 45.2
+    },
+    {
+      "d": "2026-08-03",
+      "v": 45.3
     }
   ],
   "phases": [
@@ -2469,6 +2478,16 @@
   ],
   "races": [
     {
+      "d": "2019-03-07",
+      "name": "First unofficial 5k",
+      "kind": "milestone",
+      "gps_m": 5096.1,
+      "strava_s": 3104,
+      "official_s": null,
+      "place": null,
+      "say": ""
+    },
+    {
       "d": "2019-03-16",
       "name": "First official 5K in years",
       "kind": "race",
@@ -2479,11 +2498,41 @@
       "say": ""
     },
     {
+      "d": "2020-06-27",
+      "name": "Arlington Running",
+      "kind": "race",
+      "gps_m": 4999.7,
+      "strava_s": 2751,
+      "official_s": null,
+      "place": null,
+      "say": ""
+    },
+    {
       "d": "2024-04-29",
       "name": "Ad Hoc Mordor 5K",
       "kind": "milestone",
       "gps_m": 5054.7,
       "strava_s": 2499,
+      "official_s": null,
+      "place": null,
+      "say": ""
+    },
+    {
+      "d": "2024-07-06",
+      "name": "Fort Worth Running",
+      "kind": "race",
+      "gps_m": 5059.5,
+      "strava_s": 2451,
+      "official_s": null,
+      "place": null,
+      "say": ""
+    },
+    {
+      "d": "2024-07-10",
+      "name": "Arlington Running",
+      "kind": "milestone",
+      "gps_m": 10041.8,
+      "strava_s": 6395,
       "official_s": null,
       "place": null,
       "say": ""
@@ -2564,6 +2613,16 @@
       "kind": "race",
       "gps_m": 5046.4,
       "strava_s": 2123,
+      "official_s": null,
+      "place": null,
+      "say": ""
+    },
+    {
+      "d": "2025-05-22",
+      "name": "Estes Park Running",
+      "kind": "milestone",
+      "gps_m": 5913.8,
+      "strava_s": 2715,
       "official_s": null,
       "place": null,
       "say": ""

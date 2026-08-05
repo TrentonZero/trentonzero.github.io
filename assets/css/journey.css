@@ -133,11 +133,12 @@ tbody tr.nb td { color: var(--text-secondary); }
 .note code { background: rgba(0,0,0,.3); padding: 1px 5px; border-radius: var(--radius-sm); font-family: var(--font-code); font-size: .9em; }
 
 /* ---------- Explainers ----------
-   The page used to carry its caveats as prose under every panel: how to read a
-   broken line, which phase rates are comparable, why the writing and the
-   measuring barely overlap. All of it still exists, unabridged, one click
-   away — each .explain button opens the <dialog> it names. Nothing is
-   dropped, and the page reads as an instrument instead of an essay.
+   The page used to carry its caveats as prose under every panel. What is left
+   is how to read the chart, one click away behind the .explain button that
+   names the <dialog>. The phase-tier and post-overlap explainers came off on
+   2026-08-04: both restated what the table and the pins already show, and a
+   labelled question mark over every heading made the page read as an essay
+   again.
 
    Buttons rather than anchors: these open a dialog, they do not navigate. */
 .explain { font-family: var(--font-code); font-size: 12.5px; line-height: 1.5;
