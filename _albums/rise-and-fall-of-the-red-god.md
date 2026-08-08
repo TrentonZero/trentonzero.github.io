@@ -35,8 +35,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-green-god
         title: "Rise of the Red God"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Callolera"
 
   - number: "3"
     title: The Wisdom of the Calloléra (Red)
@@ -127,6 +125,8 @@ tracks:
         title: "Murder of the Green God"
       - album: rise-and-fall-of-the-green-god
         title: "Estelune Awakens"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Callolera"
 
   - number: "9"
     title: The Name for Those Without Names
