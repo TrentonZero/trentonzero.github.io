@@ -11,6 +11,8 @@ cover: /assets/images/albums/isils-exile/cover.jpg
 tracks:
   - number: "3"
     title: What You Do When No One's Watching
+    note: >-
+      He gave them everything clean, so she asks why their hands are still dirty.
     art: /assets/images/albums/isils-exile/what-you-do-when-no-ones-watching.jpg
     mp3: /assets/audio/isils-exile/what-you-do-when-no-ones-watching.mp3
     lyrics_file: isils-exile/what-you-do-when-no-ones-watching.txt
@@ -57,10 +59,11 @@ tracks:
 
   - number: "—"
     title: The Wisdom of the Calloléra (Isil)
+    note: >-
+      Let them have a hundred gods. Come outside; the moon is up. Its position in the running order is not yet set.
     art: /assets/images/albums/isils-exile/the-wisdom-of-the-callolera-isil.jpg
     mp3: /assets/audio/isils-exile/the-wisdom-of-the-callolera-isil.mp3
     lyrics_file: isils-exile/the-wisdom-of-the-callolera-isil.txt
-    note: Position in the running order not yet set.
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
