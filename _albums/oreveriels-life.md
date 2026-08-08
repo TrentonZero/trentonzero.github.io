@@ -12,6 +12,13 @@ tracks:
     art: /assets/images/albums/oreveriels-life/the-gremlin.jpg
     mp3: /assets/audio/oreveriels-life/the-gremlin.mp3
     lyrics_file: oreveriels-life/the-gremlin.txt
+    sources:
+      - title: "The space goblins"
+        url: /2005/02/1
+      - title: "The Goblins!"
+        url: /2004/09/2
+      - title: "Never turn the little knobs under the sink!"
+        url: /2004/09/1
 
   - number: "2"
     title: Reckless Council
