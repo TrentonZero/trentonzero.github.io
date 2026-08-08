@@ -4,6 +4,11 @@ title: "Orëveriel's Life"
 type: album
 date: 2026-03-06 04:14:55 +0000
 artist: Orëveriel
+blurb: >
+  Eleven songs in Orëveriel's own voice, running the length of her life: from
+  the nameless gremlin who was only the voice saying *let's make it something
+  else*, through the years of reckless council, to the kitchen table where
+  someone wearing her face sits in the chair and never contradicts herself.
 cover: /assets/images/albums/oreveriels-life/cover.jpg
 tracks:
   - number: "1"

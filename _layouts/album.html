@@ -22,7 +22,8 @@ layout: default
         <span class="album-type">{{ page.type }}</span>
         {% if page.artist %}<span>{{ page.artist }}</span>{% endif %}
         {% if page.date %}<span>{{ page.date | date: "%Y" }}</span>{% endif %}
-        <span>{{ page.tracks | size }} tracks</span>
+        {% assign count = page.tracks | size %}
+        <span>{{ count }} track{% unless count == 1 %}s{% endunless %}</span>
       </p>
       {{ content }}
     </div>
