@@ -35,6 +35,8 @@ tracks:
 
   - number: "10"
     title: I Am Not Your Mother
+    note: >-
+      The moon declines to be reconciled with the machine.
     art: /assets/images/albums/isils-exile/i-am-not-your-mother.jpg
     mp3: /assets/audio/isils-exile/i-am-not-your-mother.mp3
     lyrics_file: isils-exile/i-am-not-your-mother.txt
