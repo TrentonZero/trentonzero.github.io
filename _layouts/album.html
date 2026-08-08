@@ -72,7 +72,10 @@ layout: default
 
         {% if track.lyrics_file and track.lyrics_file != "" %}
           {% assign lyrics_path = "lyrics/" | append: track.lyrics_file %}
-          <pre class="lyrics">{% include {{ lyrics_path }} %}</pre>
+          <details class="lyrics-fold">
+            <summary>Lyrics</summary>
+            <pre class="lyrics">{% include {{ lyrics_path }} %}</pre>
+          </details>
         {% endif %}
 
       </li>
