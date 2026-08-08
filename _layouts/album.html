@@ -34,7 +34,11 @@ layout: default
 
   <ol class="tracklist">
     {% for track in page.tracks %}
-      <li class="track" id="track-{{ forloop.index }}">
+      {% comment %}
+        Anchor is derived from the title, not the position, so cross-album
+        links keep working when a record is reordered or renumbered.
+      {% endcomment %}
+      <li class="track" id="{{ track.title | slugify }}">
 
         <div class="track-head">
           {% if track.art %}
@@ -60,6 +64,18 @@ layout: default
 
             {% if track.note %}
               <p class="track-note">{{ track.note }}</p>
+            {% endif %}
+
+            {% if track.related and track.related.size > 0 %}
+              <p class="track-related">
+                <span class="track-related-label">See also</span>
+                {% for rel in track.related %}
+                  {% assign rel_album = site.albums | where: "slug", rel.album | first %}
+                  {% if rel_album %}
+                    <a href="{{ rel_album.url }}#{{ rel.title | slugify }}">{{ rel.title }}<span class="track-related-album">{{ rel_album.title }}</span></a>{% unless forloop.last %}<span class="sep">·</span>{% endunless %}
+                  {% endif %}
+                {% endfor %}
+              </p>
             {% endif %}
 
             {% if track.sources and track.sources.size > 0 %}

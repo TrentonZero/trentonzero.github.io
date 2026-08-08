@@ -19,6 +19,13 @@ tracks:
         url: /2019/07/oreveriel-at-the-park
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "I'll Be Singing"
+      - album: oreveriels-life
+        title: "Get Off the Pavement"
+      - album: oreveriels-life
+        title: "The Moons Prophet"
 
   - number: "10"
     title: I Am Not Your Mother
@@ -32,6 +39,17 @@ tracks:
         url: /2026/02/green-god-speaks
       - title: The Untold Myth
         url: /2019/08/the_untold_myth
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Green God's Daughter"
+      - album: oreveriels-life
+        title: "The Painted Girl"
+      - album: oreveriels-life
+        title: "The Painted Girl (Reprise)"
+      - album: oreveriels-life
+        title: "Shape Without a Story"
+      - album: oreveriels-life
+        title: "Isilnight"
 
   - number: "—"
     title: The Wisdom of the Calloléra (Isil)
@@ -44,7 +62,12 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
----
+    related:
+      - album: oreveriels-life
+        title: "Story Time with Orëveriel (The Wisdom of the Calloléra)"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Wisdom of the Calloléra (Green)"
+      - album: rise-and-fall-of-the-red-god
+        title: "The Wisdom of the Calloléra (Red)"
 
-Unfinished. Three of the tracks exist; the numbering is the shape of the
-record they belong to, not of the record so far.
+---

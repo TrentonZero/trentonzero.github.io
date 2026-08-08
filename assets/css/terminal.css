@@ -705,10 +705,42 @@ pre > code {
   margin: 0 0 8px;
 }
 
+.track-related {
+  font-family: var(--font-code);
+  font-size: 12px;
+  margin: 0 0 6px;
+}
+
+.track-related-label,
+.track-sources-label {
+  color: var(--text-faint);
+  margin-right: 6px;
+}
+
+.track-related-album {
+  color: var(--text-faint);
+  margin-left: 6px;
+}
+
+.track-related-album::before {
+  content: "\2014\00a0";
+}
+
 .track-sources {
   font-family: var(--font-code);
   font-size: 12px;
   margin: 0;
+}
+
+/* Anchor targets: keep the heading clear of the viewport edge on jump. */
+.track {
+  scroll-margin-top: 24px;
+}
+
+.track:target {
+  border-left: 2px solid var(--accent-blue);
+  padding-left: 16px;
+  margin-left: -18px;
 }
 
 .track-sources-label {

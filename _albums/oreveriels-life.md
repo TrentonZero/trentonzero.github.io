@@ -19,6 +19,13 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Wisdom of the Calloléra (Green)"
+      - album: rise-and-fall-of-the-red-god
+        title: "The Wisdom of the Calloléra (Red)"
+      - album: isils-exile
+        title: "The Wisdom of the Calloléra (Isil)"
 
   - number: "2"
     title: The Gremlin
@@ -32,6 +39,11 @@ tracks:
         url: /2004/09/the-goblins
       - title: "Never turn the little knobs under the sink!"
         url: /2004/09/never-turn-the-little-knobs-under-the-sink
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Drowsy Age"
+      - album: oreveriels-life
+        title: "Shape Without a Story"
 
   - number: "3"
     title: Reckless Council
@@ -43,6 +55,11 @@ tracks:
         url: /2014/09/time-for-a-change-of-oreveriel
       - title: Orëveriel Foolishly Ignored
         url: /2014/10/oreveriel-foolishly-ignored
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Drowsy Age"
+      - album: oreveriels-life
+        title: "Every Foolish Thing"
 
   - number: "4"
     title: Every Foolish Thing
@@ -54,6 +71,11 @@ tracks:
         url: /2014/10/oreveriel-foolishly-ignored
       - title: The Painted Orëveriel
         url: /2026/02/painted
+    related:
+      - album: oreveriels-life
+        title: "Reckless Council"
+      - album: oreveriels-life
+        title: "Shape Without a Story"
 
   - number: "5"
     title: The Moons Prophet
@@ -63,6 +85,11 @@ tracks:
     sources:
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
+    related:
+      - album: isils-exile
+        title: "What You Do When No One's Watching"
+      - album: oreveriels-life
+        title: "Get Off the Pavement"
 
   - number: "6"
     title: Get Off the Pavement
@@ -74,6 +101,13 @@ tracks:
         url: /2019/08/oreveriel-tested
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
+    related:
+      - album: isils-exile
+        title: "What You Do When No One's Watching"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Drowsy Age"
+      - album: oreveriels-life
+        title: "The Moons Prophet"
 
   - number: "7"
     title: The Dungeon
@@ -83,6 +117,9 @@ tracks:
     sources:
       - title: Yelloturë
         url: /2016/05/yelloture
+    related:
+      - album: oreveriels-life
+        title: "Isilnight"
 
   - number: "8"
     title: Isilnight
@@ -94,6 +131,13 @@ tracks:
         url: /2020/02/requiem-at-howling-wolf-inn
       - title: The Untold Myth
         url: /2019/08/the_untold_myth
+    related:
+      - album: isils-exile
+        title: "I Am Not Your Mother"
+      - album: oreveriels-life
+        title: "Shape Without a Story"
+      - album: oreveriels-life
+        title: "The Dungeon"
 
   - number: "9"
     title: The Painted Girl
@@ -103,6 +147,13 @@ tracks:
     sources:
       - title: The Painted Orëveriel
         url: /2026/02/painted
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Green God's Daughter"
+      - album: isils-exile
+        title: "I Am Not Your Mother"
+      - album: oreveriels-life
+        title: "The Painted Girl (Reprise)"
 
   - number: "10"
     title: The Painted Girl (Reprise)
@@ -112,6 +163,15 @@ tracks:
     sources:
       - title: The Painted Orëveriel
         url: /2026/02/painted
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Green God's Daughter"
+      - album: isils-exile
+        title: "I Am Not Your Mother"
+      - album: oreveriels-life
+        title: "The Painted Girl"
+      - album: oreveriels-life
+        title: "Shape Without a Story"
 
   - number: "11"
     title: Shape Without a Story
@@ -123,5 +183,16 @@ tracks:
         url: /2026/02/painted
       - title: Time for a Change (Of Orëveriel)
         url: /2014/09/time-for-a-change-of-oreveriel
+    related:
+      - album: isils-exile
+        title: "I Am Not Your Mother"
+      - album: oreveriels-life
+        title: "The Painted Girl (Reprise)"
+      - album: oreveriels-life
+        title: "Isilnight"
+      - album: oreveriels-life
+        title: "Every Foolish Thing"
+      - album: oreveriels-life
+        title: "The Gremlin"
 
 ---

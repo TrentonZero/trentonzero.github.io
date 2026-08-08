@@ -18,6 +18,11 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Rise of the Red God"
+      - album: rise-and-fall-of-the-red-god
+        title: "Anthem"
 
   - number: "2"
     title: Anthem
@@ -29,6 +34,11 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Rise of the Red God"
+      - album: rise-and-fall-of-the-red-god
+        title: "Nameless"
 
   - number: "3"
     title: The Wisdom of the Calloléra (Red)
@@ -38,6 +48,13 @@ tracks:
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
+    related:
+      - album: oreveriels-life
+        title: "Story Time with Orëveriel (The Wisdom of the Calloléra)"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Wisdom of the Calloléra (Green)"
+      - album: isils-exile
+        title: "The Wisdom of the Calloléra (Isil)"
 
   - number: "4"
     title: The Green God Sleeps
@@ -47,6 +64,11 @@ tracks:
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Murder of the Green God"
+      - album: rise-and-fall-of-the-green-god
+        title: "Behold Me! (Reprise)"
 
   - number: "5"
     title: The Anvil (3 AM)
@@ -56,6 +78,11 @@ tracks:
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Labor"
+      - album: rise-and-fall-of-the-green-god
+        title: "Behold Me! (Reprise)"
 
   - number: "6"
     title: Lullaby for the Calloléra
@@ -65,6 +92,11 @@ tracks:
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "The Labor"
+      - album: rise-and-fall-of-the-green-god
+        title: "Behold Me! (Reprise)"
 
   - number: "7"
     title: The Denial
@@ -76,6 +108,13 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Rise of the Green God"
+      - album: rise-and-fall-of-the-green-god
+        title: "Behold Me! (Reprise)"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Labor"
 
   - number: "8"
     title: Estelune Visits
@@ -85,6 +124,11 @@ tracks:
     sources:
       - title: The Beginning
         url: /2018/04/thebeginning
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Murder of the Green God"
+      - album: rise-and-fall-of-the-green-god
+        title: "Estelune Awakens"
 
   - number: "9"
     title: The Name for Those Without Names
@@ -96,4 +140,10 @@ tracks:
         url: /2018/04/thebeginning
       - title: Guide for the Perplexed
         url: /guide.html
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "Postlude: Say Something!"
+      - album: rise-and-fall-of-the-green-god
+        title: "He Speaks At Last"
+
 ---
