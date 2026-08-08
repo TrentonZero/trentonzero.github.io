@@ -22,5 +22,3 @@ tracks:
       - title: Guide for the Perplexed
         url: /guide.html
 ---
-
-Orëveriel against the machine god, five feet tall and looking down on him.

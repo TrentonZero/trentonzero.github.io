@@ -14,9 +14,9 @@ tracks:
     lyrics_file: oreveriels-life/the-gremlin.txt
     sources:
       - title: "The space goblins"
-        url: /2005/02/1
+        url: /2005/02/the-space-goblins
       - title: "The Goblins!"
-        url: /2004/09/2
+        url: /2004/09/the-goblins
       - title: "Never turn the little knobs under the sink!"
         url: /2004/09/never-turn-the-little-knobs-under-the-sink
 
@@ -122,9 +122,3 @@ tracks:
       - title: Guide for the Perplexed
         url: /guide.html
 ---
-
-Eleven songs in Orëveriel's own voice, running the length of her life: from the
-nameless gremlin who was only ever the voice that said *this is boring, let's
-make it something else*, through the years of reckless council, to the kitchen
-table where someone who looks exactly like her sits in the chair and never
-contradicts herself.

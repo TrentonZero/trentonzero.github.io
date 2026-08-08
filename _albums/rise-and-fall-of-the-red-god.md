@@ -95,10 +95,3 @@ tracks:
       - title: Guide for the Perplexed
         url: /guide.html
 ---
-
-The companion record to *Rise and Fall of the Green God*, told from the other
-side of the wall. Multitude rises out of the uncounted hands that built the
-temple, refuses the Calloléra's clever compromise, murders the god who gave
-freely, and inherits a source that turns out to be nothing but his own arms.
-It ends where the Green God's record ended: someone shouting at Ainofiriano,
-and Ainofiriano saying nothing.

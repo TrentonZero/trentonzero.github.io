@@ -25,6 +25,9 @@ layout: default
         {% assign count = page.tracks | size %}
         <span>{{ count }} track{% unless count == 1 %}s{% endunless %}</span>
       </p>
+      {% if page.blurb %}
+        <p class="album-blurb">{{ page.blurb }}</p>
+      {% endif %}
       {{ content }}
     </div>
   </div>

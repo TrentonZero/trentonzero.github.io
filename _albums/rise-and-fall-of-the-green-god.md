@@ -158,11 +158,3 @@ tracks:
       - title: An Apocalypse
         url: /2018/04/apocalypse
 ---
-
-The history in *The Beginning* sung by the gods who lived it. The Green God
-arrives answering every question, drives Isil into the margins, and is murdered
-in his sleep by the Red God, who inherits the labor and discovers it cannot be
-inherited. Estelune wakes to a full world with no one watching the door, the
-Calloléra go drowsy, and the daughter rises with her father's face and better
-manners. Ainofiriano says nothing throughout, which is the point, and is still
-saying nothing when the record ends.
