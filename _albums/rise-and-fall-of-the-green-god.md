@@ -231,6 +231,8 @@ tracks:
     related:
       - album: rise-and-fall-of-the-red-god
         title: "The Name for Those Without Names"
+      - album: oreveriels-life
+        title: '"And He Speaks At Last"'
 
   - number: "15"
     title: "Postlude: Say Something!"
@@ -246,5 +248,7 @@ tracks:
     related:
       - album: rise-and-fall-of-the-red-god
         title: "The Name for Those Without Names"
+      - album: oreveriels-life
+        title: '"And He Speaks At Last"'
 
 ---

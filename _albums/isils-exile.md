@@ -32,6 +32,8 @@ tracks:
         title: "The Rise of Isil"
       - album: oreveriels-life
         title: "The Dungeon"
+      - album: oreveriels-life
+        title: '"And He Speaks At Last"'
 
   - number: "10"
     title: I Am Not Your Mother

@@ -178,4 +178,25 @@ tracks:
       - album: isils-exile
         title: "I Am Not Your Mother"
 
+  - number: "12"
+    title: '"And He Speaks At Last"'
+    note: "He is still wearing the sign, and for once she doesn't say anything about it."
+    art: /assets/images/albums/oreveriels-life/and-he-speaks-at-last.jpg
+    mp3: /assets/audio/oreveriels-life/and-he-speaks-at-last.mp3
+    lyrics_file: oreveriels-life/and-he-speaks-at-last.txt
+    sources:
+      - title: Requiem at the Howling Wolf Inn
+        url: /2020/02/requiem-at-howling-wolf-inn
+      - title: An Apocalypse
+        url: /2018/04/apocalypse
+      - title: The Painted Orëveriel
+        url: /2026/02/painted
+    related:
+      - album: rise-and-fall-of-the-green-god
+        title: "He Speaks At Last"
+      - album: rise-and-fall-of-the-green-god
+        title: "Postlude: Say Something!"
+      - album: isils-exile
+        title: "What You Do When No One's Watching"
+
 ---
