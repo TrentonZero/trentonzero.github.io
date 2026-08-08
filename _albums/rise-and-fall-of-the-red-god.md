@@ -10,6 +10,7 @@ cover: /assets/images/albums/rise-and-fall-of-the-red-god/cover.jpg
 tracks:
   - number: "1"
     title: Nameless
+    note: "Someone should say something. He looks around and there is nobody."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/nameless.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/nameless.mp3
     lyrics_file: rise-and-fall-of-the-red-god/nameless.txt
@@ -24,6 +25,7 @@ tracks:
 
   - number: "2"
     title: Anthem
+    note: "He isn't angry that they have it. He's angry that they forgot who made it."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/anthem.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/anthem.mp3
     lyrics_file: rise-and-fall-of-the-red-god/anthem.txt
@@ -38,6 +40,7 @@ tracks:
 
   - number: "3"
     title: The Wisdom of the Calloléra (Red)
+    note: "He names their suffering; they agree, and ask to keep the cause of it."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/the-wisdom-of-the-callolera-red.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/the-wisdom-of-the-callolera-red.mp3
     lyrics_file: rise-and-fall-of-the-red-god/the-wisdom-of-the-callolera-red.txt
@@ -54,6 +57,7 @@ tracks:
 
   - number: "4"
     title: The Green God Sleeps
+    note: "He stands over the sleeping god a long time, looking for a reason not to."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/the-green-god-sleeps.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/the-green-god-sleeps.mp3
     lyrics_file: rise-and-fall-of-the-red-god/the-green-god-sleeps.txt
@@ -68,6 +72,7 @@ tracks:
 
   - number: "5"
     title: The Anvil (3 AM)
+    note: "It will be bread. It won't be the bread they remember."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/the-anvil-3-am.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/the-anvil-3-am.mp3
     lyrics_file: rise-and-fall-of-the-red-god/the-anvil-3-am.txt
@@ -82,6 +87,7 @@ tracks:
 
   - number: "6"
     title: Lullaby for the Calloléra
+    note: "A lullaby from someone who doesn't get to sleep."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/lullaby-for-the-callolera.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/lullaby-for-the-callolera.mp3
     lyrics_file: rise-and-fall-of-the-red-god/lullaby-for-the-callolera.txt
@@ -96,6 +102,7 @@ tracks:
 
   - number: "7"
     title: The Denial
+    note: "The difference is real if you listen, and he badly needs you to listen."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/the-denial.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/the-denial.mp3
     lyrics_file: rise-and-fall-of-the-red-god/the-denial.txt
@@ -114,6 +121,7 @@ tracks:
 
   - number: "8"
     title: Estelune Visits
+    note: "He thought he was using the drinker. The drinker was patient about it."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/estelune-visits.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/estelune-visits.mp3
     lyrics_file: rise-and-fall-of-the-red-god/estelune-visits.txt
@@ -130,6 +138,7 @@ tracks:
 
   - number: "9"
     title: The Name for Those Without Names
+    note: "He killed a god and fed a nation, and asks for one word in return."
     art: /assets/images/albums/rise-and-fall-of-the-red-god/the-name-for-those-without-names.jpg
     mp3: /assets/audio/rise-and-fall-of-the-red-god/the-name-for-those-without-names.mp3
     lyrics_file: rise-and-fall-of-the-red-god/the-name-for-those-without-names.txt
