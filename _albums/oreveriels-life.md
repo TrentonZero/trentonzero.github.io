@@ -10,6 +10,17 @@ position: 1
 cover: /assets/images/albums/oreveriels-life/cover.jpg
 tracks:
   - number: "1"
+    title: Story Time with Orëveriel (The Wisdom of the Calloléra)
+    art: /assets/images/albums/oreveriels-life/story-time-with-oreveriel.jpg
+    mp3: /assets/audio/oreveriels-life/story-time-with-oreveriel.mp3
+    lyrics_file: oreveriels-life/story-time-with-oreveriel.txt
+    sources:
+      - title: The Beginning
+        url: /2018/04/thebeginning
+      - title: Guide for the Perplexed
+        url: /guide.html
+
+  - number: "2"
     title: The Gremlin
     art: /assets/images/albums/oreveriels-life/the-gremlin.jpg
     mp3: /assets/audio/oreveriels-life/the-gremlin.mp3
@@ -22,7 +33,7 @@ tracks:
       - title: "Never turn the little knobs under the sink!"
         url: /2004/09/never-turn-the-little-knobs-under-the-sink
 
-  - number: "2"
+  - number: "3"
     title: Reckless Council
     art: /assets/images/albums/oreveriels-life/reckless-council.jpg
     mp3: /assets/audio/oreveriels-life/reckless-council.mp3
@@ -33,7 +44,7 @@ tracks:
       - title: Orëveriel Foolishly Ignored
         url: /2014/10/oreveriel-foolishly-ignored
 
-  - number: "3"
+  - number: "4"
     title: Every Foolish Thing
     art: /assets/images/albums/oreveriels-life/every-foolish-thing.jpg
     mp3: /assets/audio/oreveriels-life/every-foolish-thing.mp3
@@ -44,7 +55,7 @@ tracks:
       - title: The Painted Orëveriel
         url: /2026/02/painted
 
-  - number: "4"
+  - number: "5"
     title: The Moons Prophet
     art: /assets/images/albums/oreveriels-life/the-moons-prophet.jpg
     mp3: /assets/audio/oreveriels-life/the-moons-prophet.mp3
@@ -53,7 +64,7 @@ tracks:
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
 
-  - number: "5"
+  - number: "6"
     title: Get Off the Pavement
     art: /assets/images/albums/oreveriels-life/get-off-the-pavement.jpg
     mp3: /assets/audio/oreveriels-life/get-off-the-pavement.mp3
@@ -64,7 +75,7 @@ tracks:
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
 
-  - number: "6"
+  - number: "7"
     title: The Dungeon
     art: /assets/images/albums/oreveriels-life/the-dungeon.jpg
     mp3: /assets/audio/oreveriels-life/the-dungeon.mp3
@@ -73,7 +84,7 @@ tracks:
       - title: Yelloturë
         url: /2016/05/yelloture
 
-  - number: "7"
+  - number: "8"
     title: Isilnight
     art: /assets/images/albums/oreveriels-life/isilnight.jpg
     mp3: /assets/audio/oreveriels-life/isilnight.mp3
@@ -84,7 +95,7 @@ tracks:
       - title: The Untold Myth
         url: /2019/08/the_untold_myth
 
-  - number: "8"
+  - number: "9"
     title: The Painted Girl
     art: /assets/images/albums/oreveriels-life/the-painted-girl.jpg
     mp3: /assets/audio/oreveriels-life/the-painted-girl.mp3
@@ -93,7 +104,7 @@ tracks:
       - title: The Painted Orëveriel
         url: /2026/02/painted
 
-  - number: "8b"
+  - number: "10"
     title: The Painted Girl (Reprise)
     art: /assets/images/albums/oreveriels-life/the-painted-girl-reprise.jpg
     mp3: /assets/audio/oreveriels-life/the-painted-girl-reprise.mp3
@@ -102,7 +113,7 @@ tracks:
       - title: The Painted Orëveriel
         url: /2026/02/painted
 
-  - number: "9"
+  - number: "11"
     title: Shape Without a Story
     art: /assets/images/albums/oreveriels-life/shape-without-a-story.jpg
     mp3: /assets/audio/oreveriels-life/shape-without-a-story.mp3
@@ -113,14 +124,4 @@ tracks:
       - title: Time for a Change (Of Orëveriel)
         url: /2014/09/time-for-a-change-of-oreveriel
 
-  - number: "B"
-    title: Story Time with Orëveriel (The Wisdom of the Calloléra)
-    art: /assets/images/albums/oreveriels-life/story-time-with-oreveriel.jpg
-    mp3: /assets/audio/oreveriels-life/story-time-with-oreveriel.mp3
-    lyrics_file: oreveriels-life/story-time-with-oreveriel.txt
-    sources:
-      - title: The Beginning
-        url: /2018/04/thebeginning
-      - title: Guide for the Perplexed
-        url: /guide.html
 ---
