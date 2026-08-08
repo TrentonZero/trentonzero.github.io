@@ -10,9 +10,12 @@ page showing album cover art and, for every track, its own cover art, an MP3
 player, a liner note, links to the blog posts the song draws on, and the full
 lyrics. An index page lists every release as a cover-art card.
 
-The first entry is the single **Get Off the Pavement**, an arena-metal track
-sung in the voice of Orëveriel, drawn from the Vanyanan Cantos. Its MP3 does
-not exist yet, so the page must render correctly with audio absent.
+The first entry is the album **Orëveriel's Life**: eleven tracks sung in the
+voice of Orëveriel, drawn from the Vanyanan Cantos. Audio, per-track cover art
+and lyrics were all extracted from the MP3s' ID3 tags.
+
+The `mp3`-absent path is still required — it is how any future release is
+staged before its audio exists — but no track in this album uses it.
 
 ## Build Constraint
 
@@ -80,6 +83,9 @@ Field reference:
   `album` and is displayed verbatim, capitalized in CSS.
 - `cover` — album art path.
 - `tracks` — ordered list. Track order on the page is array order.
+- `tracks[].number` — optional free-string label shown before the title,
+  defaulting to the array index. Free-string because this album has an `8b`
+  reprise and a `B` bonus track, neither of which is an integer position.
 - `tracks[].mp3` — path under `/assets/audio/`. Blank or absent means the
   audio does not exist yet.
 - `tracks[].lyrics_file` — filename only, resolved under `_includes/lyrics/`.

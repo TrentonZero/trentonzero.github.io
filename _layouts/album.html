@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="page-header">
+  <div class="container">
+    <h1>{{ page.title }} <small>{{ page.type }}</small></h1>
+  </div>
+</div>
+
+<div class="container content">
+
+  <div class="album-header">
+    {% if page.cover %}
+      <img class="album-cover" src="{{ page.cover }}" alt="{{ page.title }} cover art">
+    {% else %}
+      <div class="album-cover album-cover-placeholder"></div>
+    {% endif %}
+    <div class="album-meta">
+      <h2>{{ page.title }}</h2>
+      <p class="album-facts">
+        <span class="album-type">{{ page.type }}</span>
+        {% if page.artist %}<span>{{ page.artist }}</span>{% endif %}
+        {% if page.date %}<span>{{ page.date | date: "%Y" }}</span>{% endif %}
+        <span>{{ page.tracks | size }} tracks</span>
+      </p>
+      {{ content }}
+    </div>
+  </div>
+
+  <ol class="tracklist">
+    {% for track in page.tracks %}
+      <li class="track" id="track-{{ forloop.index }}">
+
+        <div class="track-head">
+          {% if track.art %}
+            <img class="track-art" src="{{ track.art }}" alt="{{ track.title }} cover art">
+          {% else %}
+            <div class="track-art track-art-placeholder"></div>
+          {% endif %}
+
+          <div class="track-info">
+            <h3 class="track-title">
+              <span class="track-number">{{ track.number | default: forloop.index }}</span>
+              {{ track.title }}
+            </h3>
+
+            {% if track.mp3 and track.mp3 != "" %}
+              <audio class="track-player" controls preload="none" src="{{ track.mp3 }}">
+                Your browser does not support audio playback.
+                <a href="{{ track.mp3 }}">Download the MP3</a>.
+              </audio>
+            {% else %}
+              <p class="track-pending">Audio coming soon</p>
+            {% endif %}
+
+            {% if track.note %}
+              <p class="track-note">{{ track.note }}</p>
+            {% endif %}
+
+            {% if track.sources and track.sources.size > 0 %}
+              <p class="track-sources">
+                <span class="track-sources-label">From</span>
+                {% for source in track.sources %}
+                  <a href="{{ source.url }}">{{ source.title }}</a>{% unless forloop.last %}<span class="sep">·</span>{% endunless %}
+                {% endfor %}
+              </p>
+            {% endif %}
+          </div>
+        </div>
+
+        {% if track.lyrics_file and track.lyrics_file != "" %}
+          {% assign lyrics_path = "lyrics/" | append: track.lyrics_file %}
+          <pre class="lyrics">{% include {{ lyrics_path }} %}</pre>
+        {% endif %}
+
+      </li>
+    {% endfor %}
+  </ol>
+
+  <p class="album-back"><a href="/albums/">&laquo; All releases</a></p>
+
+</div>

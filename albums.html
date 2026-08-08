@@ -1,0 +1,31 @@
+---
+layout: page
+title: Albums
+header: Albums
+permalink: /albums/
+group: navigation
+---
+
+{% assign releases = site.albums | sort: "date" | reverse %}
+
+{% if releases.size == 0 %}
+  <p>Nothing released yet.</p>
+{% else %}
+<div class="album-grid">
+  {% for release in releases %}
+    <a class="album-card" href="{{ release.url }}">
+      {% if release.cover %}
+        <img class="album-card-cover" src="{{ release.cover }}" alt="{{ release.title }} cover art">
+      {% else %}
+        <div class="album-card-cover album-cover-placeholder"></div>
+      {% endif %}
+      <div class="album-card-body">
+        <div class="album-card-title">{{ release.title }}</div>
+        <div class="album-card-meta">
+          {{ release.type | capitalize }} &middot; {{ release.date | date: "%Y" }} &middot; {{ release.tracks | size }} tracks
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+{% endif %}

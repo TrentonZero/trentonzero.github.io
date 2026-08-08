@@ -498,10 +498,231 @@ pre > code {
 
 
 /* ==========================================================================
+   Albums
+   ========================================================================== */
+
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.album-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: border-color 0.25s ease, background 0.25s ease;
+}
+
+.album-card:hover {
+  border-color: var(--border-light);
+  background: var(--bg-hover);
+}
+
+.album-card-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.album-card-body {
+  padding: 14px 18px;
+}
+
+.album-card-title {
+  font-family: var(--font-heading);
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.album-card-meta {
+  font-family: var(--font-code);
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+/* Stands in for art that hasn't been uploaded yet. */
+.album-cover-placeholder {
+  aspect-ratio: 1 / 1;
+  background:
+    repeating-linear-gradient(
+      45deg,
+      var(--bg-elevated),
+      var(--bg-elevated) 10px,
+      transparent 10px,
+      transparent 20px
+    );
+  border: 1px solid var(--border-subtle);
+}
+
+.album-header {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: var(--gap);
+  align-items: start;
+  margin-bottom: 40px;
+}
+
+.album-cover {
+  width: 100%;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+}
+
+.album-meta h2 {
+  margin-top: 0;
+}
+
+.album-facts {
+  font-family: var(--font-code);
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+}
+
+.album-facts span + span::before {
+  content: "·";
+  margin: 0 8px;
+  color: var(--text-faint);
+}
+
+.album-type {
+  text-transform: capitalize;
+}
+
+.tracklist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.track {
+  border-top: 1px solid var(--border-subtle);
+  padding: 28px 0;
+}
+
+.track-head {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.track-art {
+  width: 100%;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+}
+
+.track-art-placeholder {
+  aspect-ratio: 1 / 1;
+}
+
+.track-title {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  margin: 0 0 10px;
+}
+
+.track-number {
+  font-family: var(--font-code);
+  font-size: 13px;
+  color: var(--text-faint);
+  margin-right: 10px;
+}
+
+.track-player {
+  width: 100%;
+  max-width: 480px;
+  height: 36px;
+  margin-bottom: 10px;
+}
+
+.track-pending {
+  font-family: var(--font-code);
+  font-size: 12px;
+  color: var(--text-faint);
+  border: 1px dashed var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 8px 12px;
+  display: inline-block;
+  margin: 0 0 10px;
+}
+
+.track-note {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0 0 8px;
+}
+
+.track-sources {
+  font-family: var(--font-code);
+  font-size: 12px;
+  margin: 0;
+}
+
+.track-sources-label {
+  color: var(--text-faint);
+  margin-right: 6px;
+}
+
+.track-sources .sep {
+  color: var(--text-faint);
+  margin: 0 6px;
+}
+
+.lyrics {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text-primary);
+  white-space: pre-wrap;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 20px 24px;
+  margin: 20px 0 0 140px;
+  overflow-x: auto;
+}
+
+.album-back {
+  font-family: var(--font-code);
+  font-size: 13px;
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 20px;
+}
+
+
+/* ==========================================================================
    Responsive
    ========================================================================== */
 
 @media (max-width: 768px) {
+  .album-grid,
+  .album-header,
+  .track-head {
+    grid-template-columns: 1fr;
+  }
+
+  .album-header {
+    gap: 20px;
+  }
+
+  .album-cover {
+    max-width: 260px;
+  }
+
+  .track-art {
+    max-width: 160px;
+  }
+
+  .lyrics {
+    margin-left: 0;
+  }
+
   body {
     font-size: 15px;
   }
