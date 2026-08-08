@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-08",
   "source": "data/canonical/ via scripts/build_journey.py",
   "window": {
     "start": "2014-02-23",
@@ -8,9 +8,9 @@
   "continuous_from": "2024-02-01",
   "break_days": 60,
   "fasted_am": {
-    "days": 269,
+    "days": 271,
     "first": "2020-06-11",
-    "last": "2026-08-04"
+    "last": "2026-08-06"
   },
   "weight_lb": [
     {
@@ -605,8 +605,8 @@
     },
     {
       "d": "2026-08-03",
-      "v": 235.3,
-      "cov": 1
+      "v": 236.2,
+      "cov": 3
     }
   ],
   "anchors": [
@@ -2373,6 +2373,10 @@
     {
       "d": "2026-08-03",
       "v": 45.3
+    },
+    {
+      "d": "2026-08-05",
+      "v": 45.4
     }
   ],
   "phases": [
