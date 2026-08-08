@@ -3,11 +3,7 @@ layout: album
 title: Rise and Fall of the Red God
 type: album
 date: 2026-03-03 00:45:16 +0000
-blurb: >
-  The companion record to *Rise and Fall of the Green God*, told from the other
-  side of the wall. Multitude rises out of the uncounted hands that built the
-  temple, refuses the Calloléra's clever compromise, and inherits a source that
-  turns out to be nothing but his own arms.
+blurb: "Everything you were owed, drop by drop."
 cover: /assets/images/albums/rise-and-fall-of-the-red-god/cover.jpg
 tracks:
   - number: "1"

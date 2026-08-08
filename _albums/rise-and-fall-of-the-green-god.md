@@ -3,11 +3,7 @@ layout: album
 title: Rise and Fall of the Green God
 type: album
 date: 2026-03-27 22:00:11 +0000
-blurb: >
-  The history in *The Beginning*, sung by the gods who lived it. The Green God
-  answers every question and drives Isil into the margins; the Red God murders
-  him in his sleep and inherits a source he doesn't have. Estelune wakes to a
-  full world with no one watching the door.
+blurb: "Everything you asked for, itemized."
 cover: /assets/images/albums/rise-and-fall-of-the-green-god/cover.jpg
 tracks:
   - number: "1"

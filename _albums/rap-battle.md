@@ -3,10 +3,7 @@ layout: album
 title: "Rap Battle: Orëveriel vs the Green God"
 type: single
 date: 2026-02-22 22:59:53 +0000
-blurb: >
-  A posse cut in the shape of an Epic Rap Battle. Orëveriel opens against the
-  Green God and it does not stay a two-hander — Vanyanan, Estelune and a couple
-  of borrowed Edwardian voices all get verses before it's over.
+blurb: "The Cantos, with a beat and considerably less dignity."
 cover: /assets/images/albums/rap-battle/cover.jpg
 tracks:
   - number: "1"
