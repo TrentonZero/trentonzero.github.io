@@ -18,7 +18,7 @@ tracks:
       - title: "The Goblins!"
         url: /2004/09/2
       - title: "Never turn the little knobs under the sink!"
-        url: /2004/09/1
+        url: /2004/09/never-turn-the-little-knobs-under-the-sink
 
   - number: "2"
     title: Reckless Council
