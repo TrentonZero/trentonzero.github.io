@@ -2,7 +2,7 @@
 layout: album
 title: Rise and Fall of the Green God
 type: album
-date: 2026-03-03
+date: 2026-03-03 00:05:17 +0000
 cover: /assets/images/albums/rise-and-fall-of-the-green-god/cover.jpg
 tracks:
   - number: "1"

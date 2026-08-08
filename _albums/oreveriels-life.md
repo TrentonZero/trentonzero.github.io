@@ -2,7 +2,7 @@
 layout: album
 title: "Orëveriel's Life"
 type: album
-date: 2026-03-06
+date: 2026-03-06 04:14:55 +0000
 artist: Orëveriel
 cover: /assets/images/albums/oreveriels-life/cover.jpg
 tracks:
