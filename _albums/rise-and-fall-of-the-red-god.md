@@ -21,8 +21,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-green-god
         title: "Rise of the Red God"
-      - album: rise-and-fall-of-the-red-god
-        title: "Anthem"
 
   - number: "2"
     title: Anthem
@@ -37,8 +35,8 @@ tracks:
     related:
       - album: rise-and-fall-of-the-green-god
         title: "Rise of the Red God"
-      - album: rise-and-fall-of-the-red-god
-        title: "Nameless"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Callolera"
 
   - number: "3"
     title: The Wisdom of the Calloléra (Red)

@@ -19,10 +19,8 @@ tracks:
       - title: Guide for the Perplexed
         url: /guide.html
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "He Speaks At Last"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Rise of Isil"
+      - album: isils-exile
+        title: "The Wisdom of the Calloléra (Isil)"
 
   - number: "2"
     title: The Rise of Isil
@@ -33,10 +31,10 @@ tracks:
       - title: The Beginning
         url: /2018/04/thebeginning
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "I'll Be Singing"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Antecedents"
+      - album: isils-exile
+        title: "What You Do When No One's Watching"
+      - album: isils-exile
+        title: "The Wisdom of the Calloléra (Isil)"
 
   - number: "3"
     title: Rise of the Green God
@@ -52,8 +50,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-red-god
         title: "The Denial"
-      - album: rise-and-fall-of-the-green-god
-        title: "I'll Be Singing"
 
   - number: "4"
     title: Rise of the Red God
@@ -98,10 +94,6 @@ tracks:
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "Rise of the Green God"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Rise of Isil"
       - album: isils-exile
         title: "What You Do When No One's Watching"
 
@@ -134,8 +126,6 @@ tracks:
         title: "The Green God Sleeps"
       - album: rise-and-fall-of-the-red-god
         title: "Estelune Visits"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Labor"
 
   - number: "9"
     title: The Labor
@@ -146,8 +136,6 @@ tracks:
       - title: The Beginning
         url: /2018/04/thebeginning
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "Murder of the Green God"
       - album: rise-and-fall-of-the-red-god
         title: "The Anvil (3 AM)"
       - album: rise-and-fall-of-the-red-god
@@ -168,10 +156,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-red-god
         title: "Estelune Visits"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Drowsy Age"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Callolera"
 
   - number: "11"
     title: The Callolera
@@ -184,10 +168,8 @@ tracks:
       - title: Guide for the Perplexed
         url: /guide.html
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "Estelune Awakens"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Drowsy Age"
+      - album: rise-and-fall-of-the-red-god
+        title: "Anthem"
 
   - number: "12"
     title: The Drowsy Age
@@ -200,16 +182,14 @@ tracks:
       - title: A Walk With Orëveriel
         url: /2019/07/oreveriel-at-the-park
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "Estelune Awakens"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Callolera"
       - album: oreveriels-life
         title: "Get Off the Pavement"
       - album: oreveriels-life
         title: "The Gremlin"
       - album: oreveriels-life
         title: "Reckless Council"
+      - album: oreveriels-life
+        title: "Every Foolish Thing"
 
   - number: "13"
     title: The Green God's Daughter
@@ -238,12 +218,8 @@ tracks:
       - title: An Apocalypse
         url: /2018/04/apocalypse
     related:
-      - album: rise-and-fall-of-the-green-god
-        title: "Postlude: Say Something!"
       - album: rise-and-fall-of-the-red-god
         title: "The Name for Those Without Names"
-      - album: rise-and-fall-of-the-green-god
-        title: "The Antecedents"
 
   - number: "15"
     title: "Postlude: Say Something!"
@@ -258,7 +234,5 @@ tracks:
     related:
       - album: rise-and-fall-of-the-red-god
         title: "The Name for Those Without Names"
-      - album: rise-and-fall-of-the-green-god
-        title: "He Speaks At Last"
 
 ---

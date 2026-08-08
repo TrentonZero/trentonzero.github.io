@@ -26,6 +26,10 @@ tracks:
         title: "Get Off the Pavement"
       - album: oreveriels-life
         title: "The Moons Prophet"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Rise of Isil"
+      - album: oreveriels-life
+        title: "The Dungeon"
 
   - number: "10"
     title: I Am Not Your Mother
@@ -69,5 +73,9 @@ tracks:
         title: "The Wisdom of the Calloléra (Green)"
       - album: rise-and-fall-of-the-red-god
         title: "The Wisdom of the Calloléra (Red)"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Antecedents"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Rise of Isil"
 
 ---

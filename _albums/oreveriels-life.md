@@ -42,8 +42,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-green-god
         title: "The Drowsy Age"
-      - album: oreveriels-life
-        title: "Shape Without a Story"
 
   - number: "3"
     title: Reckless Council
@@ -58,8 +56,6 @@ tracks:
     related:
       - album: rise-and-fall-of-the-green-god
         title: "The Drowsy Age"
-      - album: oreveriels-life
-        title: "Every Foolish Thing"
 
   - number: "4"
     title: Every Foolish Thing
@@ -72,10 +68,8 @@ tracks:
       - title: The Painted Orëveriel
         url: /2026/02/painted
     related:
-      - album: oreveriels-life
-        title: "Reckless Council"
-      - album: oreveriels-life
-        title: "Shape Without a Story"
+      - album: rise-and-fall-of-the-green-god
+        title: "The Drowsy Age"
 
   - number: "5"
     title: The Moons Prophet
@@ -88,8 +82,6 @@ tracks:
     related:
       - album: isils-exile
         title: "What You Do When No One's Watching"
-      - album: oreveriels-life
-        title: "Get Off the Pavement"
 
   - number: "6"
     title: Get Off the Pavement
@@ -106,8 +98,6 @@ tracks:
         title: "What You Do When No One's Watching"
       - album: rise-and-fall-of-the-green-god
         title: "The Drowsy Age"
-      - album: oreveriels-life
-        title: "The Moons Prophet"
 
   - number: "7"
     title: The Dungeon
@@ -118,8 +108,8 @@ tracks:
       - title: Yelloturë
         url: /2016/05/yelloture
     related:
-      - album: oreveriels-life
-        title: "Isilnight"
+      - album: isils-exile
+        title: "What You Do When No One's Watching"
 
   - number: "8"
     title: Isilnight
@@ -134,10 +124,6 @@ tracks:
     related:
       - album: isils-exile
         title: "I Am Not Your Mother"
-      - album: oreveriels-life
-        title: "Shape Without a Story"
-      - album: oreveriels-life
-        title: "The Dungeon"
 
   - number: "9"
     title: The Painted Girl
@@ -152,8 +138,6 @@ tracks:
         title: "The Green God's Daughter"
       - album: isils-exile
         title: "I Am Not Your Mother"
-      - album: oreveriels-life
-        title: "The Painted Girl (Reprise)"
 
   - number: "10"
     title: The Painted Girl (Reprise)
@@ -168,10 +152,6 @@ tracks:
         title: "The Green God's Daughter"
       - album: isils-exile
         title: "I Am Not Your Mother"
-      - album: oreveriels-life
-        title: "The Painted Girl"
-      - album: oreveriels-life
-        title: "Shape Without a Story"
 
   - number: "11"
     title: Shape Without a Story
@@ -186,13 +166,5 @@ tracks:
     related:
       - album: isils-exile
         title: "I Am Not Your Mother"
-      - album: oreveriels-life
-        title: "The Painted Girl (Reprise)"
-      - album: oreveriels-life
-        title: "Isilnight"
-      - album: oreveriels-life
-        title: "Every Foolish Thing"
-      - album: oreveriels-life
-        title: "The Gremlin"
 
 ---
