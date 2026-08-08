@@ -10,8 +10,7 @@ cover: /assets/images/albums/rap-battle/cover.jpg
 tracks:
   - number: "1"
     title: "Rap Battle: Orëveriel vs the Green God"
-    note: >-
-      Everyone turns up. Nobody wins. The throne says nothing, as usual. The lyrics stored in this track's tag are cut off mid-word at the outro; what is shown here is everything the file contains.
+    note: Everyone turns up.
     art: /assets/images/albums/rap-battle/rap-battle-oreveriel-vs-the-green-god.jpg
     mp3: /assets/audio/rap-battle/rap-battle-oreveriel-vs-the-green-god.mp3
     lyrics_file: rap-battle/rap-battle-oreveriel-vs-the-green-god.txt
