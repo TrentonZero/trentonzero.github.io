@@ -11,6 +11,7 @@ cover: /assets/images/albums/oreveriels-life/cover.jpg
 tracks:
   - number: "1"
     title: Story Time with Orëveriel (The Wisdom of the Calloléra)
+    note: "A bedtime story about the end of the world, told by someone who wasn't paying attention."
     art: /assets/images/albums/oreveriels-life/story-time-with-oreveriel.jpg
     mp3: /assets/audio/oreveriels-life/story-time-with-oreveriel.mp3
     lyrics_file: oreveriels-life/story-time-with-oreveriel.txt
@@ -29,6 +30,7 @@ tracks:
 
   - number: "2"
     title: The Gremlin
+    note: "The monster gets written down, and the writing down is what makes it real."
     art: /assets/images/albums/oreveriels-life/the-gremlin.jpg
     mp3: /assets/audio/oreveriels-life/the-gremlin.mp3
     lyrics_file: oreveriels-life/the-gremlin.txt
@@ -45,6 +47,7 @@ tracks:
 
   - number: "3"
     title: Reckless Council
+    note: "A defence of bad advice, delivered from a handstand."
     art: /assets/images/albums/oreveriels-life/reckless-council.jpg
     mp3: /assets/audio/oreveriels-life/reckless-council.mp3
     lyrics_file: oreveriels-life/reckless-council.txt
@@ -59,6 +62,7 @@ tracks:
 
   - number: "4"
     title: Every Foolish Thing
+    note: "She would rather be told to go away than not be noticed."
     art: /assets/images/albums/oreveriels-life/every-foolish-thing.jpg
     mp3: /assets/audio/oreveriels-life/every-foolish-thing.mp3
     lyrics_file: oreveriels-life/every-foolish-thing.txt
@@ -73,6 +77,7 @@ tracks:
 
   - number: "5"
     title: The Moons Prophet
+    note: "She follows him down a paved trail and calls him a liar for three miles."
     art: /assets/images/albums/oreveriels-life/the-moons-prophet.jpg
     mp3: /assets/audio/oreveriels-life/the-moons-prophet.mp3
     lyrics_file: oreveriels-life/the-moons-prophet.txt
@@ -85,6 +90,7 @@ tracks:
 
   - number: "6"
     title: Get Off the Pavement
+    note: "She wrecks his shoes and his schedule, and at the top of the hill she shrugs and says it's nothing."
     art: /assets/images/albums/oreveriels-life/get-off-the-pavement.jpg
     mp3: /assets/audio/oreveriels-life/get-off-the-pavement.mp3
     lyrics_file: oreveriels-life/get-off-the-pavement.txt
@@ -101,6 +107,7 @@ tracks:
 
   - number: "7"
     title: The Dungeon
+    note: "She can't pick the lock, so she brings better clothes."
     art: /assets/images/albums/oreveriels-life/the-dungeon.jpg
     mp3: /assets/audio/oreveriels-life/the-dungeon.mp3
     lyrics_file: oreveriels-life/the-dungeon.txt
@@ -113,6 +120,7 @@ tracks:
 
   - number: "8"
     title: Isilnight
+    note: "The forbidden song, sung by three people and a million liars."
     art: /assets/images/albums/oreveriels-life/isilnight.jpg
     mp3: /assets/audio/oreveriels-life/isilnight.mp3
     lyrics_file: oreveriels-life/isilnight.txt
@@ -127,6 +135,7 @@ tracks:
 
   - number: "9"
     title: The Painted Girl
+    note: "Something wearing her face is in the chair, being helpful."
     art: /assets/images/albums/oreveriels-life/the-painted-girl.jpg
     mp3: /assets/audio/oreveriels-life/the-painted-girl.mp3
     lyrics_file: oreveriels-life/the-painted-girl.txt
@@ -141,6 +150,7 @@ tracks:
 
   - number: "10"
     title: The Painted Girl (Reprise)
+    note: "The reply, delivered without heat by something that has never wanted anything."
     art: /assets/images/albums/oreveriels-life/the-painted-girl-reprise.jpg
     mp3: /assets/audio/oreveriels-life/the-painted-girl-reprise.mp3
     lyrics_file: oreveriels-life/the-painted-girl-reprise.txt
@@ -155,6 +165,7 @@ tracks:
 
   - number: "11"
     title: Shape Without a Story
+    note: "She can still become anything. There is no longer anyone to tell."
     art: /assets/images/albums/oreveriels-life/shape-without-a-story.jpg
     mp3: /assets/audio/oreveriels-life/shape-without-a-story.mp3
     lyrics_file: oreveriels-life/shape-without-a-story.txt
