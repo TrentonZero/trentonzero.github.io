@@ -11,30 +11,69 @@ group: navigation
   None of it was made by Vanyanan.
 </p>
 
-{% assign releases = site.albums | sort: "date" | reverse %}
+{% comment %}
+  Releases are grouped by their `section` field and ordered within a section
+  by `position`, not by date -- the three god records are a set and read in
+  their own order. Sections render in the order listed here; a release whose
+  section is missing or unrecognised falls through to "other" so it can never
+  vanish from the page.
+{% endcomment %}
+{% assign section_keys = "outside,inside,experiment,other" | split: "," %}
+{% assign shown = 0 %}
 
-{% if releases.size == 0 %}
-  <p>Nothing released yet.</p>
-{% else %}
-<div class="album-grid">
-  {% for release in releases %}
-    <a class="album-card" href="{{ release.url }}">
-      {% if release.cover %}
-        <img class="album-card-cover" src="{{ release.cover }}" alt="{{ release.title }} cover art">
+{% for key in section_keys %}
+  {% if key == "other" %}
+    {% assign known = "outside,inside,experiment" | split: "," %}
+    {% assign group = "" | split: "" %}
+    {% for release in site.albums %}
+      {% unless known contains release.section %}
+        {% assign group = group | push: release %}
+      {% endunless %}
+    {% endfor %}
+    {% assign group = group | sort: "date" | reverse %}
+  {% else %}
+    {% assign group = site.albums | where: "section", key | sort: "position" %}
+  {% endif %}
+
+  {% if group.size > 0 %}
+    {% case key %}
+      {% when "outside" %}
+        {% assign heading = "The Cantos from Outside" %}
+      {% when "inside" %}
+        {% assign heading = "The Cantos from Inside" %}
+      {% when "experiment" %}
+        {% assign heading = "Experiments" %}
       {% else %}
-        <div class="album-card-cover album-cover-placeholder"></div>
-      {% endif %}
-      <div class="album-card-body">
-        <div class="album-card-title">{{ release.title }}</div>
-        <div class="album-card-meta">
-          {% assign count = release.tracks | size %}
-          {{ release.type | capitalize }} &middot; {{ release.date | date: "%Y" }} &middot; {{ count }} track{% unless count == 1 %}s{% endunless %}
-        </div>
-        {% if release.blurb %}
-          <p class="album-card-blurb">{{ release.blurb | markdownify | strip_html | strip }}</p>
-        {% endif %}
-      </div>
-    </a>
-  {% endfor %}
-</div>
+        {% assign heading = "Everything Else" %}
+    {% endcase %}
+
+    <h2 class="album-section">{{ heading }}</h2>
+
+    <div class="album-grid">
+      {% for release in group %}
+        {% assign shown = shown | plus: 1 %}
+        <a class="album-card" href="{{ release.url }}">
+          {% if release.cover %}
+            <img class="album-card-cover" src="{{ release.cover }}" alt="{{ release.title }} cover art">
+          {% else %}
+            <div class="album-card-cover album-cover-placeholder"></div>
+          {% endif %}
+          <div class="album-card-body">
+            <div class="album-card-title">{{ release.title }}</div>
+            <div class="album-card-meta">
+              {% assign count = release.tracks | size %}
+              {{ release.type | capitalize }} &middot; {{ release.date | date: "%Y" }} &middot; {{ count }} track{% unless count == 1 %}s{% endunless %}
+            </div>
+            {% if release.blurb %}
+              <p class="album-card-blurb">{{ release.blurb | markdownify | strip_html | strip }}</p>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+{% if shown == 0 %}
+  <p>Nothing released yet.</p>
 {% endif %}

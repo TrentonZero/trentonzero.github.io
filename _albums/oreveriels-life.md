@@ -5,6 +5,8 @@ type: album
 date: 2026-03-06 04:14:55 +0000
 artist: Orëveriel
 blurb: "The trouble with making something up is that it notices when you stop needing it."
+section: inside
+position: 1
 cover: /assets/images/albums/oreveriels-life/cover.jpg
 tracks:
   - number: "1"

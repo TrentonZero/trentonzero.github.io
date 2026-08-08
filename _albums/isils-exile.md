@@ -5,6 +5,8 @@ type: incomplete album
 date: 2026-03-06 23:29:03 +0000
 artist: Isil
 blurb: "Everything you wanted, off the books."
+section: outside
+position: 3
 cover: /assets/images/albums/isils-exile/cover.jpg
 tracks:
   - number: "3"

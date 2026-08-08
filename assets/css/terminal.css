@@ -514,6 +514,21 @@ pre > code {
   margin: 0 0 28px;
 }
 
+.album-section {
+  font-family: var(--font-heading);
+  font-size: 15px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 8px;
+  margin: 40px 0 18px;
+}
+
+.album-section:first-of-type {
+  margin-top: 0;
+}
+
 /* One release per row: art on the left third, text on the right two thirds. */
 .album-grid {
   display: flex;

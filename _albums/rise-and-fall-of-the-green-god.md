@@ -4,6 +4,8 @@ title: Rise and Fall of the Green God
 type: album
 date: 2026-03-27 22:00:11 +0000
 blurb: "Everything you asked for, itemized."
+section: outside
+position: 1
 cover: /assets/images/albums/rise-and-fall-of-the-green-god/cover.jpg
 tracks:
   - number: "1"

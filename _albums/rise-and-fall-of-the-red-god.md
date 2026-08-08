@@ -4,6 +4,8 @@ title: Rise and Fall of the Red God
 type: album
 date: 2026-03-03 00:45:16 +0000
 blurb: "Everything you were owed, drop by drop."
+section: outside
+position: 2
 cover: /assets/images/albums/rise-and-fall-of-the-red-god/cover.jpg
 tracks:
   - number: "1"

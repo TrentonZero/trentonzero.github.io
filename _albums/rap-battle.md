@@ -4,6 +4,8 @@ title: "Rap Battle: Orëveriel vs the Green God"
 type: single
 date: 2026-02-22 22:59:53 +0000
 blurb: "The Cantos, with a beat and considerably less dignity."
+section: experiment
+position: 1
 cover: /assets/images/albums/rap-battle/cover.jpg
 tracks:
   - number: "1"
