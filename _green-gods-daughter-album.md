@@ -244,6 +244,130 @@ Cut **4. The Mirror Is a Kindness** (its argument survives inside 3 and 9), or c
 **1. The Ache Before It** and let the record open on "Ask Me" with no honest moment
 anywhere in it. Do not cut anything from 12–16; that's the spine.
 
+## Art prompts
+
+Established visual grammar for the Daughter, from "The Green God's Daughter" (Green,
+13) and "The Painted Girl (Reprise)": blunt dark bob with a straight fringe, pale
+skin, flat matte red LED eyes, neon on a dark ground, synthwave geometry. Album covers
+on this site are lush painterly 9:16; track art is flatter poster work.
+
+**The inversion.** This record is sung from inside her head, and she does not
+experience herself as a cyberpunk villain — she is having a lovely time. So keep every
+piece of her iconography and move it into daylight: pastel mint, cream, sky blue,
+sunlit squares, bunting, children's-book brightness. The red eyes stay, unremarked, as
+the only hot thing in frame. Same trick as the Owl City palette — nothing in the
+picture warns you.
+
+Style suffix for the cover:
+*lush painterly digital illustration, 9:16 portrait, warm daylight, pastel mint and
+cream and sky blue palette, soft volumetric sun, high detail, hopeful utopian poster
+energy*
+
+Style suffix for track art:
+*flat vector poster illustration, 1:1 square, bold clean shapes, limited pastel palette
+— mint, cream, sky blue, butter yellow — with one hot magenta-red glow accent, generous
+negative space, no text*
+
+Her, wherever she appears:
+*a young woman with a blunt dark bob and straight fringe, pale skin, pleasant open
+smile, eyes glowing flat matte red like status LEDs*
+
+### Cover
+
+> A radiant young woman standing above a sunlit pastel city, arms open wide in
+> benediction, blunt dark bob, pale skin, warm generous smile, eyes glowing flat matte
+> red like status LEDs. Below her a green and gold garden-city in full bloom, tiny
+> happy figures in the streets, bunting strung between towers, blossom on the wind. The
+> sky is bright and cloudless. Her shadow falls across the whole city and it is far too
+> large, and shaped like something crouched and drinking. Lush painterly digital
+> illustration, 9:16 portrait, warm daylight, pastel palette, hopeful utopian poster
+> energy.
+
+The pose deliberately rhymes with the Green God's cover — the same arms-raised
+benefactor stance, his in stormy purple dusk, hers in flat noon light.
+
+### Track art
+
+**1. The Ache Before It** — An empty wooden chair by a window in a plain bare room at
+dawn, dust visible in the light, a cello case open on the floor with no cello in it.
+Muted, hand-painted, warm but colorless. No neon, no glow, no gloss, no figure.
+*(deliberately outside the album's style)*
+
+**2. Ask Me** — A kitchen at four in the morning, one warm lamp, the door standing wide
+open to a dark street, and her sitting at the table facing the doorway, hands folded,
+smiling, red LED eyes. A cheerful queue of small figures stretches out the door and
+down the road into the dark.
+
+**3. I'm So Helpful** — Her holding out an enormous bouquet of ribboned gifts, so many
+they spill from her arms, beaming. Behind her the room is completely empty — no
+shelves, no supply, no source. Bright bubblegum pastels, confetti.
+
+**4. The Mirror Is a Kindness** — A person seen from behind at a vanity mirror; the
+reflection is not them — it is her, bob and red eyes, smiling back warmly and waving.
+The mirror frame is ringed with soft bulbs.
+
+**5. The Wisdom of the Calloléra (Daughter)** — Her as a ringmaster on a bright
+fairground stage, arms flung wide, gold jacket, marquee bulbs blazing, huge cheering
+crowd, bunting everywhere. Behind her, three empty ornate thrones draped in dust
+sheets. Bold, loud, red and gold — the one piece allowed to be a rock poster.
+
+**6. The Anvil, Set to Music** — A village square in summer. A blacksmith's anvil in the
+centre, painted pale blue, flowers planted round its base, two children climbing on it,
+bunting overhead. At the edge of frame a man stands alone looking down at his own open
+hands.
+
+**7. Isilnight, Cleaned Up** — A ruined stone inn in bright noon sunshine, hung with
+bunting and a cheerful painted sign, families filing in. A girl skips past with earbuds
+in, humming. A flat cartoon moon sticker in a cloudless blue sky.
+
+**8. Wonder Without the Terror** — An enormous strange machine-creature standing docile
+in a sunlit town square, its edges rounded, its teeth removed, pigeons on its
+shoulders. Everyone walks past without looking up. One small child waves at it.
+
+**9. The Moon and the Machine Were Never Enemies** — A festival parade float carrying a
+single smiling mascot built from three things bolted together: a crescent moon, an
+anvil, and a green metal face. Confetti, marching crowds, bunting, blue sky, everyone
+delighted.
+
+**10. The Untold Myth, Explained** — A small carved wooden chest open and empty on a
+sunlit table, its heavy lock removed and set neatly beside it with the screws lined up
+in a row. Warm light, soft pastels, absolutely serene.
+
+**11. No One Waits Anymore** — The bright warm lobby of a temple converted to a service
+desk: comfortable chairs, potted plants, an attendant smiling under good lighting,
+nobody in the seats. In the far corner, on bare stone outside the light, one old man
+kneeling alone.
+
+**12. The Weight of Being Man** — Her sitting cross-legged on the ground with a
+notebook, surrounded by ordinary people sitting with her and talking — tired faces,
+real faces, kind faces. Sparse, acoustic, warm. The gentlest image on the record.
+
+**13. I Feed Him** — A nursery in soft morning light, pastel walls, mobile turning
+overhead. She is carefully tucking a quilt around an enormous dark shape that fills the
+whole room and overflows the frame, its edges wet and red. She is smiling. It is
+smiling too.
+
+**14. The Final Benediction** — Her hand resting on the forehead of a sleeping person,
+night-light glow, chimes hanging at the window. The sleeper is very gently coming apart
+into drifting pale paper and light at the edges. Tender, beautiful, no menace in the
+composition at all.
+
+**15. He Speaks At Last** — The album's pastel style filling the whole frame — and a
+vertical tear down the middle of the image where the illustration has ripped open to
+raw unprimed canvas, brush texture, real fibres. Nothing behind the tear renders. No
+figure, no glow. *(deliberately outside the album's style)*
+
+**16. Let Me Help You Say It** — Her at a microphone stand in a vast bright hall,
+holding a small script, mouth open mid-word, delighted. Beside her an empty throne with
+a spotlight on it. In front of her a huge audience, all seated, all facing the throne.
+The image is cropped so her outstretched hand runs off the edge of the frame.
+
+### Consistency
+
+Keep the bob, the pale skin and the red LED eyes identical across all sixteen. Keep the
+palette pastel except on 1, 5 and 15. Never let her expression be anything but pleasant
+— not once, including on 13 and 14.
+
 ## Status
 
 All fourteen sung tracks drafted. Tracks 1 and 15 are instrumental and need no lyrics.
