@@ -74,8 +74,10 @@ The series' fourth telling. The Calloléra come to her with the same compromise 
 brought to Green, to Red, to Isil — keep the blessing, drop the cost — and she is the
 first to grant it whole, on the spot, with nothing withheld. The other three all
 made them pay something. She doesn't. That is precisely what makes hers fatal.
-*Style: the familiar Calloléra theme, but resolved. Where the other three versions
-hang on an unresolved chord, hers lands clean, in tune, early. Warm strings.*
+She is the only one of the four who does not say *wisdom* sarcastically. She means it.
+This is where she is most like her father: the barker, the ringmaster, the showman.
+*Style: triumphant arena rock, ~140 BPM. Big riff, crowd vocals, circus organ under
+the choruses, fairground swagger. The only genuinely up-tempo rock song on the record.*
 > Note: "The bargain the other three had the decency to make hard."
 
 **6. The Anvil, Set to Music**
