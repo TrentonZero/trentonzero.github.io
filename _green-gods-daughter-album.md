@@ -246,5 +246,9 @@ anywhere in it. Do not cut anything from 12–16; that's the spine.
 
 ## Status
 
-Drafted: 3, 5, 7, 10, 12, 13, 14, 16. Remaining: 2, 4, 6, 8, 9, 11 (plus the two
-instrumentals, which need no lyrics).
+All fourteen sung tracks drafted. Tracks 1 and 15 are instrumental and need no lyrics.
+
+Still to do: audio and art out of Suno, then the `_albums/` entry with per-track
+`note`, `sources` and `related` fields. The lyrics live in
+`_includes/lyrics/the-ceaseless-speaking/`, so a change of album title means renaming
+that directory.
