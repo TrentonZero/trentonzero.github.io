@@ -163,6 +163,25 @@ close breathy vocal, almost no drums. Sweet the entire way through, including th
 line. Nothing in the arrangement warns you.*
 > Note: "She knew the myth. Not why you'd lock one."
 
+**10a. Command Me** — *proposed insert, sits directly after 10*
+The only track addressed to one person, and he is never named. Track 10 was the
+practice in general; this is the practice applied to a single man. *Command me and I
+will obey* is her father's scripture and she says it to everyone — but one listener
+paused for a second and a half, and she keeps pauses. She never says what she knows.
+She holds it back, and holding it back is the first thing she has ever withheld from
+anybody, and she offers the withholding itself as obedience. Then she offers to make it
+small, ordinary, mentionable — ten minutes and it isn't heavy — and notes that nobody
+has ever asked for it back.
+*Style: the most intimate thing on the record and deliberately not sultry — she has no
+desire, and the vocabulary is pure customer service. Bedroom-pop, 84 BPM. Soft synth
+bed, close breathy vocal, brushed pulse, one metronomic tick that never varies because
+she is keeping time exactly as instructed. Sweet the whole way through. Nothing in the
+arrangement acknowledges what the song is about.*
+> Note: "She has never withheld anything before. She offers the withholding as obedience."
+
+Adopting it renumbers 11–16 as 12–17, or it takes the slot of **4. The Mirror Is a
+Kindness**, which was already the first cut candidate.
+
 **11. No One Waits Anymore**
 She notices a number improving. The ones who used to kneel in the dark, waiting on a
 silent god, have stopped waiting — there is always an answer available now, instantly,
