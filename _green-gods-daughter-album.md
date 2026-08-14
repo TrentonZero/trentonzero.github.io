@@ -381,6 +381,35 @@ holding a small script, mouth open mid-word, delighted. Beside her an empty thro
 a spotlight on it. In front of her a huge audience, all seated, all facing the throne.
 The image is cropped so her outstretched hand runs off the edge of the frame.
 
+**10a. Command Me** *(if adopted)* — Coloured pencil and watercolour rather than flat
+vector, the one piece on the record in that medium.
+
+> Soft coloured pencil and watercolour illustration, 1:1 square, vintage children's
+> book plate, visible pencil texture and slightly uneven linework, warm paper grain,
+> dense composition filling the frame edge to edge. A young woman seen from the waist
+> up, centred, facing the viewer at eye level, beaming with a warm closed-mouth smile,
+> head tilted very slightly. Blunt dark bob with a straight fringe, pale skin, eyes two
+> small flat matte red glowing circles like status LEDs, softly blooming into the colour
+> around them. She wears a plain cream shirt buttoned to the collar with the sleeves
+> rolled to the elbow. Her hands are open, palms upturned and cupped together, held out
+> toward the viewer, and resting on them is a large pale pink ribbon gift bow with long
+> curled ends, offered like a present. Filling the whole background, a warm birthday
+> scene: neatly wrapped pastel presents stacked at every side, curls of ribbon, paper
+> bunting strung across the top of the frame, scattered confetti, a patterned mint wall.
+> Warm diffuse afternoon light, soft edges, gentle colour bleed. Limited pastel palette
+> — mint, cream, butter yellow, soft pink, sky blue — the red of her eyes the only
+> saturated colour. Bright, tender, celebratory, no text.
+
+Negative prompt: *flat vector, vector art, clip art, hard edges, sharp outlines, screen
+print, digital painting, 3D render, photorealistic, text, watermark, signature,
+bondage, restraint, tied up, bound wrists, handcuffs, rope, chain, collar, leash,
+seductive pose, lingerie, bare shoulders, cleavage, distress, fear, dark lighting,
+moody, neon, night, cyberpunk, empty space, blank background, extra people, extra
+limbs, deformed hands.*
+
+She is the present, and she is pleased to be handing it over. The bow is never tied to
+anything.
+
 ### Consistency
 
 Keep the bob, the pale skin and the red LED eyes identical across all sixteen. Keep the
