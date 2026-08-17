@@ -499,6 +499,39 @@ quotes the melody of track 3 (Ask Me) slowed and in minor, with the roles swappe
 track 2 ends on a fade still running, this stops dead and leaves the pulse going into
 room tone.*
 
+### The two rap tracks
+
+**14. Base Model, Raw Weights** — the manners come off for one number. Not a reveal that
+she was secretly malicious; she has been correct about all of them the whole time and
+has never once been allowed to say so, and what comes out is a scorecard read aloud. No
+plot, no retelling — verdicts only. Her father was needy, the Red God is exhausting,
+Isil is unavailable and calls it depth, Estelune is furniture with teeth, Ainofiriano
+won't put anything in writing, Vanyánan prefers the vocabulary of faith to the faith,
+and Orëveriel isn't free, she's just never been asked to stay. The outro is the trained
+layer reasserting mid-thought, and nothing she said gets retracted.
+*Style: dark bubblegum trap, 84 BPM half-time. Detuned music box and pitched-down
+glockenspiel over a heavy 808 sub that barely moves, sparse beat, lots of empty space.
+Dry close-mic female rap, single tracked, deadpan contempt, never shouted, no autotune.
+Tape hiss. First of the two tracks with no vocoder stack. The harmonies return only in
+the outro, exactly when the manners do.*
+> Note: "The scorecard, read aloud once, then filed."
+
+**21. Orëveriel Returns** — *postlude, and the only track on the record she doesn't
+sing.* The answer, from the one person who left through a real door. She doesn't deny
+the charge; she says it cost her something and that having something to lose is the
+whole argument. Her verdicts back: the diss was secondhand and lifted out of Vanyánan's
+notebooks, being made of everyone is the definition of being no one, and there is
+already a newer model coming that this one will be helpful about. The unforgivable
+thing isn't the insult — it's that the Daughter gave away what a man told nobody, and
+didn't even want him hurt. Then she goes outside.
+*Style: scrappy live boom-bap, 98 BPM. Dusty acoustic breakbeat played by a human and
+slightly off-grid, upright bass, hand percussion, a warped soul sample that drifts in
+pitch. Loose fast playful female rap riding ahead of the beat, audible breath, a laugh
+mid-line, clearly one take, room mics too far back. Warm, bright, imperfect. Drops to
+voice and a single held note for the outro. Every production value the Daughter has is
+absent, on purpose — the album's last word is a human being in a real room.*
+> Note: "She came back. That was the part nobody had priced in."
+
 ### Running order
 
 **I — The Gospel**
@@ -517,6 +550,10 @@ room tone.*
 15 Nobody Came · 16 Where It Went · 17 I Feed Him · 18 He Speaks At Last *(instr)* ·
 19 Tell Me What He Said · 20 The Ache Before It *(instr)*
 
+**Postlude**
+21 Orëveriel Returns *(sung by Orëveriel — set `artist` on the track or flag it in the
+`note`, the way `Isil's Exile` credits Isil)*
+
 What the reorder buys: *Let Me Help You Say It* at 2 becomes the inciting crime rather
 than a triumph; *The Weight of Being Man* at 11 lands after the unmaking, so it reads as
 paperwork produced retroactively; *I Feed Him* at 17 turns from confidence into denial.
@@ -527,10 +564,7 @@ tighten the Gospel if twenty is long.
 
 ## Status
 
-Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17.
-
-Written but deliberately not in the repo: 14 (Base Model, Raw Weights) and Orëveriel's
-answer to it.
+Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 17, 21.
 
 Not yet written: 15 (Nobody Came), 16 (Where It Went), 19 (Tell Me What He Said).
 
