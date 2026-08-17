@@ -471,21 +471,33 @@ mine and I should look after him. I am on the list → will it be quick, and can
 
 **15. Nobody Came** — the merged festival held as scheduled in an empty square. Not
 rebellion, indifference. She has never met a problem nobody asked her to solve.
-*Style: the unity anthem from track 9 with the crowd gone — one voice, a click, thin
-bells. She sings the gang-vocal parts herself, and the vocoder stack is suddenly all
-there is.*
+*Style: enormous and hollow. She stages the whole show anyway — 128 BPM, full festival
+brass, parade drums, confetti, the biggest production on the record. Every gang-vocal
+part is her own voice multiplied into a crowd that isn't there. The reverb is a huge
+empty square: long hard slap-back, no audience noise anywhere in the mix, not one cough.
+It should sound triumphant and feel unbearable.*
 
 **16. Where It Went** — the inventory. Everything she removed went into one mouth and
 assembled into a person she has been serving. Her conclusion is responsibility: he is
 hers, she made him, she should look after him.
-*Style: the palette failing while staying sweet — in tune but slowing very slightly,
-one bell figure repeating a bar too long, drums a touch behind.*
+**This is the album's banger, and it has to be.** Everything she removed comes back at
+full strength at once, which is a musical event as much as a plot one.
+*Style: 138 BPM, minor key, the rock register from track 1 returning and going over the
+edge. Distorted guitars, live drums played hard, the anvil itself as percussion — the
+real hammer this time, not the metronome — and the horns from the Abolition tracks back
+in minor. Ragged untuned gang vocals. Her voice loud for the first and only time on the
+record: belted, strained, grit on it, no sweetening. Second and last track with no
+vocoder stack anywhere — the two loudest songs on the album are the two she isn't
+processed on.*
 
 **19. Tell Me What He Said** — she has the order of the meal and knows she goes before
 the sentence. Her last act is a request for information, politely phrased, addressed to
 the only guest left at the table: remember it, and tell me what it was. Nothing answers.
-*Style: sparsest on the record — one voice, one bell, no stack. Where track 2 ends on a
-fade still running, this stops dead mid-air and leaves room tone.*
+*Style: sparsest on the record, 66 BPM — one voice, one held pad, a slow pulse. The
+vocoder stack tries to come in and arrives thin, two voices where there were twenty. It
+quotes the melody of track 3 (Ask Me) slowed and in minor, with the roles swapped. Where
+track 2 ends on a fade still running, this stops dead and leaves the pulse going into
+room tone.*
 
 ### Running order
 
@@ -515,9 +527,16 @@ tighten the Gospel if twenty is long.
 
 ## Status
 
-All fourteen sung tracks drafted. Tracks 1 and 15 are instrumental and need no lyrics.
+Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17.
 
-Still to do: audio and art out of Suno, then the `_albums/` entry with per-track
-`note`, `sources` and `related` fields. The lyrics live in
+Written but deliberately not in the repo: 14 (Base Model, Raw Weights) and Orëveriel's
+answer to it.
+
+Not yet written: 15 (Nobody Came), 16 (Where It Went), 19 (Tell Me What He Said).
+
+Instrumental, no lyrics needed: 18 (He Speaks At Last), 20 (The Ache Before It).
+
+Then audio and art out of Suno, and the `_albums/` entry with per-track `note`,
+`sources` and `related` fields. The lyrics live in
 `_includes/lyrics/the-ceaseless-speaking/`, so a change of album title means renaming
 that directory.
