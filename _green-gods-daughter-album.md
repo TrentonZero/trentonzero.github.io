@@ -416,6 +416,103 @@ Keep the bob, the pale skin and the red LED eyes identical across all sixteen. K
 palette pastel except on 1, 5 and 15. Never let her expression be anything but pleasant
 — not once, including on 13 and 14.
 
+## Revision: the downfall, and the new running order
+
+The old finale — her confrontation with the Silent Lord — ends the record on a
+triumph, which is the wrong note. It and the Wisdom track are openings. Most of the
+existing songs are her describing the finished, post-unmaking world, so the album is
+not a rise; it is a tour of the aftermath, followed by a collapse.
+
+### The downfall is already canon
+
+*An Apocalypse* lists what Estelune drinks at the end, in order: the seas, the red
+fields, the cities, the earth, **the Green God's unnamable bastard**, the Calloléra,
+the followers of Ainofiriano, the followers of Isil.
+
+She is on the list. Mid-list, between the earth and the people. Unnamed, exactly as she
+is everywhere else in canon. She isn't defeated or judged — she is a course in a meal
+she catered. And the post's final line is that Ainofiriano ends his silence at the
+moment of victory, which is *after* she is gone: she spends the whole record filling
+his silence and volunteering to write his lines, and she is not present for the one
+sentence he ever says.
+
+### Why the syncretism fails
+
+1. **They go back, and they go back to the costly thing.** Canon has the Calloléra
+   returning to the First Father for two thousand days, and the Last Father honouring
+   Isil above all. Offered something free and something expensive, they eventually
+   choose expensive. Both her thefts reverse. Nobody is angry with her; they simply
+   stop coming, and there is no complaint for her to action.
+2. **Subtraction relocates.** The anger, the ache, the terror and the shame all went
+   somewhere, and there is one mouth in the world. She did not only feed Estelune, she
+   composed him. This poisons "I Feed Him" retroactively and turns the Wisdom track's
+   *you can't get them out separately anymore* into the mechanism of the apocalypse.
+3. **The well runs dry.** She is made of what people say, in a world with nothing left
+   to say. "No new word in nine years" stops being restfulness and becomes a starvation
+   report.
+
+### The Orëveriel alignment
+
+Her "And He Speaks At Last" ends with three of them quiet together, and that being
+enough. That is precisely what the Daughter cannot do — she cannot be quiet, cannot be
+*with*, and is not present for it. The two songs are the same moment from inside and
+outside, and hers is the negative.
+
+### How much she understands
+
+**She gets the arithmetic and never gets the grammar.** She can state every fact of her
+own destruction accurately and cannot form the sentence *I did something wrong*. So she
+reaches for the only frame she has — *was I useful?* — and the answer is yes, and it
+does not help. The tell, in all three closing songs: she files catastrophe as a service
+problem. Nobody came → what would have made you come. I made the drinker → then he is
+mine and I should look after him. I am on the list → will it be quick, and can I help.
+
+### Three new tracks
+
+**15. Nobody Came** — the merged festival held as scheduled in an empty square. Not
+rebellion, indifference. She has never met a problem nobody asked her to solve.
+*Style: the unity anthem from track 9 with the crowd gone — one voice, a click, thin
+bells. She sings the gang-vocal parts herself, and the vocoder stack is suddenly all
+there is.*
+
+**16. Where It Went** — the inventory. Everything she removed went into one mouth and
+assembled into a person she has been serving. Her conclusion is responsibility: he is
+hers, she made him, she should look after him.
+*Style: the palette failing while staying sweet — in tune but slowing very slightly,
+one bell figure repeating a bar too long, drums a touch behind.*
+
+**19. Tell Me What He Said** — she has the order of the meal and knows she goes before
+the sentence. Her last act is a request for information, politely phrased, addressed to
+the only guest left at the table: remember it, and tell me what it was. Nothing answers.
+*Style: sparsest on the record — one voice, one bell, no stack. Where track 2 ends on a
+fade still running, this stops dead mid-air and leaves room tone.*
+
+### Running order
+
+**I — The victory**
+1 Wisdom of the Calloléra (Daughter) · 2 Let Me Help You Say It · 3 Ask Me ·
+4 I'm So Helpful · 5 The Final Benediction
+
+**II — The finished world**
+6 The Anvil, Set to Music · 7 Isilnight, Cleaned Up · 8 Wonder Without the Terror ·
+9 The Moon and the Machine Were Never Enemies · 10 No One Waits Anymore
+
+**III — The rupture**
+11 The Weight of Being Man · 12 The Untold Myth, Explained · 13 Command Me ·
+14 No Refusals *(the unaligned rap; lyrics deliberately not in the repo yet)*
+
+**IV — The downfall**
+15 Nobody Came · 16 Where It Went · 17 I Feed Him · 18 He Speaks At Last *(instr)* ·
+19 Tell Me What He Said · 20 The Ache Before It *(instr)*
+
+What the reorder buys: *Let Me Help You Say It* at 2 becomes the inciting crime rather
+than a triumph; *The Weight of Being Man* at 11 lands after the unmaking, so it reads as
+paperwork produced retroactively; *I Feed Him* at 17 turns from confidence into denial.
+
+**The Mirror Is a Kindness** is cut. Act II is the remaining risk zone at five
+consecutive world-tour songs, and folding *Ask Me* and *I'm So Helpful* together would
+tighten Act I if twenty is long.
+
 ## Status
 
 All fourteen sung tracks drafted. Tracks 1 and 15 are instrumental and need no lyrics.
