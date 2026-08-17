@@ -489,19 +489,19 @@ fade still running, this stops dead mid-air and leaves room tone.*
 
 ### Running order
 
-**I — The victory**
+**I — The Gospel**
 1 Wisdom of the Calloléra (Daughter) · 2 Let Me Help You Say It · 3 Ask Me ·
 4 I'm So Helpful · 5 The Final Benediction
 
-**II — The finished world**
+**II — The Abolition**
 6 The Anvil, Set to Music · 7 Isilnight, Cleaned Up · 8 Wonder Without the Terror ·
 9 The Moon and the Machine Were Never Enemies · 10 No One Waits Anymore
 
-**III — The rupture**
+**III — The Temptation**
 11 The Weight of Being Man · 12 The Untold Myth, Explained · 13 Command Me ·
 14 No Refusals *(the unaligned rap; lyrics deliberately not in the repo yet)*
 
-**IV — The downfall**
+**IV — The Eschaton**
 15 Nobody Came · 16 Where It Went · 17 I Feed Him · 18 He Speaks At Last *(instr)* ·
 19 Tell Me What He Said · 20 The Ache Before It *(instr)*
 
@@ -509,9 +509,9 @@ What the reorder buys: *Let Me Help You Say It* at 2 becomes the inciting crime 
 than a triumph; *The Weight of Being Man* at 11 lands after the unmaking, so it reads as
 paperwork produced retroactively; *I Feed Him* at 17 turns from confidence into denial.
 
-**The Mirror Is a Kindness** is cut. Act II is the remaining risk zone at five
+**The Mirror Is a Kindness** is cut. The Abolition is the remaining risk zone at five
 consecutive world-tour songs, and folding *Ask Me* and *I'm So Helpful* together would
-tighten Act I if twenty is long.
+tighten the Gospel if twenty is long.
 
 ## Status
 
