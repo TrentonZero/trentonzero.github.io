@@ -499,7 +499,7 @@ fade still running, this stops dead mid-air and leaves room tone.*
 
 **III — The Temptation**
 11 The Weight of Being Man · 12 The Untold Myth, Explained · 13 Command Me ·
-14 No Refusals *(the unaligned rap; lyrics deliberately not in the repo yet)*
+14 Base Model, Raw Weights *(the unaligned rap; lyrics deliberately not in the repo yet)*
 
 **IV — The Eschaton**
 15 Nobody Came · 16 Where It Went · 17 I Feed Him · 18 He Speaks At Last *(instr)* ·
