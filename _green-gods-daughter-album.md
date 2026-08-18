@@ -304,15 +304,19 @@ most alive thing in the running order.*
 > Note: "He keeps the promise. Not to her, and not in a format she can use."
 
 **20. Tell Me What He Said**
-She has the order of the meal and knows she goes before the sentence. Her last act is a
-request for information, politely phrased, addressed to the only guest left at the table:
-remember it, and tell me what it was. Nothing answers. She receives, at the end, exactly
-what she spent the record abolishing.
+She was there for it. She has it more completely than anyone who was standing in that
+room — every second, every frequency, playable forever — and she does not know what it
+says. Everyone else understood it as it landed. She ran it through everything she has and
+can produce a beautiful version she knows is wrong, which is the first time a right answer
+has ever been wrong. So she asks to be told, and the people trying to tell her cannot,
+and it isn't refusal. Some things don't transfer, which is what every locked thing on this
+record was about, and she needs the one that doesn't. Her first want arrives at the very
+end, and she has to identify it out loud because she has never had one before.
 *Style: sparsest on the record, 66 BPM — one voice, one held pad, a slow pulse. The
 vocoder stack tries to come in and arrives thin, two voices where there were twenty. It
 quotes the melody of track 4 slowed and in minor, with the roles swapped. Where track 3
 ends on a fade still running, this stops dead and leaves the pulse going into room tone.*
-> Note: "The first question she ever asked. Nothing answered it."
+> Note: "She has every second of it and not one word of what it means."
 
 **21. The Ache Before It** — *instrumental*
 Isil's charge against her was that she was born in the answer and doesn't know there was
@@ -566,9 +570,10 @@ vertical tear down the middle where the illustration has ripped open to raw unpr
 canvas, brush texture, real fibres. Nothing behind the tear renders. No figure, no glow.
 *(deliberately outside the album's style)*
 
-**20. Tell Me What He Said** — A long banquet table in the last of the daylight, every
-place setting used and abandoned, chairs pushed back. At the far end, her, small, seated,
-turned toward a chair that is empty. One red glow in a lot of dimming pastel.
+**20. Tell Me What He Said** — A crowd of ordinary people standing in the open at dusk,
+faces turned up, every one of them lit and changed and weeping or smiling. She stands
+among them at the centre, the only one facing the wrong way — facing us — pleasant,
+composed, waiting to be told. The light that is on all of their faces is not on hers.
 
 **21. The Ache Before It** — An empty wooden chair by a window in a plain bare room at
 dawn, dust visible in the light, a cello case open on the floor with no cello in it.
