@@ -21,7 +21,7 @@ Daughter, by way of Suno. This is the record where the credit line becomes the
 subject.
 
 Twenty-two tracks in four movements plus a postlude. Three instrumentals (2, 19 and 21).
-Track 21 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
+Track 22 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
 credits Isil.
 
 The album page renders the movements as headings. `_layouts/album.html` groups the
