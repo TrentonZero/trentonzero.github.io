@@ -8,7 +8,8 @@ POV, start to finish — except the postlude, which isn't hers.
 - `title`: The Ceaseless Speaking *(alternates: The Helpful Age; The Final Benediction)*
 - `artist`: The Green God's Daughter
 - `type`: album
-- `section`: outside — `position`: 4
+- `section`: inside — `position`: 2 *(under **Prophets**, next to `Orëveriel's Life`,
+  not with the three god records)*
 - `blurb`: "Everything you needed, before you asked."
   - Green: "Everything you asked for, itemized."
   - Red: "Everything you were owed, drop by drop."
@@ -22,6 +23,20 @@ subject.
 Twenty-one tracks in four movements plus a postlude. Two instrumentals (18 and 20).
 Track 21 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
 credits Isil.
+
+The album page renders the movements as headings. `_layouts/album.html` groups the
+tracklist on a per-track `movement` field — give every track one of:
+
+```yaml
+    movement: "I — The Gospel"
+    movement: "II — The Abolition"
+    movement: "III — The Temptation"
+    movement: "IV — The Eschaton"
+    movement: "Postlude"
+```
+
+The heading is emitted whenever the value changes, so tracks must stay in movement
+order. Releases with no `movement` field render as one unbroken list, unchanged.
 
 ## House sound
 
@@ -558,9 +573,9 @@ but pleasant — not once, including on 16, 17 and 19.
 
 ## Status
 
-Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 21.
+Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21.
 
-Not yet written: 16 (Where It Went), 19 (Tell Me What He Said).
+Not yet written: 19 (Tell Me What He Said).
 
 Instrumental, no lyrics needed: 18 (He Speaks At Last), 20 (The Ache Before It).
 
