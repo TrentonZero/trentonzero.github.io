@@ -32,8 +32,31 @@ layout: default
     </div>
   </div>
 
-  <ol class="tracklist">
-    {% for track in page.tracks %}
+  {% comment %}
+    A release may group its tracks into movements by giving each track a
+    `movement` field. Every time that value changes the tracklist is closed
+    and reopened under a new heading, so the markup stays valid -- an <ol>
+    may only contain <li>. Releases with no `movement` anywhere render as a
+    single unbroken list, exactly as before.
+  {% endcomment %}
+  {% assign has_movements = false %}
+  {% for track in page.tracks %}
+    {% if track.movement and track.movement != "" %}
+      {% assign has_movements = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% assign current_movement = "" %}
+
+  {% for track in page.tracks %}
+    {% if has_movements and track.movement and track.movement != current_movement %}
+      {% unless forloop.first %}</ol>{% endunless %}
+      <h2 class="album-movement">{{ track.movement }}</h2>
+      <ol class="tracklist">
+      {% assign current_movement = track.movement %}
+    {% elsif forloop.first %}
+      <ol class="tracklist">
+    {% endif %}
       {% comment %}
         Anchor is derived from the title, not the position, so cross-album
         links keep working when a record is reordered or renumbered.
@@ -98,8 +121,8 @@ layout: default
         {% endif %}
 
       </li>
-    {% endfor %}
-  </ol>
+    {% if forloop.last %}</ol>{% endif %}
+  {% endfor %}
 
   <p class="album-back"><a href="/albums/">&laquo; All releases</a></p>
 
