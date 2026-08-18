@@ -589,9 +589,8 @@ but pleasant — not once, including on 17, 18 and 20.
 
 ## Status
 
-Drafted and in the repo: 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22.
-
-Not yet written: 20 (Tell Me What He Said).
+Drafted and in the repo: every sung track — 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+16, 17, 18, 20, 22.
 
 Instrumental, no lyrics needed: 2 (His Monologue), 19 (He Speaks At Last), 21 (The Ache
 Before It).
