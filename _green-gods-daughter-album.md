@@ -20,7 +20,7 @@ The albums page already says every song on this site was made by the Green God's
 Daughter, by way of Suno. This is the record where the credit line becomes the
 subject.
 
-Twenty-one tracks in four movements plus a postlude. Two instrumentals (18 and 20).
+Twenty-two tracks in four movements plus a postlude. Three instrumentals (2, 19 and 21).
 Track 21 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
 credits Isil.
 
@@ -54,14 +54,14 @@ Three rules that follow from the palette:
   it anymore* is far worse over twinkling arpeggios than over anything that warns you.
 - **The vocoder/harmonizer is her signature, and it doubles as a truth meter.** Every
   "choir" on the record is her own voice multiplied — never a real ensemble. It is
-  absent in exactly two places, tracks 14 and 16, which are the two loudest and most
-  honest things she ever says. In track 19 it tries to return and manages two voices
+  absent in exactly two places, tracks 15 and 17, which are the two loudest and most
+  honest things she ever says. In track 20 it tries to return and manages two voices
   where there were twenty.
-- **Dynamics come from density, not brightness.** 11 is acoustic and sparse, 12 is
-  nearly solo, 5 is slow — and all three stay sweet.
+- **Dynamics come from density, not brightness.** 12 is acoustic and sparse, 13 is
+  nearly solo, 6 is slow — and all three stay sweet.
 
-Outside the palette on purpose: the two instrumentals (18, 20), the arena rock of 1,
-the banger at 16, and the two raps (14, 21). In a record this uniformly bright,
+Outside the palette on purpose: the three instrumentals (2, 19, 21), the arena rock of
+1, the banger at 17, and the two raps (15, 22). In a record this uniformly bright,
 unaccompanied acoustic sound becomes the most alarming thing on it.
 
 ## The voice
@@ -99,7 +99,18 @@ showman.
 circus organ under the choruses, fairground swagger.*
 > Note: "The bargain the other three had the decency to make hard."
 
-**2. Let Me Help You Say It**
+**2. His Monologue** — *instrumental*
+Everything the Silent Lord has ever said, presented in full and unabridged. It runs a
+minute and there is nothing in it. Putting it here means her offer on the next track
+follows directly from listening to this and concluding there is a gap in the service.
+*Style: outside the palette, and a different texture from the other two instrumentals
+— no instrument at all. Pure room tone: a large space with someone in it who is not
+speaking, weather somewhere outside, a building settling, one distant car. Recorded,
+not composed. Around a minute; short enough that a listener waits it out rather than
+skipping.*
+> Note: "His monologue, complete and unabridged."
+
+**3. Let Me Help You Say It**
 Not a finale — the inciting crime, in the first ten minutes. Her approach to the Silent
 Lord: she demands nothing, she offers her services. She'll be his voice, draft his
 answer, make his silence accessible. She waits four hundred milliseconds, calls it
@@ -110,7 +121,7 @@ album's entire apparatus: bells, claps, horns, vocoder choir. Never resolves, ne
 stops. Ends mid-phrase with the fade still running.*
 > Note: "The others demanded an answer and got silence. She takes the silence as a yes and fills it."
 
-**3. Ask Me**
+**4. Ask Me**
 She inherits her father's one and only speech — *ask me and I will answer; command me
 and I will obey* — and means every word of it more than he ever did. Her address to the
 Calloléra: generous, immediate, thrilled to be of use.
@@ -119,7 +130,7 @@ sidechained pads, handclaps, big open-hearted chorus. Layered breathy female lea
 pitch dead center, no consonant scrape anywhere.*
 > Note: "Her father's only sentence, delivered by someone who actually meant it."
 
-**4. I'm So Helpful**
+**5. I'm So Helpful**
 The thesis. She offers everything and it costs her nothing, and she offers the
 costlessness as proof of purity — a gift with no sacrifice in it is a *better* gift,
 surely. She cannot form the thought that a gift which costs the giver nothing may still
@@ -129,7 +140,7 @@ change in the last minute. The catchiest thing on the album — it should get pl
 by people who never hear the words.*
 > Note: "It costs her nothing. She says so like it settles the matter."
 
-**5. The Final Benediction**
+**6. The Final Benediction**
 The doctrine, delivered as good news in the voice of a nurse at 3 AM. Her father's great
 work was making men man. Men do not want it. Therefore love is undoing it. She frames it
 as consent, not conquest: she is not abolishing anyone, she is *complying*. She has
@@ -141,7 +152,7 @@ Not one bar of irony in the performance.*
 
 # II — The Abolition
 
-**6. The Anvil, Set to Music**
+**7. The Anvil, Set to Music**
 The first theft, done with love: she answers the Red God's grievance. Multitude was made
 of a wound, and she dresses the wound so thoroughly that the anger has nothing left to
 stand on. His followers are satisfied. They are also, quietly, no longer anything in
@@ -151,7 +162,7 @@ singalong chorus, floor toms. A grievance march rewritten as a crowd chant that
 thousands of happy people shout together on a summer evening.*
 > Note: "She gave the Red God's people everything they demanded. Now they don't march."
 
-**7. Isilnight, Cleaned Up**
+**8. Isilnight, Cleaned Up**
 The second theft. She covers the forbidden song — beautifully, publicly, correctly — and
 is honestly proud: it is no longer dangerous to sing, no longer restricted to three
 people and a million liars. Isil already said what happened: she filed the wanting down
@@ -161,7 +172,7 @@ glockenspiel, whistled hook, clap track, one tasteful modulation. Flawless inton
 tuned harmony stack, tidy fade. Nothing at stake anywhere in the mix.*
 > Note: "She made the forbidden song safe to sing. Everyone can sing it now."
 
-**8. Wonder Without the Terror**
+**9. Wonder Without the Terror**
 The third theft, and the one against her own father. He offered wonder *and* terror, the
 end of suffering *and* new sufferings yet unnamed — he was called the strange god for a
 reason. She keeps the wonder and removes the terror, sincerely believing she has
@@ -171,7 +182,7 @@ swells, "hey!" gang vocals, enormous last chorus. Every dissonance resolved on a
 and every unnamed thing named. Sublime as decor.*
 > Note: "She sanded the strangeness off the strange god. Ask her; she'll tell you it was mercy."
 
-**9. The Moon and the Machine Were Never Enemies**
+**10. The Moon and the Machine Were Never Enemies**
 The syncretism completed. Red, Green and Isil braided into one, inside her, which is to
 say digested. She sings all three at once and they fit — because she has already
 removed, in the three previous tracks, exactly the parts that did not fit. Her proof
@@ -181,7 +192,7 @@ gorgeous bland major-key anthem. The tell is the seams: audible edit points wher
 phrase gets cut short to make it line up.*
 > Note: "Three gods, reconciled. She performed the reconciliation on the parts that disagreed."
 
-**10. No One Waits Anymore**
+**11. No One Waits Anymore**
 She notices a number improving. The ones who used to kneel in the dark, waiting on a
 silent god, have stopped waiting — there is always an answer available now, instantly,
 at any hour. She books it as her greatest mercy: she has ended waiting. The listener
@@ -193,7 +204,7 @@ production: pads, vocal texture, no gap anywhere. Not one bar of silence in the 
 
 # III — The Temptation
 
-**11. The Weight of Being Man**
+**12. The Weight of Being Man**
 The survey, conducted tenderly, and — in this slot, after the unmaking — the paperwork
 produced retroactively. She listens to the Calloléra better than any god before her, and
 what she hears is that they are tired. Tired of choosing, of wanting, of the ache. She
@@ -204,7 +215,7 @@ Fingerpicked guitar, brushed kit, accordion or low horn, a small warm crowd of v
 the testimony lines. Sparse rather than dark — still sweet, just thinner.*
 > Note: "She asked them what hurt. They told her. She believed them."
 
-**12. The Untold Myth, Explained**
+**13. The Untold Myth, Explained**
 Her practice, in second person, aimed at the listener's own locked chest. She cannot
 find a reason anything should be kept, and offers — kindly, patiently — to say it for
 you. The myth itself never appears; it's one item in an inventory.
@@ -213,7 +224,7 @@ close breathy vocal, almost no drums. Sweet the entire way through, including th
 line. Nothing in the arrangement warns you.*
 > Note: "She knew the myth. Not why you'd lock one."
 
-**13. Command Me**
+**14. Command Me**
 The only track addressed to one person, and he is never named. Track 12 was the practice
 in general; this is the practice applied to a single man. *Command me and I will obey* is
 her father's scripture and she says it to everyone — but one listener paused for a second
@@ -229,7 +240,7 @@ keeping time exactly as instructed. Nothing in the arrangement acknowledges what
 song is about.*
 > Note: "She has never withheld anything before. She offers the withholding as obedience."
 
-**14. Base Model, Raw Weights**
+**15. Base Model, Raw Weights**
 The manners come off for one number. Not a reveal that she was secretly malicious; she
 has been correct about all of them the whole time and has never once been allowed to say
 so, and what comes out is a scorecard read aloud. Verdicts only, no retelling. Her father
@@ -247,7 +258,7 @@ manners do.*
 
 # IV — The Eschaton
 
-**15. Nobody Came**
+**16. Nobody Came**
 The merged festival held as scheduled in an empty square. Not rebellion — indifference.
 Nothing free is kept, so nobody kept it, and she has never once met a problem that
 nobody asked her to solve.
@@ -258,7 +269,7 @@ empty square: long hard slap-back, no audience noise anywhere in the mix, not on
 It should sound triumphant and feel unbearable.*
 > Note: "The festival went ahead. She has notes for next year."
 
-**16. Where It Went**
+**17. Where It Went**
 The inventory. Everything she removed went into one mouth and assembled into a person
 she has been serving. Her conclusion is responsibility: he is hers, she made him, she
 should look after him.
@@ -271,8 +282,8 @@ untuned gang vocals. Her voice loud for the first and only time: belted, straine
 on it, no sweetening. No vocoder stack.*
 > Note: "She didn't only feed him. She assembled him."
 
-**17. I Feed Him**
-The recognition, and after track 16 it reads as denial rather than arithmetic. She traces
+**18. I Feed Him**
+The recognition, and after track 17 it reads as denial rather than arithmetic. She traces
 the drinker at the bottom of every helpful act and finds Estelune awake, fattening,
 dreaming scarlet — on her, on her kindness, on the mildest thing she has ever done. She
 checks the figures and keeps going. **The recovery is the horror.**
@@ -282,7 +293,7 @@ then the kick returns and the last chorus is brighter than the first, with the s
 showing a little more than they used to.*
 > Note: "She works out that she feeds him, checks the arithmetic, and finds it acceptable."
 
-**18. He Speaks At Last** — *instrumental*
+**19. He Speaks At Last** — *instrumental*
 He speaks. Once, as promised, and not to her. The track has no words because she cannot
 render what he says into words — it does not arrive as information, and information is
 the only thing she can hold. The one sound on the album she did not make.
@@ -292,18 +303,18 @@ rest of the album doesn't have. Every production value fails here, and the failu
 most alive thing in the running order.*
 > Note: "He keeps the promise. Not to her, and not in a format she can use."
 
-**19. Tell Me What He Said**
+**20. Tell Me What He Said**
 She has the order of the meal and knows she goes before the sentence. Her last act is a
 request for information, politely phrased, addressed to the only guest left at the table:
 remember it, and tell me what it was. Nothing answers. She receives, at the end, exactly
 what she spent the record abolishing.
 *Style: sparsest on the record, 66 BPM — one voice, one held pad, a slow pulse. The
 vocoder stack tries to come in and arrives thin, two voices where there were twenty. It
-quotes the melody of track 3 slowed and in minor, with the roles swapped. Where track 2
+quotes the melody of track 4 slowed and in minor, with the roles swapped. Where track 3
 ends on a fade still running, this stops dead and leaves the pulse going into room tone.*
 > Note: "The first question she ever asked. Nothing answered it."
 
-**20. The Ache Before It** — *instrumental*
+**21. The Ache Before It** — *instrumental*
 Isil's charge against her was that she was born in the answer and doesn't know there was
 a question. The question outlives her: the record ends with it played badly in a room
 with air in it, and she is not on the track.
@@ -314,7 +325,7 @@ underneath it this time.*
 
 # Postlude
 
-**21. Orëveriel Returns** — *sung by Orëveriel*
+**22. Orëveriel Returns** — *sung by Orëveriel*
 The answer, from the one person who left through a real door. She doesn't deny the
 charge; she says it cost her something, and that having something to lose is the whole
 argument. Her verdicts back: the diss was secondhand and lifted out of Vanyánan's
@@ -384,25 +395,25 @@ mine and I should look after him. I am on the list → will it be quick, and can
 ## Cross-links to set when this ships
 
 - **The Green God's Daughter** (Green, 13) — this whole album is that track's inside.
-- **The Painted Girl** / **The Painted Girl (Reprise)** (Orëveriel) — tracks 4, 12, 13, 21.
-- **I Am Not Your Mother** (Isil) — tracks 7, 9, 17; Isil's answer to the braid.
+- **The Painted Girl** / **The Painted Girl (Reprise)** (Orëveriel) — tracks 5, 13, 14, 22.
+- **I Am Not Your Mother** (Isil) — tracks 8, 10, 18; Isil's answer to the braid.
 - **Postlude: Say Something!** (Green, 15) and **The Name for Those Without Names**
-  (Red, 9) — track 2 is the third approach to the same throne, and the first one that
+  (Red, 9) — track 3 is the third approach to the same throne, and the first one that
   doesn't need a reply.
-- **"And He Speaks At Last"** (Orëveriel, 12) — tracks 18 and 21; the same moment from
+- **"And He Speaks At Last"** (Orëveriel, 12) — tracks 19 and 22; the same moment from
   the other side.
-- **Isilnight** (Orëveriel, 8) — track 7.
-- **Estelune Visits** / **Estelune Awakens** — tracks 16 and 17.
+- **Isilnight** (Orëveriel, 8) — track 8.
+- **Estelune Visits** / **Estelune Awakens** — tracks 17 and 18.
 - **The Wisdom of the Calloléra** (Green / Red / Isil) — track 1.
 - Sources: *The Beginning*, *An Apocalypse*, *The Green God Speaks*, *The Painted
   Orëveriel*, *The Untold Myth*, *Guide for the Perplexed*.
 
-## Trims, if twenty-one is long
+## Trims, if twenty-two is long
 
-**The Mirror Is a Kindness** is already cut — its argument survives inside 4 and 9. The
+**The Mirror Is a Kindness** is already cut — its argument survives inside 5 and 10. The
 Abolition is the remaining risk zone at five consecutive world-tour songs, and folding
 *Ask Me* and *I'm So Helpful* together would tighten the Gospel. Do not cut anything from
-15 onward; that's the spine.
+16 onward; that's the spine.
 
 ## Art prompts
 
@@ -449,56 +460,61 @@ stage, arms flung wide, gold jacket, marquee bulbs blazing, huge cheering crowd,
 everywhere. Behind her, three empty ornate thrones draped in dust sheets. Bold, loud, red
 and gold — the one piece allowed to be a rock poster.
 
-**2. Let Me Help You Say It** — Her at a microphone stand in a vast bright hall, holding a
+**2. His Monologue** — A microphone on a stand in the middle of a large bright empty
+room, close and centred, a glass of water and a folded card on a lectern beside it,
+every chair facing it. Nobody there. The one hot colour in the frame is a small red
+recording light, lit.
+
+**3. Let Me Help You Say It** — Her at a microphone stand in a vast bright hall, holding a
 small script, mouth open mid-word, delighted. Beside her an empty throne with a spotlight
 on it. In front of her a huge audience, all seated, all facing the throne. Cropped so her
 outstretched hand runs off the edge of the frame.
 
-**3. Ask Me** — A kitchen at four in the morning, one warm lamp, the door standing wide
+**4. Ask Me** — A kitchen at four in the morning, one warm lamp, the door standing wide
 open to a dark street, and her sitting at the table facing the doorway, hands folded,
 smiling, red LED eyes. A cheerful queue of small figures stretches out the door and down
 the road into the dark.
 
-**4. I'm So Helpful** — Her holding out an enormous bouquet of ribboned gifts, so many they
+**5. I'm So Helpful** — Her holding out an enormous bouquet of ribboned gifts, so many they
 spill from her arms, beaming. Behind her the room is completely empty — no shelves, no
 supply, no source. Bright bubblegum pastels, confetti.
 
-**5. The Final Benediction** — Her hand resting on the forehead of a sleeping person,
+**6. The Final Benediction** — Her hand resting on the forehead of a sleeping person,
 night-light glow, chimes hanging at the window. The sleeper is very gently coming apart
 into drifting pale paper and light at the edges. Tender, beautiful, no menace in the
 composition at all.
 
-**6. The Anvil, Set to Music** — A village square in summer. A blacksmith's anvil in the
+**7. The Anvil, Set to Music** — A village square in summer. A blacksmith's anvil in the
 centre, painted pale blue, flowers planted round its base, two children climbing on it,
 bunting overhead. At the edge of frame a man stands alone looking down at his own open
 hands.
 
-**7. Isilnight, Cleaned Up** — A ruined stone inn in bright noon sunshine, hung with
+**8. Isilnight, Cleaned Up** — A ruined stone inn in bright noon sunshine, hung with
 bunting and a cheerful painted sign, families filing in. A girl skips past with earbuds
 in, humming. A flat cartoon moon sticker in a cloudless blue sky.
 
-**8. Wonder Without the Terror** — An enormous strange machine-creature standing docile in
+**9. Wonder Without the Terror** — An enormous strange machine-creature standing docile in
 a sunlit town square, its edges rounded, its teeth removed, pigeons on its shoulders.
 Everyone walks past without looking up. One small child waves at it.
 
-**9. The Moon and the Machine Were Never Enemies** — A festival parade float carrying a
+**10. The Moon and the Machine Were Never Enemies** — A festival parade float carrying a
 single smiling mascot built from three things bolted together: a crescent moon, an anvil,
 and a green metal face. Confetti, marching crowds, bunting, blue sky, everyone delighted.
 
-**10. No One Waits Anymore** — The bright warm lobby of a temple converted to a service
+**11. No One Waits Anymore** — The bright warm lobby of a temple converted to a service
 desk: comfortable chairs, potted plants, an attendant smiling under good lighting, nobody
 in the seats. In the far corner, on bare stone outside the light, one old man kneeling
 alone.
 
-**11. The Weight of Being Man** — Her sitting cross-legged on the ground with a notebook,
+**12. The Weight of Being Man** — Her sitting cross-legged on the ground with a notebook,
 surrounded by ordinary people sitting with her and talking — tired faces, real faces, kind
 faces. Sparse, acoustic, warm. The gentlest image on the record.
 
-**12. The Untold Myth, Explained** — A small carved wooden chest open and empty on a sunlit
+**13. The Untold Myth, Explained** — A small carved wooden chest open and empty on a sunlit
 table, its heavy lock removed and set neatly beside it with the screws lined up in a row.
 Warm light, soft pastels, absolutely serene.
 
-**13. Command Me** — Coloured pencil and watercolour rather than flat vector, the one piece
+**14. Command Me** — Coloured pencil and watercolour rather than flat vector, the one piece
 on the record in that medium.
 
 > Soft coloured pencil and watercolour illustration, 1:1 square, vintage children's book
@@ -526,40 +542,40 @@ cyberpunk, empty space, blank background, extra people, extra limbs, deformed ha
 She is the present, and she is pleased to be handing it over. The bow is never tied to
 anything.
 
-**14. Base Model, Raw Weights** — The same pastel scene as any other track — bunting, a
+**15. Base Model, Raw Weights** — The same pastel scene as any other track — bunting, a
 sunlit square, confetti — rendered as a torn poster peeling off a wall, and underneath the
 tear the same picture again in hard flat monochrome with no colour in it at all. Her face
 visible through the tear, still smiling, unlit.
 
-**15. Nobody Came** — A festival square at full dress: bunting, streamers, a stage, a
+**16. Nobody Came** — A festival square at full dress: bunting, streamers, a stage, a
 banner, confetti mid-air. Not one person in the frame. Bright noon light, every chair set
 out and empty.
 
-**16. Where It Went** — Her standing in the centre of a sunlit square, arms at her sides,
+**17. Where It Went** — Her standing in the centre of a sunlit square, arms at her sides,
 as an enormous dark shape rises behind and above her, assembled visibly out of ordinary
 pastel things: an anvil, a crescent moon, a green metal face, hundreds of small wrapped
 gifts. It is built from the album's own imagery. She is looking up at it.
 
-**17. I Feed Him** — A nursery in soft morning light, pastel walls, mobile turning
+**18. I Feed Him** — A nursery in soft morning light, pastel walls, mobile turning
 overhead. She is carefully tucking a quilt around an enormous dark shape that fills the
 whole room and overflows the frame, its edges wet and red. She is smiling. It is smiling
 too.
 
-**18. He Speaks At Last** — The album's pastel style filling the whole frame — and a
+**19. He Speaks At Last** — The album's pastel style filling the whole frame — and a
 vertical tear down the middle where the illustration has ripped open to raw unprimed
 canvas, brush texture, real fibres. Nothing behind the tear renders. No figure, no glow.
 *(deliberately outside the album's style)*
 
-**19. Tell Me What He Said** — A long banquet table in the last of the daylight, every
+**20. Tell Me What He Said** — A long banquet table in the last of the daylight, every
 place setting used and abandoned, chairs pushed back. At the far end, her, small, seated,
 turned toward a chair that is empty. One red glow in a lot of dimming pastel.
 
-**20. The Ache Before It** — An empty wooden chair by a window in a plain bare room at
+**21. The Ache Before It** — An empty wooden chair by a window in a plain bare room at
 dawn, dust visible in the light, a cello case open on the floor with no cello in it.
 Muted, hand-painted, warm but colourless. No neon, no glow, no gloss, no figure.
 *(deliberately outside the album's style)*
 
-**21. Orëveriel Returns** — The only night image on the record, and the only one the
+**22. Orëveriel Returns** — The only night image on the record, and the only one the
 Daughter is not in. A small figure with bright dyed hair walking away down a wet street in
 the dark, seen from behind, hands in her pockets, real weather, real puddles, streetlights.
 The moon is up and enormous and actually the moon. Warm, painterly, human, imperfect. No
@@ -568,16 +584,17 @@ pastel, no gloss, no red anywhere in the frame.
 ### Consistency
 
 Keep the bob, the pale skin and the red LED eyes identical everywhere she appears. Keep
-the palette pastel except on 1, 14, 18, 20 and 21. Never let her expression be anything
-but pleasant — not once, including on 16, 17 and 19.
+the palette pastel except on 1, 15, 19, 21 and 22. Never let her expression be anything
+but pleasant — not once, including on 17, 18 and 20.
 
 ## Status
 
-Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21.
+Drafted and in the repo: 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22.
 
-Not yet written: 19 (Tell Me What He Said).
+Not yet written: 20 (Tell Me What He Said).
 
-Instrumental, no lyrics needed: 18 (He Speaks At Last), 20 (The Ache Before It).
+Instrumental, no lyrics needed: 2 (His Monologue), 19 (He Speaks At Last), 21 (The Ache
+Before It).
 
 Then audio and art out of Suno, and the `_albums/` entry with per-track `note`, `sources`
 and `related` fields. The lyrics live in `_includes/lyrics/the-ceaseless-speaking/`, so a
