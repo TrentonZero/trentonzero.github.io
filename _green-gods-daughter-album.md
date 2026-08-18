@@ -558,9 +558,9 @@ but pleasant — not once, including on 16, 17 and 19.
 
 ## Status
 
-Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 17, 21.
+Drafted and in the repo: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 21.
 
-Not yet written: 15 (Nobody Came), 16 (Where It Went), 19 (Tell Me What He Said).
+Not yet written: 16 (Where It Went), 19 (Tell Me What He Said).
 
 Instrumental, no lyrics needed: 18 (He Speaks At Last), 20 (The Ache Before It).
 
