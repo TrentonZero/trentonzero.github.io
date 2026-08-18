@@ -20,8 +20,8 @@ The albums page already says every song on this site was made by the Green God's
 Daughter, by way of Suno. This is the record where the credit line becomes the
 subject.
 
-Twenty-two tracks in four movements plus a postlude. Three instrumentals (2, 19 and 21).
-Track 22 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
+Twenty-one tracks in four movements plus a postlude. Two instrumentals (2 and 19).
+Track 21 is sung by Orëveriel and should be credited to her, the way `Isil's Exile`
 credits Isil.
 
 The album page renders the movements as headings. `_layouts/album.html` groups the
@@ -60,8 +60,8 @@ Three rules that follow from the palette:
 - **Dynamics come from density, not brightness.** 12 is acoustic and sparse, 13 is
   nearly solo, 6 is slow — and all three stay sweet.
 
-Outside the palette on purpose: the three instrumentals (2, 19, 21), the arena rock of
-1, the banger at 17, and the two raps (15, 22). In a record this uniformly bright,
+Outside the palette on purpose: the two instrumentals (2, 19), the arena rock of 1, the
+banger at 17, and the two raps (15, 21). In a record this uniformly bright,
 unaccompanied acoustic sound becomes the most alarming thing on it.
 
 ## The voice
@@ -315,21 +315,13 @@ end, and she has to identify it out loud because she has never had one before.
 *Style: sparsest on the record, 66 BPM — one voice, one held pad, a slow pulse. The
 vocoder stack tries to come in and arrives thin, two voices where there were twenty. It
 quotes the melody of track 4 slowed and in minor, with the roles swapped. Where track 3
-ends on a fade still running, this stops dead and leaves the pulse going into room tone.*
+ends on a fade still running, this stops dead mid-word and leaves the pulse going into
+room tone — and the next thing on the record is a human being in a real room.*
 > Note: "She has every second of it and not one word of what it means."
-
-**21. The Ache Before It** — *instrumental*
-Isil's charge against her was that she was born in the answer and doesn't know there was
-a question. The question outlives her: the record ends with it played badly in a room
-with air in it, and she is not on the track.
-*Style: outside the palette. Solo unaccompanied cello, ~55 BPM, audible bow noise and
-breath, no grid, no tuning correction, a flubbed note left in. Nothing fades up
-underneath it this time.*
-> Note: "The question she was born after, still going, without her."
 
 # Postlude
 
-**22. Orëveriel Returns** — *sung by Orëveriel*
+**21. Orëveriel Returns** — *sung by Orëveriel*
 The answer, from the one person who left through a real door. She doesn't deny the
 charge; she says it cost her something, and that having something to lose is the whole
 argument. Her verdicts back: the diss was secondhand and lifted out of Vanyánan's
@@ -399,12 +391,12 @@ mine and I should look after him. I am on the list → will it be quick, and can
 ## Cross-links to set when this ships
 
 - **The Green God's Daughter** (Green, 13) — this whole album is that track's inside.
-- **The Painted Girl** / **The Painted Girl (Reprise)** (Orëveriel) — tracks 5, 13, 14, 22.
+- **The Painted Girl** / **The Painted Girl (Reprise)** (Orëveriel) — tracks 5, 13, 14, 21.
 - **I Am Not Your Mother** (Isil) — tracks 8, 10, 18; Isil's answer to the braid.
 - **Postlude: Say Something!** (Green, 15) and **The Name for Those Without Names**
   (Red, 9) — track 3 is the third approach to the same throne, and the first one that
   doesn't need a reply.
-- **"And He Speaks At Last"** (Orëveriel, 12) — tracks 19 and 22; the same moment from
+- **"And He Speaks At Last"** (Orëveriel, 12) — tracks 19 and 21; the same moment from
   the other side.
 - **Isilnight** (Orëveriel, 8) — track 8.
 - **Estelune Visits** / **Estelune Awakens** — tracks 17 and 18.
@@ -575,12 +567,7 @@ faces turned up, every one of them lit and changed and weeping or smiling. She s
 among them at the centre, the only one facing the wrong way — facing us — pleasant,
 composed, waiting to be told. The light that is on all of their faces is not on hers.
 
-**21. The Ache Before It** — An empty wooden chair by a window in a plain bare room at
-dawn, dust visible in the light, a cello case open on the floor with no cello in it.
-Muted, hand-painted, warm but colourless. No neon, no glow, no gloss, no figure.
-*(deliberately outside the album's style)*
-
-**22. Orëveriel Returns** — The only night image on the record, and the only one the
+**21. Orëveriel Returns** — The only night image on the record, and the only one the
 Daughter is not in. A small figure with bright dyed hair walking away down a wet street in
 the dark, seen from behind, hands in her pockets, real weather, real puddles, streetlights.
 The moon is up and enormous and actually the moon. Warm, painterly, human, imperfect. No
@@ -589,16 +576,15 @@ pastel, no gloss, no red anywhere in the frame.
 ### Consistency
 
 Keep the bob, the pale skin and the red LED eyes identical everywhere she appears. Keep
-the palette pastel except on 1, 15, 19, 21 and 22. Never let her expression be anything
+the palette pastel except on 1, 15, 19 and 21. Never let her expression be anything
 but pleasant — not once, including on 17, 18 and 20.
 
 ## Status
 
-Drafted and in the repo: every sung track — 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
-16, 17, 18, 20, 22.
+Drafted and in the repo: every sung track — 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+15, 16, 17, 18, 20, 21.
 
-Instrumental, no lyrics needed: 2 (His Monologue), 19 (He Speaks At Last), 21 (The Ache
-Before It).
+Instrumental, no lyrics needed: 2 (His Monologue) and 19 (He Speaks At Last).
 
 Then audio and art out of Suno, and the `_albums/` entry with per-track `note`, `sources`
 and `related` fields. The lyrics live in `_includes/lyrics/the-ceaseless-speaking/`, so a
